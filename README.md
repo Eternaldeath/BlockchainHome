@@ -1,6 +1,6 @@
 # blockchainHome
-构建区块链学习的知识体系合集
-![仓库完成度](https://https://img.shields.io/badge/%E4%BB%93%E5%BA%93%E5%AE%8C%E6%88%90%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E6%B7%BB%E5%8A%A0-green)
+- 构建区块链学习的知识体系合集和学习路线
+- 仓库正在构建中 ... 
 
 # 图书
 ## 科普向
