@@ -47,10 +47,11 @@
 - [solidity 语言](https://docs.soliditylang.org/en/develop/)
 - [web3.js](https://github.com/ChainSafe/web3.js)
 
-# 相关论坛和新闻平台
+# 相关论坛，新闻平台
 - 以太坊爱好者
 
 # 平台与开发
+- [bitcoin 托管【github】](https://github.com/bitcoin)
 - 以太坊
 - Lisk
 - 腾讯区块链
