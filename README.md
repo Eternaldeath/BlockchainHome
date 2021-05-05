@@ -1,6 +1,8 @@
 # blockchainHome
-- 构建区块链学习的知识体系合集和学习路线
-- 仓库正在构建中 ... 
+- 构建区块链学习的知识库（比特币相关知识，区块链相关知识，密码学相关知识，分布式相关知识，经济学和博弈论相关知识）
+- 搜集区块链学习的各种资料，且尽可能选择最新的和经典的内容，剔除冗余的，劣质的内容
+- 区块链学习路线可以点击此链接
+- 仓库正在构建与更新中 ... 
 
 # 图书
 ## 科普向
@@ -24,6 +26,33 @@
 - 《精通以太坊》
 - 《区块链核心算法解析》
 - 《区块链：原理，设计与应用》
+- 《深度探索区块链：Hyperledger 技术与应用》
+- 《Hyperledger 源码分析之 Fabric》
+- 《图解密码技术》
 ## 白皮书
 - [《比特币白皮书（中文版）》](https://pan.baidu.com/s/1VoCN2CmsIZZjDygNbkRjuQ)：中本聪发表的比特币论文 | 【提取码：hdsh】
 - [《比特币白皮书（英文版）》](https://pan.baidu.com/s/1nD-S9n95Xstp0Bsw6v9Xig)：中本聪发表的比特币论文 | 【提取码：q548】
+- 工信部白皮书
+- 腾讯区块链白皮书
+- [以太坊白皮书](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+
+【注】白皮书是指政府，会议公开发表的有关重大问题的文件
+
+# 视频课程
+- [普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
+- [区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
+- Coursera 公开课：比特币和数字货币技术
+
+# 相关框架和语言
+- [solidity 语言](https://docs.soliditylang.org/en/develop/)
+- [web3.js](https://github.com/ChainSafe/web3.js)
+
+# 相关论坛和新闻平台
+- 以太坊爱好者
+
+# 平台与开发
+- 以太坊
+- Lisk
+- 腾讯区块链
+- 蚂蚁区块链
+- IBM 区块链开发平台
