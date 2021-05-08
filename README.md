@@ -29,6 +29,10 @@
 - 《深度探索区块链：Hyperledger 技术与应用》
 - 《Hyperledger 源码分析之 Fabric》
 - 《图解密码技术》
+- 《区块链：通往资产数字化之路》
+- 《精通以太坊智能合约开发》
+- 《区块链驱动金融》
+- 《区块链的数学原理》
 ## 白皮书
 - [《比特币白皮书（中文版）》](https://pan.baidu.com/s/1VoCN2CmsIZZjDygNbkRjuQ)：中本聪发表的比特币论文 | 【提取码：hdsh】
 - [《比特币白皮书（英文版）》](https://pan.baidu.com/s/1nD-S9n95Xstp0Bsw6v9Xig)：中本聪发表的比特币论文 | 【提取码：q548】
