@@ -65,5 +65,8 @@
 - 蚂蚁区块链
 - IBM 区块链开发平台
 
+# 产业报告
+- [区块链产业全景图_2020_中国平安](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E5%9B%BE_2020_%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89.pdf)
+
 # 导航
 - [区块链数据导航](https://ytm.ltd/)
