@@ -23,7 +23,7 @@
 - [《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
 - [《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
 - 《精通区块链编程》
-- 《精通以太坊》
+- [《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)
 - 《区块链核心算法解析》
 - 《区块链：原理，设计与应用》
 - 《深度探索区块链：Hyperledger 技术与应用》
