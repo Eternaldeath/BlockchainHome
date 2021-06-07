@@ -58,6 +58,9 @@
 
 # 相关论坛，新闻平台
 - 以太坊爱好者
+- 巴比特
+- 非小号
+- 金色财经：区块链方面投资
 
 # 平台与开发
 - [bitcoin 托管【github】](https://github.com/bitcoin)
