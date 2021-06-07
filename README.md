@@ -19,6 +19,7 @@
 - 《比特币：一个虚幻而真实的金融世界》
 - 《区块链十年》
 - 《产业区块链》
+- [以太坊爱好者知识库](https://ethfans.org/wikis/Home): 系列关于以太坊的科普贴
 ## 技术向
 - [《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
 - [《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
