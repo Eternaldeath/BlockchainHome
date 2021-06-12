@@ -75,5 +75,6 @@
 - [区块链产业全景图_2020_中国平安](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E5%9B%BE_2020_%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89.pdf)
 - [区块链应用概览_2021_头豹](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E6%A6%82%E8%A7%88_2021_%E5%A4%B4%E8%B1%B9.pdf)
 - [中国区块链政策现状及趋势分析报告_2009_人民创投](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%8F%8A%E8%B6%8B%E5%8A%BF%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A_2009_%E4%BA%BA%E6%B0%91%E5%88%9B%E6%8A%95.pdf)
+- [全球区块链产业全景与趋势_2021_火币研究院](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%85%A8%E7%90%83%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E4%B8%8E%E8%B6%8B%E5%8A%BF_2021_%E7%81%AB%E5%B8%81%E7%A0%94%E7%A9%B6%E9%99%A2.pdf)
 # 导航
 - [区块链数据导航](https://ytm.ltd/)
