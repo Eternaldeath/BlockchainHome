@@ -64,12 +64,19 @@
 - 金色财经：区块链方面投资
 
 # 平台与开发
-- [bitcoin 托管【github】](https://github.com/bitcoin)
-- 以太坊
-- Lisk
-- 腾讯区块链
-- 蚂蚁区块链
-- IBM 区块链开发平台
+- 公链
+  - 比特币
+    - [比特币中文官网](https://bitcoin.org/zh_CN/)
+    - [比特币 github](https://github.com/bitcoin)
+  - [以太坊](https://ethereum.org/zh/)
+  - [conflux](https://confluxnetwork.org/zh/)（国内比较早的公链）
+- 侧链
+  - [Lisk](https://lisk.com/)
+- 联盟链
+  - [腾讯区块链](https://trustsql.qq.com/)
+  - [蚂蚁区块链](https://antchain.antgroup.com/)
+  - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
+
 
 # 产业报告
 - [区块链产业全景图_2020_中国平安](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E5%9B%BE_2020_%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89.pdf)
