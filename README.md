@@ -49,19 +49,29 @@
 【注】白皮书是指政府，会议公开发表的有关重大问题的文件
 
 # 视频课程
-- [普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
-- [区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
-- Coursera 公开课：比特币和数字货币技术
+- 理论公开课
+  - [普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
+  - [区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
+  - Coursera 公开课：比特币和数字货币技术
+ - 编程开发课
+  - 公链底层开发
+    - [至今为止最好的区块链教程都在这里了](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
+    - [Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
+    - [尚硅谷区块链全套教程完整版](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0)
+  - dapp 应用开发
+    - [以太坊 dapp 开发教程](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
 
-# 相关框架和语言
-- [solidity 语言](https://docs.soliditylang.org/en/develop/)
+# 相关框架和开发语言
+- [go](https://golang.org/)
+- [solidity](https://docs.soliditylang.org/)
 - [web3.js](https://github.com/ChainSafe/web3.js)
 
-# 相关论坛，新闻平台
-- 以太坊爱好者
-- 巴比特
-- 非小号
-- 金色财经：区块链方面投资
+# 相关论坛，新闻咨询平台
+- [以太坊爱好者](https://ethfans.org/)
+- [巴比特](https://www.8btc.com/)
+- [非小号](https://www.feixiaohao.co/)
+- [金色财经](https://www.jinse.com/)
+- [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 
 # 平台与开发
 - 公链
@@ -69,7 +79,7 @@
     - [比特币中文官网](https://bitcoin.org/zh_CN/)
     - [比特币 github](https://github.com/bitcoin)
   - [以太坊](https://ethereum.org/zh/)
-  - [conflux](https://confluxnetwork.org/zh/)（国内比较早的公链）
+  - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
 - 侧链
   - [Lisk](https://lisk.com/)
 - 联盟链
