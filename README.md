@@ -46,6 +46,7 @@
 - 2018年中国区块链产业白皮书
 - [蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
 - 信任经济的崛起_2020中国区块链发展报告
+- [IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
 
 【注】白皮书是指政府，会议公开发表的有关重大问题的文件
 
@@ -83,6 +84,7 @@
     - [比特币 github](https://github.com/bitcoin)
   - [以太坊](https://ethereum.org/zh/)
   - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
+  - [ipfs](https://ipfs.io/)
 - 侧链
   - [Lisk](https://lisk.com/)
 - 联盟链
