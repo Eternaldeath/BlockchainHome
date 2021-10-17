@@ -46,7 +46,11 @@
 - 2018年中国区块链产业白皮书
 - [蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
 - 信任经济的崛起_2020中国区块链发展报告
-- [IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
+- [IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html
+- [华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
+- 
+
+
 
 【注】白皮书是指政府，会议公开发表的有关重大问题的文件
 
