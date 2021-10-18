@@ -42,26 +42,23 @@
     - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)
 - [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
   - :white_check_mark:《如何投资数字货币》 
+## 白皮书
+> 白皮书是指政府，会议公开发表的有关重大问题的文件
+- 在线链接
+  - 以太坊白皮书 [（中文版）](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) [（英文版）](https://github.com/ethereum/wiki/wiki/White-Paper)
+  - [华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
+  - [蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
+  - IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
+- [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
+- :white_check_mark:比特币白皮书
+- :white_check_mark:2019 腾讯区块链白皮书
+- :white_check_mark:中国数字人民币的研发进展白皮书
+- :white_check_mark:腾讯隐私计算白皮书
+- :white_check_mark:2018年中国区块链产业白皮书
+- 信任经济的崛起_2020中国区块链发展报告
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
-## [白皮书](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
-- 比特币白皮书
-- [以太坊白皮书（英文）](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [以太坊白皮书（中文）](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
-- 2019 腾讯区块链白皮书
-- 中国数字人民币的研发进展白皮书
-- 腾讯隐私计算白皮书
-- 2018年中国区块链产业白皮书
-- [蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
-- 信任经济的崛起_2020中国区块链发展报告
-- [IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html
-- [华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
-- 
-
-
-
-【注】白皮书是指政府，会议公开发表的有关重大问题的文件
 
 # 视频课程
 - 理论公开课
