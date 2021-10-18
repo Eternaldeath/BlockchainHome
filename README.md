@@ -3,10 +3,12 @@
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
 - 为什么创建？1. 目前很多区块链资源仓库很久没有进行更新了；2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
-- 更新：目前仓库按照一周一更的速度，正处于仓库内容的充实阶段 
+- 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段 
 
 # 图书
-## 科普向
+## 科普
+- 在线链接
+  - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
 - [百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA)【提取码：dmj9】
   - :white_check_mark:《图说区块链》
   - :white_check_mark:《区块链实战：从技术创新到商业模式》
@@ -15,23 +17,32 @@
   - :white_check_mark:《区块链：新经济蓝图及导读》
   - :white_check_mark:《区块链：通往资产数字化之路》
   - :white_check_mark:《区块链：从数字货币到信用社会》
-  - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
-## [技术向](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
-- [《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
-- [《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
-- 《精通区块链编程》
-- [《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)
-- 《区块链核心算法解析》
-- 《区块链：原理，设计与应用》
-- 《深度探索区块链：Hyperledger 技术与应用》
-- 《Hyperledger 源码分析之 Fabric》
-- 《图解密码技术》
-- 《区块链：通往资产数字化之路》
-- 《精通以太坊智能合约开发》
-- 《区块链驱动金融》
-- 《区块链的数学原理》
-- 《如何投资数字货币》
-- ## 拓展向
+## 技术向
+- [百度网盘链接](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
+  - :white_check_mark:《区块链傻瓜书_IBM》
+  - :white_check_mark:《区块链技术与应用笔记_北大肖臻》
+  - :white_check_mark:《区块链核心算法解析》
+  - :white_check_mark:《精通以太坊智能合约开发》
+  - :white_check_mark:《HyperLedger Fabric 开发实战》
+- 在线链接
+  - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
+  - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
+  - 《精通区块链编程》
+  - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)
+  - 《区块链核心算法解析》
+  - 《区块链：原理，设计与应用》
+  - 《深度探索区块链：Hyperledger 技术与应用》
+  - 《Hyperledger 源码分析之 Fabric》
+  - 《图解密码技术》
+  - 《区块链的数学原理》
+## 金融
+- 在线链接
+  - how to defi
+    - 第一版：how to defi: advanced [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)
+    - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)
+- [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
+  - :white_check_mark:《如何投资数字货币》 
+## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
 ## [白皮书](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
