@@ -5,7 +5,7 @@
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
 - 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段 
 
-# 图书
+# :blue_book:图书
 ## 科普
 - 在线链接
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
@@ -50,17 +50,17 @@
   - [蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
   - IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
 - [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
-- :white_check_mark:比特币白皮书
-- :white_check_mark:2019 腾讯区块链白皮书
-- :white_check_mark:中国数字人民币的研发进展白皮书
-- :white_check_mark:腾讯隐私计算白皮书
-- :white_check_mark:2018年中国区块链产业白皮书
-- 信任经济的崛起_2020中国区块链发展报告
+  - :white_check_mark:比特币白皮书
+  - :white_check_mark:2019 腾讯区块链白皮书
+  - :white_check_mark:中国数字人民币的研发进展白皮书
+  - :white_check_mark:腾讯隐私计算白皮书
+  - :white_check_mark:2018年中国区块链产业白皮书
+  - 信任经济的崛起_2020中国区块链发展报告
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
 
-# 视频课程
+# :video_camera:视频课程
 - 理论公开课
   - [普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
   - [区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
@@ -75,19 +75,19 @@
     - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial_youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
     - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity_youtube](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
 
-# 相关框架和开发语言
+# :computer:相关框架和开发语言
 - [go](https://golang.org/)
 - [solidity](https://docs.soliditylang.org/)
 - [web3.js](https://github.com/ChainSafe/web3.js)
 
-# 相关论坛，新闻咨询平台
+# :newspaper:相关论坛，新闻咨询平台
 - [以太坊爱好者](https://ethfans.org/)
 - [巴比特](https://www.8btc.com/)
 - [非小号](https://www.feixiaohao.co/)
 - [金色财经](https://www.jinse.com/)
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 
-# 平台与开发
+# :house_with_garden:平台与开发
 - 公链
   - 比特币
     - [比特币中文官网](https://bitcoin.org/zh_CN/)
@@ -103,11 +103,11 @@
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
 
 
-# 产业报告
+# :bookmark_tabs:产业报告
 - [区块链产业全景图_2020_中国平安](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E5%9B%BE_2020_%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89.pdf)
 - [区块链应用概览_2021_头豹](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E6%A6%82%E8%A7%88_2021_%E5%A4%B4%E8%B1%B9.pdf)
 - [中国区块链政策现状及趋势分析报告_2009_人民创投](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%8F%8A%E8%B6%8B%E5%8A%BF%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A_2009_%E4%BA%BA%E6%B0%91%E5%88%9B%E6%8A%95.pdf)
 - [全球区块链产业全景与趋势_2021_火币研究院](https://github.com/Eternaldeath/blockchainHome/blob/main/IndustryReport/%E5%85%A8%E7%90%83%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%99%AF%E4%B8%8E%E8%B6%8B%E5%8A%BF_2021_%E7%81%AB%E5%B8%81%E7%A0%94%E7%A9%B6%E9%99%A2.pdf)
 - [海南区块链产业发展白皮书_2021](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
-# 导航
+# :book:导航
 - [区块链数据导航](https://ytm.ltd/)
