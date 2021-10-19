@@ -7,6 +7,7 @@
 - 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段 
 # 目录
 左上角三点三杠的按钮即可
+[English和中文混合](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
 # :blue_book:图书
 ## 科普
 - 在线链接
