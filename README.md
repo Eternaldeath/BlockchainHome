@@ -19,6 +19,7 @@
   - :white_check_mark:《区块链：新经济蓝图及导读》
   - :white_check_mark:《区块链：通往资产数字化之路》
   - :white_check_mark:《区块链：从数字货币到信用社会》
+  - 《区块链简史》
 ## 技术向
 - [百度网盘链接](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
   - :white_check_mark:《区块链傻瓜书_IBM》
