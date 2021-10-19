@@ -6,8 +6,13 @@
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
 - 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段 
 # 目录
-左上角三点三杠的按钮即可
-[English和中文混合](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
+[图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
+[视频课程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
+[相关框架和开发语言](https://github.com/Eternaldeath/blockchainHome#computer%E7%9B%B8%E5%85%B3%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
+[相关论坛，新闻咨询平台](https://github.com/Eternaldeath/blockchainHome#newspaper%E7%9B%B8%E5%85%B3%E8%AE%BA%E5%9D%9B%E6%96%B0%E9%97%BB%E5%92%A8%E8%AF%A2%E5%B9%B3%E5%8F%B0)
+[平台与开发](https://github.com/Eternaldeath/blockchainHome#house_with_garden%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
+[产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
+[导航](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
 # :blue_book:图书
 ## 科普
 - 在线链接
