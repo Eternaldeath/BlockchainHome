@@ -71,7 +71,7 @@
   - :white_check_mark:中国数字人民币的研发进展白皮书
   - :white_check_mark:腾讯隐私计算白皮书
   - :white_check_mark:2018年中国区块链产业白皮书
-  - 信任经济的崛起_2020中国区块链发展报告
+  - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
 ## 论文
 > 论文均选择 CCF 级别的文章，此分类不包含社区论文
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
