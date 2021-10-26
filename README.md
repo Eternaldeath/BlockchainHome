@@ -65,6 +65,7 @@
   - :white_check_mark:[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
   - :white_check_mark:[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
   - :white_check_mark:IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
+  - :white_check_mark:[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)
 - [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
   - :white_check_mark:比特币白皮书
   - :white_check_mark:2019 腾讯区块链白皮书
@@ -78,6 +79,8 @@
   - 综述
     - :white_check_mark:区块链技术与应用前瞻综述
     - :white_check_mark:A systematic review of blockchain
+  - 联盟链
+    - :white_check_mark:Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
@@ -120,6 +123,7 @@
 - 侧链
   - [Lisk](https://lisk.com/)
 - 联盟链
+  - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
   - [腾讯区块链](https://trustsql.qq.com/)
   - [蚂蚁区块链](https://antchain.antgroup.com/)
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
