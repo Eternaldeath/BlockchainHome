@@ -99,6 +99,8 @@
     - :white_check_mark:[以太坊 dapp 开发教程_b 站](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
     - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial_youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
     - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity_youtube](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
+- 区块链大会
+  - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
 
 # :computer:相关框架和开发语言
 - [go](https://golang.org/)
