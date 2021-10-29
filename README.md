@@ -138,6 +138,8 @@
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:区块链产业全景图_2020_中国平安
   - :white_check_mark:中国区块链政策现状及趋势分析报告_2019_人民创投
+  - :white_check_mark:开启新纪元：隐私计算在金融领域应用发展报告_2021_零壹财经
+  - :white_check_mark:6G网络架构愿景与关键技术展望白皮书_2021
 
 # :book:导航
 - [区块链数据导航](https://ytm.ltd/)
