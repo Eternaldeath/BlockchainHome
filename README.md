@@ -44,7 +44,7 @@
 - 在线链接
   - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
   - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
-  - 《精通区块链编程》
+  - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571)：图解区块链
   - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)
   - 《区块链：原理，设计与应用》
   - 《深度探索区块链：Hyperledger 技术与应用》
