@@ -23,6 +23,7 @@
 ## 科普
 - 在线链接
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
+  - :white_check_mark:[币安问问学院](https://academy.binance.com/zh)：从入门到进阶的科普文章
 - [百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA)【提取码：dmj9】
   - :white_check_mark:《图说区块链》
   - :white_check_mark:《区块链实战：从技术创新到商业模式》
