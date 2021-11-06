@@ -102,6 +102,7 @@
     - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity_youtube](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
 - 区块链大会
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
+  - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
 
 # :computer:相关框架和开发语言
 - [go](https://golang.org/)
@@ -141,6 +142,7 @@
   - :white_check_mark:中国区块链政策现状及趋势分析报告_2019_人民创投
   - :white_check_mark:开启新纪元：隐私计算在金融领域应用发展报告_2021_零壹财经
   - :white_check_mark:6G网络架构愿景与关键技术展望白皮书__2021
+  - :white_check_mark:链计算白皮书_腾讯研究院_2021
 
 # :book:导航
 - [区块链数据导航](https://ytm.ltd/)
