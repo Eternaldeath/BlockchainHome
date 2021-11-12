@@ -46,6 +46,7 @@
   - :white_check_mark:《IPFS 原理与实践_董天一》
   - :white_check_mark:《区块链核心算法解析》
   - :white_check_mark:《区块链开发指南》
+  - :white_check_mark:《精通区块链开发技术》
 - 在线链接
   - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)
   - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)
