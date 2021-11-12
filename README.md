@@ -51,6 +51,7 @@
   - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571)：图解区块链
   - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)
   - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
+  - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
   - 《区块链：原理，设计与应用》
   - 《深度探索区块链：Hyperledger 技术与应用》
   - 《Hyperledger 源码分析之 Fabric》
