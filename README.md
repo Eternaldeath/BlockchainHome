@@ -116,6 +116,7 @@
 - [非小号](https://www.feixiaohao.co/)
 - [金色财经](https://www.jinse.com/)
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
+- [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
 
 # :house_with_garden:平台与开发
 - 公链
