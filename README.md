@@ -20,6 +20,8 @@
 [产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
 [导航](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
+
+学习路线（正在构思）
 # :blue_book:图书
 ## 科普
 - 在线链接
