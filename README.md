@@ -53,7 +53,7 @@
   - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)```豆瓣：8.2```
   - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
   - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
-  - :white_check_mark:[《GO语言公链开发实战》](https://bbs.huaweicloud.com/blogs/115567)```豆瓣：评价人数不足```
+  - 《GO语言公链开发实战》```豆瓣：评价人数不足```
   - 《区块链：原理，设计与应用》：```豆瓣：7.2``` 此为《区块链技术指南》的出版版本
   - 《深度探索区块链：Hyperledger 技术与应用》```豆瓣：6.0```
   - 《Hyperledger 源码分析之 Fabric》```豆瓣：评价人数不足```
