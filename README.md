@@ -21,7 +21,7 @@
 
 [导航](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
 
-学习路线（正在构思）
+[学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
 # :blue_book:图书
 ## 科普
 - 在线链接
