@@ -8,6 +8,12 @@
 - 欢迎 PR
 # 目录
 [图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
+  - 科普
+  - 技术
+  - 金融
+  - 白皮书
+  - 论文
+  - 其他
 
 [视频课程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
 
@@ -89,6 +95,10 @@
     - :white_check_mark:A systematic review of blockchain
   - 联盟链
     - :white_check_mark:Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
+  - 区块链——IoT&5G&6G
+    - :white_check_mark:Miglani 和 Kumar - 2021 - Blockchain management and machine learning adaptat
+    - :white_check_mark:Kumari 等。 - 2021 - Amalgamation of blockchain and IoT for smart citie
+    - :white_check_mark:Khan 和 Salah - 2018 - IoT security Review, blockchain solutions, and op
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
