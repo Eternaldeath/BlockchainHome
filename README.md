@@ -146,8 +146,9 @@
   - :white_check_mark:[全球区块链产业全景与趋势_2021_火币研究院](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf)
   - :white_check_mark:[海南区块链产业发展白皮书_2021](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
-  - :white_check_mark:区块链产业全景图_2020_中国平安
   - :white_check_mark:中国区块链政策现状及趋势分析报告_2019_人民创投
+  - :white_check_mark:区块链产业全景图_2020_中国平安
+  - :white_check_mark:国信证券区块链行业研究报告_2020_国信证券
   - :white_check_mark:开启新纪元：隐私计算在金融领域应用发展报告_2021_零壹财经
   - :white_check_mark:6G网络架构愿景与关键技术展望白皮书__2021
   - :white_check_mark:链计算白皮书_腾讯研究院_2021
