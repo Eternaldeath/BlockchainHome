@@ -44,27 +44,31 @@
   - 《区块链简史》
 ## 技术
 - [百度网盘链接](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
-  - :white_check_mark:《区块链傻瓜书_IBM》```豆瓣：暂无此书```
-  - :white_check_mark:《区块链技术与应用笔记_北大肖臻》
-  - :white_check_mark:《区块链核心算法解析》```豆瓣：7.7```
-  - :white_check_mark:《精通以太坊智能合约开发》```豆瓣：评价人数不足```
+  - :white_check_mark:《区块链傻瓜书_IBM》 ```豆瓣：暂无此书```
+  - :white_check_mark:《区块链技术与应用笔记_北大肖臻》 ```豆瓣：暂无此书```
+  - :white_check_mark:《区块链核心算法解析》 ```豆瓣：7.7```
+  - :white_check_mark:《精通以太坊智能合约开发》 ```豆瓣：评价人数不足```
   - :white_check_mark:《HyperLedger Fabric 开发实战》```豆瓣：评价人数不足```
-  - :white_check_mark:《IPFS 原理与实践_董天一》```豆瓣：8.0```
-  - :white_check_mark:《区块链开发指南》```豆瓣：5.6```
-  - :white_check_mark:《精通区块链开发技术》```豆瓣：评价人数不足```
+  - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
+  - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
+  - :white_check_mark:《精通区块链开发技术》 ```豆瓣：评价人数不足```
+  - :white_check_mark:《区块链项目开发指南》 ```豆瓣：5.7```
+  - :white_check_mark:《node.js 区块链开发》 ```豆瓣：4.8```
+  - :white_check_mark:《golang 实现区块链详细教程》 ```豆瓣：暂无此书```
+  - :white_check_mark:《区块链：原理，设计与应用》 ```豆瓣：7.2``` 此为《区块链技术指南》的出版版本
+  - :white_check_mark:《P2P 技术内幕》 ```豆瓣：暂无此书```
 - 在线链接
-  - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)```豆瓣：8.7```
-  - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)```豆瓣：6.4```
-  - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571)：```个人学习笔记``` 图解区块链
-  - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)```豆瓣：8.2```
+  - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/) ```豆瓣：8.7```
+  - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
+  - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) ```个人学习笔记``` 图解区块链
+  - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/) ```豆瓣：8.2```
   - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
   - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
-  - 《GO语言公链开发实战》```豆瓣：评价人数不足```
-  - 《区块链：原理，设计与应用》：```豆瓣：7.2``` 此为《区块链技术指南》的出版版本
-  - 《深度探索区块链：Hyperledger 技术与应用》```豆瓣：6.0```
-  - 《Hyperledger 源码分析之 Fabric》```豆瓣：评价人数不足```
-  - 《图解密码技术》```豆瓣：9.1```
-  - 《区块链的数学原理》```豆瓣：评价人数不足```
+  - 《GO语言公链开发实战》 ```豆瓣：评价人数不足```
+  - 《深度探索区块链：Hyperledger 技术与应用》 ```豆瓣：6.0```
+  - 《Hyperledger 源码分析之 Fabric》 ```豆瓣：评价人数不足```
+  - 《图解密码技术》 ```豆瓣：9.1```
+  - 《区块链的数学原理》 ```豆瓣：评价人数不足```
 ## 金融
 - 在线链接
   - :white_check_mark:how to defi
