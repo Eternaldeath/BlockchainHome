@@ -23,6 +23,12 @@
 
 [平台与开发](https://github.com/Eternaldeath/blockchainHome#house_with_garden%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
 
+[源码学习]()
+- 以太坊
+  - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)  
+  - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
+  - [以太坊源码与设计之美](https://zhuanlan.zhihu.com/p/58212573)
+
 [产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
 [导航](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
@@ -153,6 +159,8 @@
   - [腾讯区块链](https://trustsql.qq.com/)
   - [蚂蚁区块链](https://antchain.antgroup.com/)
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
+
+# 源码学习
 
 # :bookmark_tabs:产业报告
 - 在线链接
