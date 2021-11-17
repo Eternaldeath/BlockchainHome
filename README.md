@@ -160,7 +160,11 @@
   - [蚂蚁区块链](https://antchain.antgroup.com/)
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
 
-# 源码学习
+# :notebook_with_decorative_cover:源码学习
+- 以太坊
+  - [以太坊源码与设计之美](https://zhuanlan.zhihu.com/p/58212573)  
+  - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
+  - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 
 # :bookmark_tabs:产业报告
 - 在线链接
