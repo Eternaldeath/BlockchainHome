@@ -23,7 +23,7 @@
 
 [平台与开发](https://github.com/Eternaldeath/blockchainHome#house_with_garden%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
 
-[源码学习]()
+[源码学习](https://github.com/Eternaldeath/blockchainHome/blob/main/README.md#notebook_with_decorative_cover%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
 - 以太坊
   - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)  
   - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
