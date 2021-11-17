@@ -99,7 +99,7 @@
     - :white_check_mark:A systematic review of blockchain
   - 联盟链
     - :white_check_mark:Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
-  - 区块链——IoT&5G&6G
+  - 区块链+IoT&5G&6G
     - :white_check_mark:Miglani 和 Kumar - 2021 - Blockchain management and machine learning adaptat
     - :white_check_mark:Kumari 等。 - 2021 - Amalgamation of blockchain and IoT for smart citie
     - :white_check_mark:Khan 和 Salah - 2018 - IoT security Review, blockchain solutions, and op
