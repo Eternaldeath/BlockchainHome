@@ -24,10 +24,6 @@
 [平台与开发](https://github.com/Eternaldeath/blockchainHome#house_with_garden%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
 
 [源码学习](https://github.com/Eternaldeath/blockchainHome/blob/main/README.md#notebook_with_decorative_cover%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
-- 以太坊
-  - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)  
-  - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
-  - [以太坊源码与设计之美](https://zhuanlan.zhihu.com/p/58212573)
 
 [产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
@@ -50,37 +46,60 @@
   - 《区块链简史》
 ## 技术
 - [百度网盘链接](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
-  - :white_check_mark:《区块链傻瓜书_IBM》 ```豆瓣：暂无此书```
-  - :white_check_mark:《区块链技术与应用笔记_北大肖臻》 ```豆瓣：暂无此书```
-  - :white_check_mark:《区块链核心算法解析》 ```豆瓣：7.7```
-  - :white_check_mark:《精通以太坊智能合约开发》 ```豆瓣：评价人数不足```
-  - :white_check_mark:《HyperLedger Fabric 开发实战》```豆瓣：评价人数不足```
-  - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
-  - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
-  - :white_check_mark:《精通区块链开发技术》 ```豆瓣：评价人数不足```
-  - :white_check_mark:《区块链项目开发指南》 ```豆瓣：5.7```
-  - :white_check_mark:《node.js 区块链开发》 ```豆瓣：4.8```
-  - :white_check_mark:《golang 实现区块链详细教程》 ```豆瓣：暂无此书```
-  - :white_check_mark:《区块链：原理，设计与应用》 ```豆瓣：7.2``` 此为《区块链技术指南》的出版版本
-  - :white_check_mark:《P2P 技术内幕》 ```豆瓣：暂无此书```
+  - 公链
+    - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
+    - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
+    - :white_check_mark:《精通区块链开发技术》 ```豆瓣：评价人数不足```
+    - :white_check_mark:《区块链项目开发指南》 ```豆瓣：5.7```
+    - :white_check_mark:《node.js 区块链开发》 ```豆瓣：4.8```
+    - :white_check_mark:《golang 实现区块链详细教程》 ```豆瓣：暂无此书```
+  - 联盟链
+    - :white_check_mark:《区块链傻瓜书_IBM》 ```豆瓣：暂无此书```
+    - :white_check_mark:《HyperLedger Fabric 开发实战》```豆瓣：评价人数不足```
+    - :white_check_mark:《深度探索区块链：Hyperledger技术与应用》```豆瓣：6.0```
+    - :white_check_mark:《区块链：原理，设计与应用》 ```豆瓣：7.2```：此为《区块链技术指南》的出版版本，基于超级账本
+  - 智能合约
+    - :white_check_mark:《精通以太坊智能合约开发》 ```豆瓣：评价人数不足```
+  - 其他
+    - :white_check_mark:《区块链技术与应用笔记_北大肖臻》 ```豆瓣：暂无此书```
+    - :white_check_mark:《区块链核心算法解析》 ```豆瓣：7.7```
+    - :white_check_mark:《P2P 技术内幕》 ```豆瓣：暂无此书```
 - 在线链接
-  - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/) ```豆瓣：8.7```
-  - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
-  - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) ```个人学习笔记``` 图解区块链
-  - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/) ```豆瓣：8.2```
-  - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
-  - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
-  - 《GO语言公链开发实战》 ```豆瓣：评价人数不足```
-  - 《深度探索区块链：Hyperledger 技术与应用》 ```豆瓣：6.0```
-  - 《Hyperledger 源码分析之 Fabric》 ```豆瓣：评价人数不足```
-  - 《图解密码技术》 ```豆瓣：9.1```
-  - 《区块链的数学原理》 ```豆瓣：评价人数不足```
+  - 公链
+    - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/) ```豆瓣：8.7```
+    - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
+    - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) ```个人学习笔记```：图解区块链
+    - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/) ```豆瓣：8.2```
+    - 《区块链核心技术与应用》 ```豆瓣：8.6```
+    - 《区块链技术进阶与实战》 ```豆瓣：6.8```：包含了以太坊和超级账本
+    - 《GO语言公链开发实战》 ```豆瓣：评价人数不足```
+    - 《区块链底层设计Java实战》 ```豆瓣：评价人数不足```
+    - 《区块链第一课：深入浅出技术与应用》 ```豆瓣：评价人数不足```
+    - 《区块链轻松上手：原理、源码、搭建与应用》 ```豆瓣：评价人数不足```
+    - 《区块链：交易系统开发指南》 ```豆瓣：评价人数不足```
+    - 《从零开始自己动手写区块链》 ```豆瓣：评价人数不足```
+  - 联盟链
+    - :white_check_mark:[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)
+    - :white_check_mark:[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)：超级账本，开源书籍
+    - 《区块链开发实战- Hyperledger Fabric关键技术与案例分析》 ```豆瓣：评价人数不足``` 
+    - :white_check_mark:[《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric) ```豆瓣：评价人数不足```
+    - 《区块链网络构建和应用：基于超级账本Fabric的商业实践》 ```豆瓣：评价人数不足``` 
+    - 《Hyperledger Fabric 技术内幕：架构设计与实现原理》 ```豆瓣：评价人数不足``` 
+    - 《Hyperledger Fabric核心技术》  ```豆瓣：评价人数不足``` 
+  - 智能合约
+  - 其他
+    - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
+    - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
+    - 《图解密码技术》 ```豆瓣：9.1```
+    - 《区块链的数学原理》 ```豆瓣：评价人数不足```
+    - 《区块链安全技术指南》 ```豆瓣：评价人数不足```
 ## 金融
 - 在线链接
   - :white_check_mark:how to defi
     - 第一版：how to defi: advanced [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)
-    - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)
-- [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】（翻译 ing）
+    - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)（翻译 ing）
+  - 《区块链供应链金融》 ```豆瓣：6.0```
+- [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
   - :white_check_mark:《如何投资数字货币》 
 ## 白皮书
 > 白皮书是指政府，会议公开发表的有关重大问题的文件
@@ -123,6 +142,9 @@
     - :white_check_mark:[至今为止最好的区块链教程都在这里了_b 站](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
     - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）_b 站](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
     - :white_check_mark:[尚硅谷区块链全套教程完整版_b 站](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0)
+  - 联盟链开发
+    - [区块链编程 实战开发 HyperLedger（超级账本）Fabric](https://www.bilibili.com/video/BV1a4411X7Z1?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
+    - [hyperledger fabric源码解析](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
     - :white_check_mark:[以太坊 dapp 开发教程_b 站](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
     - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial_youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
