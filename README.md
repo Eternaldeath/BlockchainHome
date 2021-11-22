@@ -128,11 +128,12 @@
     - :white_check_mark:IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
     - :white_check_mark:Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
     - :white_check_mark:Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
+- 在线链接
   - 跨链
-    - :white_check_mark:Atomic Cross-Chain Swaps - 2018 - Herlihy
-    - :white_check_mark:Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等
-    - :white_check_mark:HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等
-    - :white_check_mark:CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等
+    - :white_check_mark:[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
+    - :white_check_mark:[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
+    - :white_check_mark:[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
+    - :white_check_mark:[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
