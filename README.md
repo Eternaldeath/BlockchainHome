@@ -125,9 +125,14 @@
   - 联盟链
     - :white_check_mark:Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
   - 区块链+IoT&5G&6G
-    - :white_check_mark:Miglani 和 Kumar - 2021 - Blockchain management and machine learning adaptat
-    - :white_check_mark:Kumari 等。 - 2021 - Amalgamation of blockchain and IoT for smart citie
-    - :white_check_mark:Khan 和 Salah - 2018 - IoT security Review, blockchain solutions, and op
+    - :white_check_mark:IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
+    - :white_check_mark:Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
+    - :white_check_mark:Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
+  - 跨链
+    - :white_check_mark:Atomic Cross-Chain Swaps - 2018 - Herlihy
+    - :white_check_mark:Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等
+    - :white_check_mark:HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等
+    - :white_check_mark:CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
