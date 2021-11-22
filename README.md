@@ -180,6 +180,7 @@
   - [以太坊](https://ethereum.org/zh/)
   - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
   - [ipfs](https://ipfs.io/)
+  - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
 - 侧链
   - [Lisk](https://lisk.com/)
 - 联盟链
