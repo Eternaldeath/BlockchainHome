@@ -160,9 +160,20 @@
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
 
 # :computer:相关框架和开发语言
-- [go](https://golang.org/)
-- [solidity](https://docs.soliditylang.org/)
-- [web3.js](https://github.com/ChainSafe/web3.js)
+- 底层开发语言
+  - [Go](https://golang.org/)
+  - Java
+  - Rust
+  - Python
+  - JavaScript
+  - C++
+  - ...
+- 智能合约开发语言
+  - [solidity](https://docs.soliditylang.org/)
+- 相关框架
+  - [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
+  - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架
+  - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架
 
 # :newspaper:相关论坛，新闻咨询平台
 - [以太坊爱好者](https://ethfans.org/)
@@ -188,6 +199,8 @@
   - [腾讯区块链](https://trustsql.qq.com/)
   - [蚂蚁区块链](https://antchain.antgroup.com/)
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
+  - [趣链科技](https://www.hyperchain.cn/)
+  - [纸贵科技](https://www.zhigui.com/)
 
 # :notebook_with_decorative_cover:源码学习
 - 以太坊
