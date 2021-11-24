@@ -184,6 +184,7 @@
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
 
 # :house_with_garden:平台与开发
+> 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
 - 公链
   - 比特币
     - [比特币中文官网](https://bitcoin.org/zh_CN/)
@@ -192,6 +193,7 @@
   - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
   - [ipfs](https://ipfs.io/)
   - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
+  - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
 - 侧链
   - [Lisk](https://lisk.com/)
 - 联盟链
