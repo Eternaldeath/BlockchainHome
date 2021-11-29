@@ -27,7 +27,7 @@
 
 [产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
-[导航](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
+[其他](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
 
 [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
 # :blue_book:图书
@@ -225,3 +225,4 @@
 
 # :book:导航
 - [区块链数据导航](https://ytm.ltd/)
+- [区块链专业大学排名_coindesk_2021](https://www.coindesk.com/learn/2021/10/04/the-top-universities-for-blockchain-by-coindesk-2021/)
