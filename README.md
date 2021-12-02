@@ -117,7 +117,7 @@
   - :white_check_mark:2018年中国区块链产业白皮书
   - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
 ## 论文
-> 论文均选择 CCF 级别的文章，此分类不包含社区论文
+> 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
   - 综述
     - :white_check_mark:区块链技术与应用前瞻综述
@@ -134,6 +134,8 @@
     - :white_check_mark:[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
     - :white_check_mark:[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
     - :white_check_mark:[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
+  - 商业与 defi
+    - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157)
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
