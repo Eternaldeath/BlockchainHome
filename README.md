@@ -139,7 +139,9 @@
     - :white_check_mark:[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
     - :white_check_mark:[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
   - 商业与 defi
-    - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157)
+    - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+  - 共识算法
+    - :white_check_mark:[Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
