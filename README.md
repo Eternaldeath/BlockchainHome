@@ -6,6 +6,10 @@
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
 - 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段
 - **欢迎 PR，目前缺少区块链底层（公链）开发的书籍**
+
+# 状态
+![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
+
 # 目录
 [图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
   - 科普
