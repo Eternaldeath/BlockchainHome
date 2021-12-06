@@ -12,12 +12,12 @@
 
 # 目录
 [图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
-  - 科普
-  - 技术
-  - 金融
-  - 白皮书
-  - 论文
-  - 其他
+  - [科普](https://github.com/Eternaldeath/blockchainHome#%E7%A7%91%E6%99%AE)
+  - [技术](https://github.com/Eternaldeath/blockchainHome#%E6%8A%80%E6%9C%AF)
+  - [金融](https://github.com/Eternaldeath/blockchainHome#%E9%87%91%E8%9E%8D)
+  - [白皮书](https://github.com/Eternaldeath/blockchainHome#%E7%99%BD%E7%9A%AE%E4%B9%A6)
+  - [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
+  - [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
 [视频课程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
 
