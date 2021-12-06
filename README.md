@@ -142,6 +142,19 @@
     - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
   - 共识算法
     - :white_check_mark:[Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+  - edge computing
+    - :white_check_mark:[Resource allocation and trust computing for blockchain-enabled edge computing system - 2021 - LejunZhang 等](https://www.sciencedirect.com/science/article/pii/S0167404821000730)
+    - :white_check_mark:[Blockchain-based mobile edge computing system - 2021 - GuangshunLi 等](https://www.sciencedirect.com/science/article/pii/S0020025521000888)
+    - :white_check_mark:[Three-stage Stackelberg game based edge computing resource management for mobile blockchain - 2021 - Yuqi Fan 等](https://link.springer.com/article/10.1007/s12083-020-01032-y)
+    - :white_check_mark:[An integrative approach for secure data sharing in vehicular edge computing using Blockchain - 2021 - Mahadev Gawas 等](https://link.springer.com/article/10.1007/s12083-021-01107-4)
+    - :white_check_mark:[Building a blockchain-based decentralized ecosystem for cloud and edge computing: an ALLSTAR approach and empirical study - 2021 - Huan Zhou 等](https://link.springer.com/article/10.1007/s12083-021-01198-z)
+    - :white_check_mark:[Towards Trustworthy IoT: A Blockchain-Edge Computing Hybrid System with Proof-of-Contribution Mechanism - 2021 - Huan Dai 等](https://www.hindawi.com/journals/scn/2021/3050953/)
+    - :white_check_mark:[ECLB: Edge-Computing-Based Lightweight Blockchain Framework for Mobile Systems - 2021 - Qingqing Xie 等](https://www.hindawi.com/journals/scn/2021/5510586/)
+    - :white_check_mark:[A Blockchain-Based Microgrid Data Disaster Backup Scheme in Edge Computing - 2021 - L Zhang 等](https://www.hindawi.com/journals/scn/2021/9121571/)
+    - :white_check_mark:[Computational Resource Allocation Strategy in a Public Blockchain Supported by Edge Computing - 2021 - Sujie Shao 等](https://www.hindawi.com/journals/wcmc/2021/8851121/)
+    - :white_check_mark:[CoopEdge: A Decentralized Blockchain-based Platform for Cooperative Edge Computing - 2021 - Liang Yuan 等](https://dl.acm.org/doi/abs/10.1145/3442381.3449994?casa_token=LVONEnbPnZsAAAAA:CMxUCEeDhLlju_YKiuKbvLChF5LE8GoZa-b_7ZnxxiafWwEjfqACHXEQ3HSTkU6-OXs8M0zqSw)
+    - :white_check_mark:[BCEdge: Blockchain-based resource management in D2D-assisted mobile edge computing - 2019 - Ao Zhou 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
+    - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
