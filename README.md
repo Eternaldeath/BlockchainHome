@@ -113,6 +113,7 @@
   - :white_check_mark:[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
   - :white_check_mark:IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
   - :white_check_mark:[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)
+  - :white_check_mark:[solana](https://solana.com/solana-whitepaper.pdf)
 - [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
   - :white_check_mark:比特币白皮书
   - :white_check_mark:2019 腾讯区块链白皮书
