@@ -121,6 +121,7 @@
   - :white_check_mark:腾讯隐私计算白皮书
   - :white_check_mark:2018年中国区块链产业白皮书
   - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
+  - :white_check_mark:隐私计算金融应用蓝皮书_2021_交通银行
 ## 论文
 > 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
