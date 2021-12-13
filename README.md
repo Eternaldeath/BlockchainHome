@@ -142,6 +142,10 @@
     - :white_check_mark:[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
   - 商业与 defi
     - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+    - :white_check_mark:[BLOCKEYE: Hunting for DeFi Attacks on Blockchain - 2021 - Bin Wang 等](https://ieeexplore.ieee.org/abstract/document/9402298)
+    - :white_check_mark:[Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit - 2021 - K Qin 等](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1)
+    - :white_check_mark:[Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets - 2021 - 等](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843844)```非 CCF 级别```
+    - :white_check_mark:[A Review of Decentralized Finance as an Application of Increasing Importance of Blockchain Technology - 2020 - Daniel Ramos 等](https://static1.squarespace.com/static/5d9d1a861b3b6f17755e5151/t/603d8bc0a9ba4e0ef04a098c/1614646209870/DeFi_SciPaper_Final+%282%29.pdf)
   - 共识算法
     - :white_check_mark:[Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
   - edge computing
