@@ -136,6 +136,7 @@
     - :white_check_mark:Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
 - 在线链接
   - 跨链
+    - :white_check_mark:[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472) ```arxiv``` 本篇论文在 vitalik 的博客 EndGame 中被提及
     - :white_check_mark:[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
     - :white_check_mark:[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
     - :white_check_mark:[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
