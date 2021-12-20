@@ -209,8 +209,15 @@
 - [巴比特](https://www.8btc.com/)
 - [非小号](https://www.feixiaohao.co/)
 - [金色财经](https://www.jinse.com/)
+- [链节点](https://www.chainnode.com/)：ChainNode 链节点 - 元宇宙社区
+- [区块链日报](https://www.trzrb.com/)：区块链日报-区块链新闻资讯网站-区块链项目报道平台
+- [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态	
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
+- [digiconomist](https://digiconomist.net/): Digiconomist - Exposing the Unintended Consequences of Digital Trends
+- [bitcoinmagazine](https://bitcoinmagazine.com/): Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides
+- [messari](https://messari.io/): Crypto Research, Data, and Tools
+- [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
 
 # :house_with_garden:平台与开发
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
