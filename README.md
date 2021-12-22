@@ -162,6 +162,8 @@
     - :white_check_mark:[CoopEdge: A Decentralized Blockchain-based Platform for Cooperative Edge Computing - 2021 - Liang Yuan 等](https://dl.acm.org/doi/abs/10.1145/3442381.3449994?casa_token=LVONEnbPnZsAAAAA:CMxUCEeDhLlju_YKiuKbvLChF5LE8GoZa-b_7ZnxxiafWwEjfqACHXEQ3HSTkU6-OXs8M0zqSw)
     - :white_check_mark:[BCEdge: Blockchain-based resource management in D2D-assisted mobile edge computing - 2019 - Ao Zhou 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
     - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
+  - 其他
+    - :white_check_mark:[Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
 ## 其他
 - 《链改：区块链中国方案》
 - 《中国区块链发展报告》
