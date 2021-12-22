@@ -74,6 +74,7 @@
     - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
     - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) ```个人学习笔记```：图解区块链
     - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/) ```豆瓣：8.2```
+    - :white_check_mark:[《以太坊技术与实现》](https://learnblockchain.cn/books/geth/part0.html)```电子教程```
     - 《区块链核心技术与应用》 ```豆瓣：8.6```
     - 《区块链技术进阶与实战》 ```豆瓣：6.8```：包含了以太坊和超级账本
     - 《GO语言公链开发实战》 ```豆瓣：评价人数不足```
@@ -82,6 +83,7 @@
     - 《区块链轻松上手：原理、源码、搭建与应用》 ```豆瓣：评价人数不足```
     - 《区块链：交易系统开发指南》 ```豆瓣：评价人数不足```
     - 《从零开始自己动手写区块链》 ```豆瓣：评价人数不足```
+
   - 联盟链
     - :white_check_mark:[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)
     - :white_check_mark:[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)：超级账本，开源书籍
