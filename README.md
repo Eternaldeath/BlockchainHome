@@ -209,6 +209,7 @@
   - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架
 
 # :newspaper:相关论坛，新闻咨询平台
+> 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
 - [以太坊爱好者](https://ethfans.org/)
 - [巴比特](https://www.8btc.com/)
 - [非小号](https://www.feixiaohao.co/)
@@ -218,10 +219,12 @@
 - [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态	
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
+- [加密货币贪婪指数](https://history.btc123.fans/zhishu/)：加密货币贪婪指数
 - [digiconomist](https://digiconomist.net/): Digiconomist - Exposing the Unintended Consequences of Digital Trends
 - [bitcoinmagazine](https://bitcoinmagazine.com/): Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides
 - [messari](https://messari.io/): Crypto Research, Data, and Tools
 - [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
+- [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
 
 # :house_with_garden:平台与开发
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
