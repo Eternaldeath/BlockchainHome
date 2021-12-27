@@ -155,6 +155,8 @@
     - :white_check_mark:[A Review of Decentralized Finance as an Application of Increasing Importance of Blockchain Technology - 2020 - Daniel Ramos 等](https://static1.squarespace.com/static/5d9d1a861b3b6f17755e5151/t/603d8bc0a9ba4e0ef04a098c/1614646209870/DeFi_SciPaper_Final+%282%29.pdf)
   - 共识算法
     - :white_check_mark:[Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+  - 侧链（sidechain）
+    - :white_check_mark:[Sidechain technologies in blockchain networks: An examination and state-of-the-art review - 2020 - A Singh 等](https://www.sciencedirect.com/science/article/pii/S1084804519303315) 
   - edge computing
     - :white_check_mark:[Resource allocation and trust computing for blockchain-enabled edge computing system - 2021 - LejunZhang 等](https://www.sciencedirect.com/science/article/pii/S0167404821000730)
     - :white_check_mark:[Blockchain-based mobile edge computing system - 2021 - GuangshunLi 等](https://www.sciencedirect.com/science/article/pii/S0020025521000888)
