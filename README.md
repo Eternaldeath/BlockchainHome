@@ -1,5 +1,6 @@
 # blockchainHome
 ![blockchain-home-logo](https://user-images.githubusercontent.com/25715070/137857002-52ab8a41-65e9-41a1-ab8c-6d33904a9ca3.png)
+https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green
 # 写在前面
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
 - 为什么创建？1. 目前很多区块链资源仓库很久没有进行更新了；2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
