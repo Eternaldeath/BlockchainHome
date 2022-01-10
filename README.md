@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)
 [![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)
-> 考试月，更新频率放慢
+> 1月10日：考试月，更新频率放慢
 
 # 写在前面
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
