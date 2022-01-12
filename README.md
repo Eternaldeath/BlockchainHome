@@ -193,6 +193,8 @@
   - :white_check_mark:[Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7)
   - :white_check_mark:[Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e)
   - :white_check_mark:[learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  - :white_check_mark:[Decentralized Finance](https://berkeley-defi.github.io/f21)：伯克利去中心化金融课程
+  - :white_check_mark:[Cryptocurrencies, blockchains, and smart contracts](https://cs251.stanford.edu/)：斯坦福大学 cs251 区块链秋季课程
  - 编程开发课
   - 公链底层开发
     - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
