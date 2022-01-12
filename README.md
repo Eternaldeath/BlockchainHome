@@ -24,7 +24,7 @@
   - [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
   - [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
-[视频课程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
+[开发教程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
 
 [相关框架和开发语言](https://github.com/Eternaldeath/blockchainHome#computer%E7%9B%B8%E5%85%B3%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
 
@@ -88,7 +88,7 @@
     - 《区块链轻松上手：原理、源码、搭建与应用》 ```豆瓣：评价人数不足```
     - 《区块链：交易系统开发指南》 ```豆瓣：评价人数不足```
     - 《从零开始自己动手写区块链》 ```豆瓣：评价人数不足```
-
+    - 《区块链底层设计Java实战》 ```豆瓣：评价人数不足```
   - 联盟链
     - :white_check_mark:[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)
     - :white_check_mark:[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)：超级账本，开源书籍
@@ -104,6 +104,7 @@
     - 《图解密码技术》 ```豆瓣：9.1```
     - 《区块链的数学原理》 ```豆瓣：评价人数不足```
     - 《区块链安全技术指南》 ```豆瓣：评价人数不足```
+    - 《链改：区块链中国方案》 ```豆瓣：评价人数不足```
 ## 金融
 - 在线链接
   - :white_check_mark:how to defi
@@ -173,27 +174,34 @@
     - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
   - 其他
     - :white_check_mark:[Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
-## 其他
-- 《链改：区块链中国方案》
-- 《中国区块链发展报告》
 
-# :video_camera:视频课程
+# :video_camera:开发教程
+> 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
 - 理论公开课
   - :white_check_mark:[普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
   - :white_check_mark:[区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
   - Coursera 公开课：比特币和数字货币技术
+  - :white_check_mark:[如何成为区块链开发者：速成课](https://ethfans.org/posts/blockchain-developer-crash-course)
+  - :white_check_mark:[Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7)
+  - :white_check_mark:[Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e)
+  - :white_check_mark:[learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
  - 编程开发课
   - 公链底层开发
     - :white_check_mark:[至今为止最好的区块链教程都在这里了_b 站](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
     - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）_b 站](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
-    - :white_check_mark:[尚硅谷区块链全套教程完整版_b 站](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0)
+    - :white_check_mark:[尚硅谷区块链全套教程完整版【B 站】](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0) ```以太坊```  ```solidity```  ```javascript```
+    - :white_check_mark:[How to Build a Blockchain from Scratch with Go【freecodecamp】](https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch/) ```go```
+    - :white_check_mark:[go 语言区块链公链开发理论+实战【网易公开课】](https://study.163.com/course/introduction/1209597959.htm?) ```go```
+    - :white_check_mark:[go 语言区块链公链开发理论+实战【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP/) ```go```
+    - :white_check_mark:[go 语言公链开发【网易公开课】](https://open.163.com/newview/movie/free?pid=FFTLS0UJF&mid=XFTLS6H0F) ```go```
+    - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
   - 联盟链开发
-    - [区块链编程 实战开发 HyperLedger（超级账本）Fabric](https://www.bilibili.com/video/BV1a4411X7Z1?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
-    - [hyperledger fabric源码解析](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
+    - [区块链编程 实战开发 HyperLedger（超级账本）Fabric【B 站】](https://www.bilibili.com/video/BV1a4411X7Z1?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
+    - [hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
-    - :white_check_mark:[以太坊 dapp 开发教程_b 站](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
-    - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial_youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
-    - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity_youtube](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
+    - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
+    - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
+    - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity【youtube】](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
 - 区块链大会
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
