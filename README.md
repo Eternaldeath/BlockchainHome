@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)
 [![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)
-> 1月10日：考试月，更新频率放慢
+
 
 # 写在前面
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
@@ -44,6 +44,14 @@
 - 在线链接
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
   - :white_check_mark:[币安问问学院](https://academy.binance.com/zh)：从入门到进阶的科普文章
+  - 《白话区块链》
+  - 《数字黄金：比特币鲜为人知的故事》
+  - 《区块链：价值互联网的基石》
+  - 《区块链技术驱动金融》
+  - 《区块链基础知识 25 讲》
+  - 《比特币：一个虚幻而真实的金融世界》
+  - 《区块链十年》
+  - 《数字货币来了：比特币.区块链.货币未来》
 - [百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA)【提取码：dmj9】
   - :white_check_mark:《图说区块链》```豆瓣：6.0```
   - :white_check_mark:《区块链实战：从技术创新到商业模式》```豆瓣：9.0```
