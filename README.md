@@ -24,7 +24,7 @@
   - [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
   - [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
-[开发教程](https://github.com/Eternaldeath/blockchainHome#video_camera%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
+[开发教程](https://github.com/Eternaldeath/blockchainHome#video_camera%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
 
 [相关框架和开发语言](https://github.com/Eternaldeath/blockchainHome#computer%E7%9B%B8%E5%85%B3%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
 
@@ -187,8 +187,8 @@
   - :white_check_mark:[learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
  - 编程开发课
   - 公链底层开发
-    - :white_check_mark:[至今为止最好的区块链教程都在这里了_b 站](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
-    - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）_b 站](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0)
+    - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
+    - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```以太坊``` ```分布式```
     - :white_check_mark:[尚硅谷区块链全套教程完整版【B 站】](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0) ```以太坊```  ```solidity```  ```javascript```
     - :white_check_mark:[How to Build a Blockchain from Scratch with Go【freecodecamp】](https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch/) ```go```
     - :white_check_mark:[go 语言区块链公链开发理论+实战【网易公开课】](https://study.163.com/course/introduction/1209597959.htm?) ```go```
