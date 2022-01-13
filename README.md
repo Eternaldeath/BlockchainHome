@@ -14,7 +14,7 @@
 
 # 状态
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
-[更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/3e30c39441df1f3bdcff730bfd9625240ff31fdf)
+[更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
 # 目录
 [图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
