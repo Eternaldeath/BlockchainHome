@@ -263,8 +263,6 @@
   - [ipfs](https://ipfs.io/)
   - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
   - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
-- 侧链
-  - [Lisk](https://lisk.com/)
 - 联盟链
   - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
   - [腾讯区块链](https://trustsql.qq.com/)
@@ -272,6 +270,11 @@
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
   - [趣链科技](https://www.hyperchain.cn/)
   - [纸贵科技](https://www.zhigui.com/)
+- Layer2
+  - 侧链
+    - [Lisk](https://lisk.com/)
+  - plasm
+    - [polygon](https://polygon.technology/)
 
 # :notebook_with_decorative_cover:源码学习
 - 以太坊
