@@ -183,6 +183,7 @@
     - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
   - 其他
     - :white_check_mark:[Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
+    - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学
 
 # :video_camera:开发教程
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
