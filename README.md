@@ -247,6 +247,7 @@
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
 - [加密货币贪婪指数](https://history.btc123.fans/zhishu/)：加密货币贪婪指数
+- [coingecko](https://www.coingecko.com/zh)：获取最新的加密货币市场概述和分析，包括价格，市值，交易量等，类似 conmarketcap，支持中文
 - [digiconomist](https://digiconomist.net/): Digiconomist - Exposing the Unintended Consequences of Digital Trends
 - [bitcoinmagazine](https://bitcoinmagazine.com/): Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides
 - [messari](https://messari.io/): Crypto Research, Data, and Tools
