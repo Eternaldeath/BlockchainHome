@@ -14,7 +14,7 @@
 
 # 状态
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
-[更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
+
 
 # 目录
 [图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
@@ -40,6 +40,9 @@
 [其他](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
 
 [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
+
+[更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
+
 # :blue_book:图书
 ## 科普
 - 在线链接
