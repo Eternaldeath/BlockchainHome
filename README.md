@@ -45,7 +45,7 @@
 
 [更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
-# :blue_book:图书
+# [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
 ## 科普
 - 在线链接
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
@@ -191,7 +191,7 @@
     - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学
     - :white_check_mark:[区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
 
-# :video_camera:开发教程
+# [💻](https://www.emojiall.com/zh-hans/emoji/💻)开发教程
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
 - 理论公开课
   - :white_check_mark:[普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
@@ -227,7 +227,7 @@
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
   - 数据安全产业峰会_可信隐私计算高峰论坛
 
-# :computer:相关框架和开发语言
+# 🎨相关框架和开发语言
 - 底层开发语言
   - [Go](https://golang.org/)
   - Java
@@ -243,7 +243,7 @@
   - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架
   - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架
 
-# :newspaper:相关论坛，新闻咨询平台
+# 📰相关论坛，新闻咨询平台
 > 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
 - [以太坊爱好者](https://ethfans.org/)
 - [巴比特](https://www.8btc.com/)
@@ -262,7 +262,7 @@
 - [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
 - [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
 
-# :house_with_garden:平台与开发
+# 📂平台与开发
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
 - 公链
   - 比特币
@@ -286,13 +286,13 @@
   - plasm
     - [polygon](https://polygon.technology/)
 
-# :notebook_with_decorative_cover:源码学习
+# 👨‍💻源码学习
 - 以太坊
   - [以太坊源码与设计之美](https://zhuanlan.zhihu.com/p/58212573)  
   - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
   - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 
-# :bookmark_tabs:产业报告
+# 📑产业报告
 - 在线链接
   - :white_check_mark:[区块链应用概览_2021_头豹](https://pdf.dfcfw.com/pdf/H3_AP202103241475525369_1.pdf?1616585160000.pdf)
   - :white_check_mark:[全球区块链产业全景与趋势_2021_火币研究院](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf)
@@ -308,6 +308,6 @@
   - :white_check_mark:链计算白皮书_腾讯研究院_2021
 
 
-# :book:导航
+# 📖导航
 - [区块链数据导航](https://ytm.ltd/)
 - [区块链专业大学排名_coindesk_2021](https://www.coindesk.com/learn/2021/10/04/the-top-universities-for-blockchain-by-coindesk-2021/)
