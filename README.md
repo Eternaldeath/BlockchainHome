@@ -135,6 +135,7 @@
   - :white_check_mark:[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
   - :white_check_mark:[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
   - :white_check_mark:IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
+  - :white_check_mark:[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)：Hyperledger 是 Hyperledger Fabric 的母项目
   - :white_check_mark:[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)
   - :white_check_mark:[solana](https://solana.com/solana-whitepaper.pdf)
 - [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
