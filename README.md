@@ -40,7 +40,7 @@
 
 [产业报告](https://github.com/Eternaldeath/blockchainHome#%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
-[其他](https://github.com/Eternaldeath/blockchainHome#%E5%AF%BC%E8%88%AA)
+[其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
 [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
 
