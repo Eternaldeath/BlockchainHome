@@ -19,7 +19,8 @@
 
 [在线版本](https://eternaldeath.github.io/blockchainHome/#/)
 
-[图书](https://github.com/Eternaldeath/blockchainHome#blue_book%E5%9B%BE%E4%B9%A6)
+[图书](https://github.com/Eternaldeath/blockchainHome#%E5%9B%BE%E4%B9%A6)
+
   - [科普](https://github.com/Eternaldeath/blockchainHome#%E7%A7%91%E6%99%AE)
   - [技术](https://github.com/Eternaldeath/blockchainHome#%E6%8A%80%E6%9C%AF)
   - [金融](https://github.com/Eternaldeath/blockchainHome#%E9%87%91%E8%9E%8D)
@@ -27,19 +28,19 @@
   - [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
   - [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
-[开发教程](https://github.com/Eternaldeath/blockchainHome#video_camera%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
+[开发教程](https://github.com/Eternaldeath/blockchainHome#%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
 
-[相关框架和开发语言](https://github.com/Eternaldeath/blockchainHome#computer%E7%9B%B8%E5%85%B3%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
+[相关框架和开发语言](https://github.com/Eternaldeath/blockchainHome#%E7%9B%B8%E5%85%B3%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
 
-[相关论坛，新闻咨询平台](https://github.com/Eternaldeath/blockchainHome#newspaper%E7%9B%B8%E5%85%B3%E8%AE%BA%E5%9D%9B%E6%96%B0%E9%97%BB%E5%92%A8%E8%AF%A2%E5%B9%B3%E5%8F%B0)
+[相关论坛，新闻咨询平台](https://github.com/Eternaldeath/blockchainHome#%E7%9B%B8%E5%85%B3%E8%AE%BA%E5%9D%9B%E6%96%B0%E9%97%BB%E5%92%A8%E8%AF%A2%E5%B9%B3%E5%8F%B0)
 
-[平台与开发](https://github.com/Eternaldeath/blockchainHome#house_with_garden%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
+[平台与开发](https://github.com/Eternaldeath/blockchainHome#%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%BC%80%E5%8F%91)
 
-[源码学习](https://github.com/Eternaldeath/blockchainHome/blob/main/README.md#notebook_with_decorative_cover%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
+[源码学习](https://github.com/Eternaldeath/blockchainHome#%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
 
-[产业报告](https://github.com/Eternaldeath/blockchainHome#bookmark_tabs%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
+[产业报告](https://github.com/Eternaldeath/blockchainHome#%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A)
 
-[其他](https://github.com/Eternaldeath/blockchainHome#book%E5%AF%BC%E8%88%AA)
+[其他](https://github.com/Eternaldeath/blockchainHome#%E5%AF%BC%E8%88%AA)
 
 [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
 
@@ -310,6 +311,6 @@
   - :white_check_mark:链计算白皮书_腾讯研究院_2021
 
 
-# 📖导航
+# 📖其他
 - [区块链数据导航](https://ytm.ltd/)
 - [区块链专业大学排名_coindesk_2021](https://www.coindesk.com/learn/2021/10/04/the-top-universities-for-blockchain-by-coindesk-2021/)
