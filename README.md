@@ -42,7 +42,7 @@
 
 [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
-[学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```
+[学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```，[How to Become a Blockchain Engineer](https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f) ```英文```
 
 [更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
