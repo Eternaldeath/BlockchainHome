@@ -44,6 +44,8 @@
 
 [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) ```知乎版```，[How to Become a Blockchain Engineer](https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f) ```英文```
 
+[杂谈](https://github.com/Eternaldeath/blockchainHome/tree/miscellaneous)：此为 blockchainHome 的 miscellaneous 分支，用于存放一些我看到的不错的区块链文章，但是它们往往不好分类到主分支的各个版块中，于是单独存放
+
 [更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
 # [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
