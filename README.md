@@ -247,6 +247,9 @@
   - [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
   - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架
   - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架
+- 钱包
+  - [MetaMask](https://metamask.io/)：支持以太坊的加密钱包
+
 
 # 📰相关论坛，新闻咨询平台
 > 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
