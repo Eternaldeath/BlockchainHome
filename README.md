@@ -15,6 +15,12 @@
 # 状态
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
 
+# 本周更新内容提要
+
+1.31 ~ 2.6
+
+- 金融科技发展规划（2022~2025）
+
 # 目录
 
 \>\>\>[在线版本](https://eternaldeath.github.io/blockchainHome/#/)<<<
@@ -46,7 +52,7 @@
 
 [杂谈](https://github.com/Eternaldeath/blockchainHome/tree/miscellaneous)：此为 blockchainHome 的 miscellaneous 分支，用于存放一些我看到的不错的区块链文章，但是它们往往不好分类到主分支的各个版块中，于是单独存放
 
-[更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
+[详细更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
 # [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
 ## 科普
@@ -311,6 +317,7 @@
   - :white_check_mark:[海南区块链产业发展白皮书_2021](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
   - :white_check_mark:[工业区块链案例集_2021](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK)
   - :white_check_mark:[元宇宙报告_2021-2022_腾讯&复旦大学新闻学院](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf)
+  - :white_check_mark:[金融科技发展规划（2022~2025）](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告_2019_人民创投
   - :white_check_mark:区块链产业全景图_2020_中国平安
