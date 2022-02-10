@@ -15,11 +15,7 @@
 # 状态
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
 
-# 本周更新内容提要
 
-1.31 ~ 2.6
-
-- 金融科技发展规划（2022~2025）
 
 # 目录
 
