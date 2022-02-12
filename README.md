@@ -323,7 +323,11 @@
   - :white_check_mark:链计算白皮书【2021】【腾讯研究院】
   - :white_check_mark:元宇宙报告【2022】【清华大学】【2.0 版本】
 
+# 🎮️比赛
+
+
 
 # 📖其他
+
 - [区块链数据导航](https://ytm.ltd/)
 - [区块链专业大学排名_coindesk_2021](https://www.coindesk.com/learn/2021/10/04/the-top-universities-for-blockchain-by-coindesk-2021/)
