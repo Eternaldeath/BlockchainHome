@@ -2,6 +2,10 @@
 
 > 本分支主要用于存放一些我看到的不错的区块链文章，但是它们往往不好分类到主分支的各个版块中，于是单独存放
 
+# 区块链开发
+
+[The lay of the modular blockchain land](https://polynya.medium.com/the-lay-of-the-modular-blockchain-land-d937f7df4884)：模块化区块链
+
 # 区块链哲思
 
 [加密浪潮只关乎区块链技术？其实你错了...](https://zhuanlan.zhihu.com/p/448128885)
