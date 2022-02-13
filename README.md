@@ -280,10 +280,13 @@
     - [比特币中文官网](https://bitcoin.org/zh_CN/)
     - [比特币 github](https://github.com/bitcoin)
   - [以太坊](https://ethereum.org/zh/)
+  - [Avalanche](https://www.avax.network/)：使用雪崩协议的区块链公链
+  - [BSC](https://www.binance.org/en)：币安智能链，与币安链平行的一个区块链，拥有智能合约功能，与 EVM 兼容
   - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
   - [ipfs](https://ipfs.io/)
   - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
   - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
+
 - 联盟链
   - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
   - [FISCO BCOS](https://www.fisco.com.cn/)：国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。
@@ -292,13 +295,20 @@
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
   - [趣链科技](https://www.hyperchain.cn/)
   - [纸贵科技](https://www.zhigui.com/)
+
 - Layer2
   - 侧链
     - [Lisk](https://lisk.com/)
   - plasm
     - [polygon](https://polygon.technology/)
   - Rollup
-    - [offchainlabs](https://offchainlabs.com/)：Building Arbitrum for Secure Ethereum Dapps.
+    - [Arbitrum](https://offchainlabs.com/)：热门的以太坊 L2 解决方案，由 [offchainlabs](https://offchainlabs.com/) 开发，采用 OP 验证
+
+- 智能合约
+
+  - [Fantom](https://fantom.foundation/)：智能合约开发平台
+
+  
 
 # 👨‍💻源码学习
 - 以太坊
