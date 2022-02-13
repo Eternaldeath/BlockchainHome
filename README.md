@@ -6,6 +6,16 @@
 
 [加密浪潮只关乎区块链技术？其实你错了...](https://zhuanlan.zhihu.com/p/448128885)
 
+# 区块链金融与投资
+
+[实践：提升加密领域认知的最佳途径](https://mp.weixin.qq.com/s/B6vfD7S5s1L3MecO08XgOg)
+
+[The Way of the Ape](https://nosleep.substack.com/p/the-way-of-the-ape)
+
+[最实用的 DeFi 工具汇总，你都知道哪些？](https://mp.weixin.qq.com/s/_IDil6VANrAa4BVR3AD3cA)：```具有时效性```
+
+[学术论文：美国对虚拟货币证券性质的认定思路及启示](https://mp.weixin.qq.com/s/wUbyI8hVBt5kGBnJ4VLjwQ)
+
 # 有意思的新闻
 
 ## 2022
