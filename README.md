@@ -324,7 +324,8 @@
   - :white_check_mark:[工业区块链案例集【2021】](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK)
   - :white_check_mark:[元宇宙报告【2021-2022】【腾讯&复旦大学新闻学院】](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf)
   - :white_check_mark:[金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
-  - [:white_check_mark:“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)
+  - :white_check_mark:[“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)【2022】
+  - :white_check_mark:[Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)【2022】【美联储】：货币与支付：数字化变革时代中的美元
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
