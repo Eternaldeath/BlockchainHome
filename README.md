@@ -12,7 +12,7 @@
 - 🗺️ RoadMap
   - 2021：仓库建立，仓库内容的充实，仓库布局的改善
   - 2022
-    - 继续按每周的速度进行更新
+    - 继续按每周的速度进行更新，计划新增更多板块
     - 校验已有的仓库内容，剔除已经失效的链接
     - 引入星级评级（**星级评级为仓库管理员的主观判断，仅供参考**）
     - ... 
@@ -292,7 +292,8 @@
   - [ipfs](https://ipfs.io/)
   - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
   - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
-
+  - [π](https://minepi.com/)：一款可以在手机上挖矿的加密货币 ⚠︎ ```该项目存在争议```
+  
 - 联盟链
   - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
   - [FISCO BCOS](https://www.fisco.com.cn/)：国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。
