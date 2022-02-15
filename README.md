@@ -9,8 +9,14 @@
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
 - 为什么创建？1. 目前很多区块链资源仓库很久没有进行更新了；2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
-- 更新：目前仓库按照一周一更的速度（**打钩的内容表示已经收录，未打钩的内容表示暂无资源**），正处于仓库内容的充实阶段
-- **欢迎 PR，目前缺少区块链底层（公链）开发的书籍**，出现资源失效或错误请通过 Issues 或者邮箱告知
+- 🗺️ RoadMap
+  - 2021：仓库建立，仓库内容的充实，仓库布局的改善
+  - 2022
+    - 继续按每周的速度进行更新
+    - 校验已有的仓库内容，剔除已经失效的链接
+    - 引入星级评级（**星级评级为仓库管理员的主观判断，仅供参考**）
+    - ... 
+
 
 # 状态
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
@@ -322,6 +328,7 @@
   - :white_check_mark:[全球区块链产业全景与趋势【2021】【火币研究院】](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf)
   - :white_check_mark:[海南区块链产业发展白皮书【2021】](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
   - :white_check_mark:[工业区块链案例集【2021】](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK)
+  - :white_check_mark:[NFT 市场的现状与展望](https://xuangubao.cn/v/article/101113254)【2021】【中信证券】⭐︎⭐︎
   - :white_check_mark:[元宇宙报告【2021-2022】【腾讯&复旦大学新闻学院】](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf)
   - :white_check_mark:[金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
   - :white_check_mark:[“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)【2022】
@@ -333,7 +340,7 @@
   - :white_check_mark:开启新纪元：隐私计算在金融领域应用发展报告【2021】【零壹财经】
   - :white_check_mark:6G网络架构愿景与关键技术展望白皮书【2021】
   - :white_check_mark:链计算白皮书【2021】【腾讯研究院】
-  - :white_check_mark:元宇宙报告【2022】【清华大学】【2.0 版本】
+  - :white_check_mark:元宇宙报告【2022】【清华大学】【2.0 版本】⭐︎⭐︎
 
 # 🎮️比赛
 
