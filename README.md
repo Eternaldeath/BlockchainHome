@@ -1,8 +1,6 @@
 # blockchainHome
 ![blockchain-home-logo](https://user-images.githubusercontent.com/25715070/137857002-52ab8a41-65e9-41a1-ab8c-6d33904a9ca3.png)
-[![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)
-[![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)
+[![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)[![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)[![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 
 # 写在前面
@@ -14,9 +12,10 @@
   - 2022
     - 继续按每周的速度进行更新，计划新增更多板块
       - 比赛：各种区块链比赛信息
-      - 区块链行业招聘信息：聚合主流招聘网站的区块链信息，有岗位的公司也可以通过 issue 和morningstar1001@163.com告知我
+      - 【可选】区块链行业招聘信息：聚合主流招聘网站的区块链信息，有岗位的公司也可以通过 issue 和morningstar1001@163.com告知我
     - 校验已有的仓库内容，剔除已经失效的链接
     - 引入星级评级（**星级评级为仓库管理员的主观判断，仅供参考**）
+    - 【可选】区块链行业全景图
     - ... 
 
 
@@ -318,6 +317,10 @@
 
 - 跨链
   - [cosmos](https://cosmos.network/)：支持跨链交互的异构网络
+- 其他
+
+  - [以太坊开发者工具表](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
 
 # 👨‍💻源码学习
 - 以太坊
