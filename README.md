@@ -219,6 +219,7 @@
   - :white_check_mark:[【2021新版】Golang区块链入门到实战_以太坊/fabric【B 站】](https://www.bilibili.com/video/BV1jf4y1s7sZ)
   - :white_check_mark:[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto【youtube】](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery)
   - :white_check_mark:[理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2)【youtube】【中文】
+  - :white_check_mark:[How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23)：⭐︎⭐︎
  - 编程开发课
   - 公链底层开发
     - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
