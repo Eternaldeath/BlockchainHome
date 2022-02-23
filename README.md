@@ -238,6 +238,9 @@
     - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  
     - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
     - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity【youtube】](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
+    - :white_check_mark:[编程宝库【教程文档】](http://www.codebaoku.com/solidity/solidity-index.html)⭐︎⭐︎⭐︎⭐︎：非常适合入门，讲了 solidity 中的核心要点，但是也有很多没讲到，可以配合官方文档使用
+    - :white_check_mark:[tutorialspoint【教程文档】](https://www.tutorialspoint.com/solidity) ⭐︎⭐︎⭐︎⭐︎：教程的组织结构比 solidity 官方更清晰，用例简单易懂，缺点是版本有点老
+    - :white_check_mark:[solidity-by-example【教程文档】](https://solidity-by-example.org/) ⭐︎⭐︎⭐︎⭐︎：教程的组织结构比 solidity 官方更清晰，版本也很新
 - 区块链大会
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
