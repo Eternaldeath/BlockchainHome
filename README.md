@@ -256,7 +256,7 @@
   - C++
   - ...
 - 智能合约开发语言
-  - [solidity](https://docs.soliditylang.org/)
+  - [solidity](https://docs.soliditylang.org/)：[中文文档（目前支持 v0.8.0）](https://learnblockchain.cn/docs/solidity/index.html)
 - 相关框架
   - [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
   - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架
