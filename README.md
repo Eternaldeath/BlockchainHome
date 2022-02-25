@@ -258,8 +258,8 @@
 - 智能合约开发语言
   - [solidity](https://docs.soliditylang.org/)：[中文文档（目前支持 v0.8.0）](https://learnblockchain.cn/docs/solidity/index.html)
 - 相关框架
-  - [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
-  - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架
+  - [hardhat](https://hardhat.org/)：一种基于以太坊的智能合约开发框架 | [ethers.js](https://docs.ethers.io/v5/)：前端与智能合约交互的 js 框架
+  - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架 | [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
   - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架 ```rust```
   - [cosmos sdk](https://docs.cosmos.network/)：cosmos 提供的一套构建特定应用区块链的开发框架 ```go```
 - 钱包
