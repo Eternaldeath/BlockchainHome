@@ -318,6 +318,7 @@
 - 智能合约
 
   - [Fantom](https://fantom.foundation/)：智能合约开发平台
+  - [OpenZeppelin](https://openzeppelin.com/)：提供安全保障的智能合约开发框架
 
 
 - 跨链
