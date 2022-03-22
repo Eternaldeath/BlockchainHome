@@ -232,8 +232,7 @@
     - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
     - :white_check_mark:[Go语言/Golang开发 区块链以太坊项目实战（完结）【B 站】](https://www.bilibili.com/video/BV1Sv411a7fm?from=search&seid=15792179978890242044&spm_id_from=333.337.0.0) ```go```
   - 联盟链开发
-    - [区块链编程 实战开发 HyperLedger（超级账本）Fabric【B 站】](https://www.bilibili.com/video/BV1a4411X7Z1?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
-    - [hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
+    - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
     - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  ⭐︎⭐︎⭐︎⭐︎ 非常适合 dapp 开发的入门，讲解了 dapp 的原理，dapp 的开发框架 truffle，本地私链 geth 和模拟本地私链 ganache 的入门内容
     - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
