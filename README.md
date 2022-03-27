@@ -340,6 +340,15 @@
   - :white_check_mark:[海南区块链产业发展白皮书【2021】](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
   - :white_check_mark:[工业区块链案例集【2021】](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK)
   - :white_check_mark:[NFT 市场的现状与展望](https://xuangubao.cn/v/article/101113254)【2021】【中信证券】⭐︎⭐︎
+  - :white_check_mark: CCF 中国区块链技术大会【2021】
+    - [融合多方技术 构建可信社会](https://mp.weixin.qq.com/s/XeoONu2K0cAmh9hBp1a6kQ) ⭐︎⭐︎
+    - [元宇宙和新财富](https://mp.weixin.qq.com/s/CvqqEF7z3sImb0Qs2Lqzvg) ⭐︎
+    - [数字货币在暗网中的使用初探 ](https://mp.weixin.qq.com/s/-tk1cCaYgcfBnjuS0Pahjw)⭐︎⭐︎
+    - [数字藏品产业应用实践](https://mp.weixin.qq.com/s/ypaATVq1SLCWafnnrqoM5w) ⭐︎⭐︎
+    - [区块链与数据要素市场化的瓶颈](https://mp.weixin.qq.com/s/UNJPCUdfOT9TDgWj3dGRJg)
+    - [赋能国家级金融数字化基础设施](https://mp.weixin.qq.com/s/5e10RkcSa7lcKeuHoe_3Qw)
+    - [全球公有链企业级和政府级应用展示](https://mp.weixin.qq.com/s/I1g71nJzrr82vbLa6AiT9A)
+    - [区块链助力碳中和](https://mp.weixin.qq.com/s/O32fcM8mPgJvLK8O2-bJ6Q)
   - :white_check_mark:[元宇宙报告【2021-2022】【腾讯&复旦大学新闻学院】](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf)
   - :white_check_mark:[金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
   - :white_check_mark:[“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)【2022】
