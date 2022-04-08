@@ -354,6 +354,7 @@
   - :white_check_mark:[金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
   - :white_check_mark:[“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)【2022】
   - :white_check_mark:[Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)【2022】【美联储】：货币与支付：数字化变革时代中的美元
+  - :white_check_mark:[解密元宇宙](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf)【2022】【普道永华】
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
