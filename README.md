@@ -231,6 +231,7 @@
     - :white_check_mark:[go 语言公链开发【网易公开课】](https://open.163.com/newview/movie/free?pid=FFTLS0UJF&mid=XFTLS6H0F) ```go```
     - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
     - :white_check_mark:[Go语言/Golang开发 区块链以太坊项目实战（完结）【B 站】](https://www.bilibili.com/video/BV1Sv411a7fm?from=search&seid=15792179978890242044&spm_id_from=333.337.0.0) ```go```
+    - :white_check_mark: [手把手教你实现简易比特币 【其它】](https://www.chaindesk.cn/witbook/6)```go```
   - 联盟链开发
     - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
@@ -354,7 +355,7 @@
   - :white_check_mark:[金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
   - :white_check_mark:[“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)【2022】
   - :white_check_mark:[Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)【2022】【美联储】：货币与支付：数字化变革时代中的美元
-  - :white_check_mark:[解密元宇宙](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf)【2022】【普道永华】
+  - :white_check_mark:[解密元宇宙](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf)【2022】【普道永华】⭐︎⭐︎
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
