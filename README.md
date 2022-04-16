@@ -232,6 +232,7 @@
     - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
     - :white_check_mark:[Go语言/Golang开发 区块链以太坊项目实战（完结）【B 站】](https://www.bilibili.com/video/BV1Sv411a7fm?from=search&seid=15792179978890242044&spm_id_from=333.337.0.0) ```go```
     - :white_check_mark: [手把手教你实现简易比特币 【其它】](https://www.chaindesk.cn/witbook/6)```go```
+    - :white_check_mark: [万字长文，教你用go开发区块链应用【其它】](https://mp.weixin.qq.com/s/cjftQIFqdTYHt3pqcbfzdQ) ```go```
   - 联盟链开发
     - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
