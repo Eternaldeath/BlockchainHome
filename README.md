@@ -247,6 +247,7 @@
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
   - 数据安全产业峰会_可信隐私计算高峰论坛
+  - [万物起源・2022 元宇宙云峰会](https://www.8btc.com/metaverse-2022)【巴比特】：⭐︎⭐︎
 
 # 🎨相关框架和开发语言
 - 底层开发语言
