@@ -201,8 +201,9 @@
     - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
   - 其他
     - :white_check_mark:[Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
-    - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学
+    - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
     - :white_check_mark:[区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
+    - :white_check_mark:[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》。
 
 # [💻](https://www.emojiall.com/zh-hans/emoji/💻)开发教程
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
