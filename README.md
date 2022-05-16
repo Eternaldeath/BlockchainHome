@@ -289,6 +289,7 @@
 - [messari](https://messari.io/): Crypto Research, Data, and Tools
 - [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
 - [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
+- [The Block](https://www.theblockcrypto.com/)：The First and Final Word in Digital Assets
 
 # 📂平台与开发
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
