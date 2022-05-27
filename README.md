@@ -80,7 +80,7 @@
   - :white_check_mark:《区块链技术驱动金融》```豆瓣：8.2```
   - 《区块链简史》
 ## 技术
-- [百度网盘链接](https://pan.baidu.com/s/1S4Bw1mJEx4xix6V0wxMPUw)【提取码：adef】
+- [百度网盘链接](https://pan.baidu.com/s/1KTvypD8SetaGj_o19--eUQ?pwd=3fc2)【提取码：3fc2】
   - 公链
     - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
     - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
