@@ -201,6 +201,8 @@
     - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
     - :white_check_mark:[区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
     - :white_check_mark:[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》。
+  - 期刊
+    - :white_check_mark:[信息通信学术期刊 _ 大数据板块](http://www.infocomm-journal.com/bdr/CN/volumn/volumn_1231.shtml)
 
 # [💻](https://www.emojiall.com/zh-hans/emoji/💻)开发教程
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
@@ -234,13 +236,14 @@
   - 联盟链开发
     - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
   - dapp 应用开发
-    - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  ⭐︎⭐︎⭐︎⭐︎ 非常适合 dapp 开发的入门，讲解了 dapp 的原理，dapp 的开发框架 truffle，本地私链 geth 和模拟本地私链 ganache 的入门内容
+    - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  ⭐︎⭐︎⭐︎⭐︎ 非常适合 dapp 开发的入门，讲解了 dapp 的原理，dapp 的开发框架 truffle，本地私链 geth 和模拟本地私链 ganache 的入门内容。
     - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
     - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity【youtube】](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
-    - :white_check_mark:[编程宝库【教程文档】](http://www.codebaoku.com/solidity/solidity-index.html)：⭐︎⭐︎⭐︎⭐︎ 非常适合入门，讲了 solidity 中的核心要点，但是也有很多没讲到，可以配合官方文档使用
-    - :white_check_mark:[tutorialspoint【教程文档】](https://www.tutorialspoint.com/solidity) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，用例简单易懂，缺点是版本有点老
-    - :white_check_mark:[solidity-by-example【教程文档】](https://solidity-by-example.org/) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，版本也很新
-    - :white_check_mark:[dapp-learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)：⭐︎⭐︎⭐︎⭐︎ 由浅入深，逐步学习 dapp 开发
+    - :white_check_mark:[编程宝库【教程文档】](http://www.codebaoku.com/solidity/solidity-index.html)：⭐︎⭐︎⭐︎⭐︎ 非常适合入门，讲了 solidity 中的核心要点，但是也有很多没讲到，可以配合官方文档使用。
+    - :white_check_mark:[tutorialspoint【教程文档】](https://www.tutorialspoint.com/solidity) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，用例简单易懂，缺点是版本有点老。
+    - :white_check_mark:[solidity-by-example【教程文档】](https://solidity-by-example.org/) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，版本也很新。
+    - :white_check_mark:[dapp-learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)：⭐︎⭐︎⭐︎⭐︎ 由浅入深，逐步学习 dapp 开发。
+    - :white_check_mark:[区块链 Dapp 开发教程](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md)：⭐︎⭐︎⭐︎ 一个可执行且最简的区块链 **Dapp** 学习路线，受以太坊基金会赞助。
 - 区块链大会
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
