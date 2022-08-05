@@ -1,9 +1,10 @@
 # blockchainHome
+
 ![blockchain-home-logo](https://user-images.githubusercontent.com/25715070/137857002-52ab8a41-65e9-41a1-ab8c-6d33904a9ca3.png)
 [![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)[![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)[![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-
 # 写在前面
+
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
 - 为什么创建？1. 目前很多区块链资源仓库很久没有进行更新了；2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
 - 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
@@ -15,11 +16,9 @@
     - 引入星级评级（**星级评级为仓库管理员的主观判断，仅供参考**）
     - ... 
 
-
 # 状态
+
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
-
-
 
 # 目录
 
@@ -27,12 +26,12 @@
 
 [图书](https://github.com/Eternaldeath/blockchainHome#%E5%9B%BE%E4%B9%A6)
 
-  - [科普](https://github.com/Eternaldeath/blockchainHome#%E7%A7%91%E6%99%AE)
-  - [技术](https://github.com/Eternaldeath/blockchainHome#%E6%8A%80%E6%9C%AF)
-  - [金融](https://github.com/Eternaldeath/blockchainHome#%E9%87%91%E8%9E%8D)
-  - [白皮书](https://github.com/Eternaldeath/blockchainHome#%E7%99%BD%E7%9A%AE%E4%B9%A6)
-  - [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
-  - [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
+- [科普](https://github.com/Eternaldeath/blockchainHome#%E7%A7%91%E6%99%AE)
+- [技术](https://github.com/Eternaldeath/blockchainHome#%E6%8A%80%E6%9C%AF)
+- [金融](https://github.com/Eternaldeath/blockchainHome#%E9%87%91%E8%9E%8D)
+- [白皮书](https://github.com/Eternaldeath/blockchainHome#%E7%99%BD%E7%9A%AE%E4%B9%A6)
+- [论文](https://github.com/Eternaldeath/blockchainHome#%E8%AE%BA%E6%96%87)
+- [其他](https://github.com/Eternaldeath/blockchainHome#%E5%85%B6%E4%BB%96)
 
 [开发教程](https://github.com/Eternaldeath/blockchainHome#%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
 
@@ -55,10 +54,13 @@
 [详细更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
 
 # [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
+
 ## 科普
+
 - 在线链接
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
   - :white_check_mark:[币安问问学院](https://academy.binance.com/zh)：从入门到进阶的科普文章
+  - :white_check_mark:[收藏 | 15天入门Web3，从0到1速成指南]([收藏 | 15天入门Web3，从0到1速成指南 | 巴比特](https://www.8btc.com/article/6769680))
   - 《白话区块链》
   - 《数字黄金：比特币鲜为人知的故事》
   - 《区块链：价值互联网的基石》
@@ -76,7 +78,8 @@
   - :white_check_mark:《区块链：从数字货币到信用社会》```豆瓣：7.2```
   - :white_check_mark:《区块链技术驱动金融》```豆瓣：8.2```
   - 《区块链简史》
-## 技术
+    
+    ## 技术
 - [百度网盘链接](https://pan.baidu.com/s/1KTvypD8SetaGj_o19--eUQ?pwd=3fc2)【提取码：3fc2】
   - 公链
     - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
@@ -128,7 +131,8 @@
     - 《区块链的数学原理》 ```豆瓣：评价人数不足```
     - 《区块链安全技术指南》 ```豆瓣：评价人数不足```
     - 《链改：区块链中国方案》 ```豆瓣：评价人数不足```
-## 金融
+      
+      ## 金融
 - 在线链接
   - :white_check_mark:how to defi
     - 第一版：how to defi: advanced [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)
@@ -136,8 +140,10 @@
   - 《区块链供应链金融》 ```豆瓣：6.0```
 - [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
   - :white_check_mark:《如何投资数字货币》 
-## 白皮书
-> 白皮书是指政府，会议公开发表的有关重大问题的文件
+    
+    ## 白皮书
+    
+    > 白皮书是指政府，会议公开发表的有关重大问题的文件
 - 在线链接
   - :white_check_mark:以太坊白皮书 [（中文版）](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) [（英文版）](https://github.com/ethereum/wiki/wiki/White-Paper)
   - :white_check_mark:[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
@@ -154,8 +160,10 @@
   - :white_check_mark:2018年中国区块链产业白皮书
   - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
   - :white_check_mark:隐私计算金融应用蓝皮书_2021_交通银行
-## 论文
-> 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
+    
+    ## 论文
+    
+    > 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
   - 综述
     - :white_check_mark:区块链技术与应用前瞻综述
@@ -205,7 +213,9 @@
     - :white_check_mark:[信息通信学术期刊 _ 大数据板块](http://www.infocomm-journal.com/bdr/CN/volumn/volumn_1231.shtml)
 
 # [💻](https://www.emojiall.com/zh-hans/emoji/💻)开发教程
+
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
+
 - 理论公开课
   - :white_check_mark:[普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
   - :white_check_mark:[区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
@@ -221,6 +231,7 @@
   - :white_check_mark:[理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2)【youtube】【中文】：⭐︎⭐︎⭐︎⭐︎ 非常好的 dapp 开发教程，建议入门完 Solidity 后学习
   - :white_check_mark:[How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23)：⭐︎⭐︎
   - :white_check_mark:[buildSpace](https://app.buildspace.so/home)：⭐︎⭐︎⭐︎ 通过项目的方式进行实战
+  - :white_check_mark:[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups)：关于 Rollups 的介绍
   - 公链底层开发
     - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
     - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```以太坊``` ```分布式```
@@ -251,6 +262,7 @@
   - [万物起源・2022 元宇宙云峰会](https://www.8btc.com/metaverse-2022)【巴比特】：⭐︎⭐︎
 
 # 🎨相关框架和开发语言
+
 - 底层开发语言
   - [Go](https://golang.org/)
   - Java
@@ -269,16 +281,17 @@
 - 钱包
   - [MetaMask](https://metamask.io/)：支持以太坊的加密钱包
 
-
 # 📰相关论坛，新闻咨询平台
+
 > 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
+
 - [以太坊爱好者](https://ethfans.org/)
 - [巴比特](https://www.8btc.com/)
 - [非小号](https://www.feixiaohao.co/)
 - [金色财经](https://www.jinse.com/)
 - [链节点](https://www.chainnode.com/)：ChainNode 链节点 - 元宇宙社区
 - [区块链日报](https://www.trzrb.com/)：区块链日报-区块链新闻资讯网站-区块链项目报道平台
-- [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态	
+- [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态    
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
 - [加密货币贪婪指数](https://history.btc123.fans/zhishu/)：加密货币贪婪指数
@@ -292,8 +305,11 @@
 - [The Block](https://www.theblockcrypto.com/)：The First and Final Word in Digital Assets
 
 # 📂平台与开发
+
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
+
 - 公链
+  
   - 比特币
     - [比特币中文官网](https://bitcoin.org/zh_CN/)
     - [比特币 github](https://github.com/bitcoin)
@@ -305,7 +321,9 @@
   - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
   - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
   - [π](https://minepi.com/)：一款可以在手机上挖矿的加密货币 ⚠︎ ```该项目存在争议```
+
 - 联盟链
+  
   - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
   - [FISCO BCOS](https://www.fisco.com.cn/)：国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。
   - [腾讯区块链](https://trustsql.qq.com/)
@@ -313,33 +331,38 @@
   - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
   - [趣链科技](https://www.hyperchain.cn/)
   - [纸贵科技](https://www.zhigui.com/)
+
 - Layer2
+  
   - 侧链
     - [Lisk](https://lisk.com/)
   - plasm
     - [polygon](https://polygon.technology/)
   - Rollup
     - [Arbitrum](https://offchainlabs.com/)：热门的以太坊 L2 解决方案，由 [offchainlabs](https://offchainlabs.com/) 开发，采用 OP 验证
-- 智能合约
 
+- 智能合约
+  
   - [Fantom](https://fantom.foundation/)：智能合约开发平台
   - [OpenZeppelin](https://openzeppelin.com/)：提供安全保障的智能合约开发框架
 
-
 - 跨链
+  
   - [cosmos](https://cosmos.network/)：支持跨链交互的异构网络
-- 其他
 
+- 其他
+  
   - [以太坊开发者工具表](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
-
 # 👨‍💻源码学习
+
 - 以太坊
   - [以太坊源码与设计之美](https://zhuanlan.zhihu.com/p/58212573)  
   - [7 天以太坊源码解读](https://studygolang.com/articles/26269)
   - [go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 
 # 📑产业报告
+
 - 在线链接
   - :white_check_mark:[区块链应用概览【2021】【头豹】](https://pdf.dfcfw.com/pdf/H3_AP202103241475525369_1.pdf?1616585160000.pdf)
   - :white_check_mark:[全球区块链产业全景与趋势【2021】【火币研究院】](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf)
@@ -371,8 +394,6 @@
   - :white_check_mark:元宇宙报告【2022】【清华大学】【2.0 版本】⭐︎⭐︎
 
 # 🎮️比赛
-
-
 
 # 📖其他
 
