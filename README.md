@@ -384,6 +384,7 @@
   - :white_check_mark:[Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)【2022】【美联储】：货币与支付：数字化变革时代中的美元
   - :white_check_mark:[解密元宇宙](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf)【2022】【普道永华】⭐︎⭐︎
   - :white_check_mark:[元宇宙与金钱：解密未来](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)【2022】【花旗银行】
+  - ✅ [2022元宇宙产业技术和创新应用白皮书](https://mp.weixin.qq.com/s?__biz=MzA5NDExMTAzNA==&mid=2650027605&idx=1&sn=e8791ed3aa20ea576e873b271c2c5760&chksm=88530200bf248b165aa02d1351fc93f50c86931b914cbd96cf3b5119b5fa9c9dd9fec43b5cc2&scene=126&&sessionid=1660988223#rd)【2022】【上海】
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
@@ -392,8 +393,6 @@
   - :white_check_mark:6G网络架构愿景与关键技术展望白皮书【2021】
   - :white_check_mark:链计算白皮书【2021】【腾讯研究院】
   - :white_check_mark:元宇宙报告【2022】【清华大学】【2.0 版本】⭐︎⭐︎
-
-# 🎮️比赛
 
 # 📖其他
 
