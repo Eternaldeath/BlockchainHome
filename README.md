@@ -303,6 +303,8 @@
 - [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
 - [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
 - [The Block](https://www.theblockcrypto.com/)：The First and Final Word in Digital Assets
+- [ultra sound money](https://ultrasound.money/):Ultra sound money is an Ethereum meme focusing on the likely decrease of the ETH supply.
+If capped-supply gold is sound, decreasing-supply ether is ultra sound.
 
 # 📂平台与开发
 
