@@ -58,6 +58,7 @@
 ## 科普
 
 - 在线链接
+  
   - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
   - :white_check_mark:[币安问问学院](https://academy.binance.com/zh)：从入门到进阶的科普文章
   - :white_check_mark:[收藏 | 15天入门Web3，从0到1速成指南]([收藏 | 15天入门Web3，从0到1速成指南 | 巴比特](https://www.8btc.com/article/6769680))
@@ -68,19 +69,31 @@
   - 《比特币：一个虚幻而真实的金融世界》
   - 《区块链十年》
   - 《数字货币来了：比特币.区块链.货币未来》
+
 - [百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA)【提取码：dmj9】
+  
   - :white_check_mark:《图说区块链》```豆瓣：6.0```
+  
   - :white_check_mark:《区块链实战：从技术创新到商业模式》```豆瓣：9.0```
+  
   - :white_check_mark:《区块链领导干部读本》```豆瓣：5.9```
+  
   - :white_check_mark:《区块链：元宇宙的灵魂》```豆瓣：暂无此书```
+  
   - :white_check_mark:《区块链：新经济蓝图及导读》```豆瓣：6.1```
+  
   - :white_check_mark:《区块链：通往资产数字化之路》```豆瓣：8.5```
+  
   - :white_check_mark:《区块链：从数字货币到信用社会》```豆瓣：7.2```
+  
   - :white_check_mark:《区块链技术驱动金融》```豆瓣：8.2```
+  
   - 《区块链简史》
     
     ## 技术
+
 - [百度网盘链接](https://pan.baidu.com/s/1KTvypD8SetaGj_o19--eUQ?pwd=3fc2)【提取码：3fc2】
+  
   - 公链
     - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
     - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
@@ -99,8 +112,11 @@
     - :white_check_mark:《区块链技术与应用笔记_北大肖臻》 ```豆瓣：暂无此书```
     - :white_check_mark:《区块链核心算法解析》 ```豆瓣：7.7```
     - :white_check_mark:《P2P 技术内幕》 ```豆瓣：暂无此书```
+
 - 在线链接
+  
   - 公链
+    
     - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/) ```豆瓣：8.7```
     - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
     - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) ```个人学习笔记```：图解区块链
@@ -115,7 +131,9 @@
     - 《区块链：交易系统开发指南》 ```豆瓣：评价人数不足```
     - 《从零开始自己动手写区块链》 ```豆瓣：评价人数不足```
     - 《区块链底层设计Java实战》 ```豆瓣：评价人数不足```
+  
   - 联盟链
+    
     - :white_check_mark:[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)
     - :white_check_mark:[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)：超级账本，开源书籍
     - 《区块链开发实战- Hyperledger Fabric关键技术与案例分析》 ```豆瓣：评价人数不足``` 
@@ -123,28 +141,42 @@
     - 《区块链网络构建和应用：基于超级账本Fabric的商业实践》 ```豆瓣：评价人数不足``` 
     - 《Hyperledger Fabric 技术内幕：架构设计与实现原理》 ```豆瓣：评价人数不足``` 
     - 《Hyperledger Fabric核心技术》  ```豆瓣：评价人数不足``` 
+  
   - 智能合约
+  
   - 其他
+    
     - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
+    
     - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
+    
     - 《图解密码技术》 ```豆瓣：9.1```
+    
     - 《区块链的数学原理》 ```豆瓣：评价人数不足```
+    
     - 《区块链安全技术指南》 ```豆瓣：评价人数不足```
+    
     - 《链改：区块链中国方案》 ```豆瓣：评价人数不足```
       
       ## 金融
+
 - 在线链接
+  
   - :white_check_mark:how to defi
     - 第一版：how to defi: advanced [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)
     - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)（翻译 ing）
   - 《区块链供应链金融》 ```豆瓣：6.0```
+
 - [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
+  
   - :white_check_mark:《如何投资数字货币》 
     
     ## 白皮书
     
     > 白皮书是指政府，会议公开发表的有关重大问题的文件
+
 - 在线链接
+  
   - :white_check_mark:以太坊白皮书 [（中文版）](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) [（英文版）](https://github.com/ethereum/wiki/wiki/White-Paper)
   - :white_check_mark:[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
   - :white_check_mark:[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
@@ -152,19 +184,29 @@
   - :white_check_mark:[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)：Hyperledger 是 Hyperledger Fabric 的母项目
   - :white_check_mark:[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)
   - :white_check_mark:[solana](https://solana.com/solana-whitepaper.pdf)
+
 - [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
+  
   - :white_check_mark:比特币白皮书
+  
   - :white_check_mark:2019 腾讯区块链白皮书
+  
   - :white_check_mark:中国数字人民币的研发进展白皮书
+  
   - :white_check_mark:腾讯隐私计算白皮书
+  
   - :white_check_mark:2018年中国区块链产业白皮书
+  
   - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
+  
   - :white_check_mark:隐私计算金融应用蓝皮书_2021_交通银行
     
     ## 论文
     
     > 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
+
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
+  
   - 综述
     - :white_check_mark:区块链技术与应用前瞻综述
     - :white_check_mark:A systematic review of blockchain
@@ -174,7 +216,9 @@
     - :white_check_mark:IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
     - :white_check_mark:Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
     - :white_check_mark:Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
+
 - 在线链接
+  
   - 跨链
     - :white_check_mark:[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472) ```arxiv``` 本篇论文在 vitalik 的博客 EndGame 中被提及
     - :white_check_mark:[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
@@ -303,8 +347,9 @@
 - [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
 - [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
 - [The Block](https://www.theblockcrypto.com/)：The First and Final Word in Digital Assets
-- [ultra sound money](https://ultrasound.money/):Ultra sound money is an Ethereum meme focusing on the likely decrease of the ETH supply.
-If capped-supply gold is sound, decreasing-supply ether is ultra sound.
+- [ultra sound money](https://ultrasound.money/):Ultra sound money is an Ethereum meme focusing on the likely decrease of the ETH supply
+  If capped-supply gold is sound, decreasing-supply ether is ultra sound
+- [一文概览 Web3 增长工具赛道全景](https://www.8btc.com/article/6782278)：⭐︎⭐︎ ⭐︎一份 Web3 增长工具清单
 
 # 📂平台与开发
 
