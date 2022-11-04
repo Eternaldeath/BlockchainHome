@@ -350,6 +350,7 @@
 - [ultra sound money](https://ultrasound.money/):Ultra sound money is an Ethereum meme focusing on the likely decrease of the ETH supply
   If capped-supply gold is sound, decreasing-supply ether is ultra sound
 - [一文概览 Web3 增长工具赛道全景](https://www.8btc.com/article/6782278)：⭐︎⭐︎ ⭐︎一份 Web3 增长工具清单
+- [我关注了哪些加密行业的推特](https://mp.weixin.qq.com/s?__biz=MzU0ODY0NjgxMw==&mid=2247486273&idx=1&sn=c901fea20046cab462bc8d430827db2d&chksm=fbbab1b3cccd38a51aa506fe47caf4a0bb987db0b061ce1dea243122487819423a82408e51c4&scene=126&&sessionid=1665925588#rd)：⭐︎⭐︎
 
 # 📂平台与开发
 
