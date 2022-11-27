@@ -434,6 +434,7 @@
   - :white_check_mark:[元宇宙与金钱：解密未来](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)【2022】【花旗银行】
   - ✅ [2022元宇宙产业技术和创新应用白皮书](https://mp.weixin.qq.com/s?__biz=MzA5NDExMTAzNA==&mid=2650027605&idx=1&sn=e8791ed3aa20ea576e873b271c2c5760&chksm=88530200bf248b165aa02d1351fc93f50c86931b914cbd96cf3b5119b5fa9c9dd9fec43b5cc2&scene=126&&sessionid=1660988223#rd)【2022】【上海】⭐︎⭐︎⭐︎⭐︎
   - ✅ [亚太元宇宙白皮书（英文版）](https://mp.weixin.qq.com/s?__biz=MzAwMjkwMzY0Mg==&mid=2247497351&idx=1&sn=48a0a7667ee27f133830411fcd0ebcbc&chksm=9ac1edb2adb664a4567f71dabe9e4a0d03592dd1aa51d16f01589c01f641600f5540e6f779ee&scene=126&&sessionid=1667099991#rd)【2022】【商汤】
+  - ✅[报告 | 2022年元宇宙应用场景发展趋势分析](https://www.8btc.com/article/6784336)【2022】【易观分析】⭐︎⭐︎⭐︎
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
