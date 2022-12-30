@@ -329,28 +329,26 @@
 
 > 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
 
-- [以太坊爱好者](https://ethfans.org/)
-- [巴比特](https://www.8btc.com/)
-- [非小号](https://www.feixiaohao.co/)
-- [金色财经](https://www.jinse.com/)
-- [链节点](https://www.chainnode.com/)：ChainNode 链节点 - 元宇宙社区
-- [区块链日报](https://www.trzrb.com/)：区块链日报-区块链新闻资讯网站-区块链项目报道平台
+- [巴比特](https://www.8btc.com/)：⭐︎⭐︎⭐︎⭐︎⭐︎
+- [金色财经](https://www.jinse.com/)：⭐︎⭐︎⭐︎⭐︎⭐︎
+- [链节点](https://www.chainnode.com/)：⭐︎⭐︎ ⭐︎ ChainNode 链节点 - 元宇宙社区
+- [区块链日报](https://www.trzrb.com/)：⭐︎⭐︎ 区块链日报-区块链新闻资讯网站-区块链项目报道平台
 - [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态    
 - [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
 - [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
 - [加密货币贪婪指数](https://history.btc123.fans/zhishu/)：加密货币贪婪指数
 - [coingecko](https://www.coingecko.com/zh)：获取最新的加密货币市场概述和分析，包括价格，市值，交易量等，类似 conmarketcap，支持中文
 - [IFTNews](http://www.ifintechnews.com/)：聚焦金融科技,解读科技金融,旨在打造领先金融科技资讯媒介平台
-- [digiconomist](https://digiconomist.net/): Digiconomist - Exposing the Unintended Consequences of Digital Trends
-- [bitcoinmagazine](https://bitcoinmagazine.com/): Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides
-- [messari](https://messari.io/): Crypto Research, Data, and Tools
-- [defipulse](https://defipulse.com/): DeFi Pulse - The Decentralized Finance Leaderboard
-- [CoinDesk](https://www.coindesk.com/): Bitcoin, Ethereum, Crypto News and Price Data
-- [The Block](https://www.theblockcrypto.com/)：The First and Final Word in Digital Assets
-- [ultra sound money](https://ultrasound.money/):Ultra sound money is an Ethereum meme focusing on the likely decrease of the ETH supply
-  If capped-supply gold is sound, decreasing-supply ether is ultra sound
-- [一文概览 Web3 增长工具赛道全景](https://www.8btc.com/article/6782278)：⭐︎⭐︎ ⭐︎一份 Web3 增长工具清单
+- [digiconomist](https://digiconomist.net/): 分析数字经济趋势的网站
+- [bitcoinmagazine](https://bitcoinmagazine.com/): 比特币新闻、文章、图表和指南
+- [messari](https://messari.io/): 提供加密领域的研究、数据和工具
+- [defipulse](https://defipulse.com/): 去中心化金融排行榜
+- [CoinDesk](https://www.coindesk.com/): 比特币、以太坊、加密新闻和价格数据
+- [The Block](https://www.theblockcrypto.com/)：数字资产分析
+- [ultra sound money](https://ultrasound.money/)：以太坊的分析网站
+- [一文概览 Web3 增长工具赛道全景](https://www.8btc.com/article/6782278)：⭐︎⭐︎ ⭐︎ 一份 Web3 增长工具清单
 - [我关注了哪些加密行业的推特](https://mp.weixin.qq.com/s?__biz=MzU0ODY0NjgxMw==&mid=2247486273&idx=1&sn=c901fea20046cab462bc8d430827db2d&chksm=fbbab1b3cccd38a51aa506fe47caf4a0bb987db0b061ce1dea243122487819423a82408e51c4&scene=126&&sessionid=1665925588#rd)：⭐︎⭐︎
+- [L2BEAT](https://l2beat.com/scaling/tvl/)：⭐︎⭐︎ ⭐︎⭐︎ 以太坊第二层协议的分析和研究的网站
 
 # 📂平台与开发
 
@@ -435,6 +433,7 @@
   - ✅ [2022元宇宙产业技术和创新应用白皮书](https://mp.weixin.qq.com/s?__biz=MzA5NDExMTAzNA==&mid=2650027605&idx=1&sn=e8791ed3aa20ea576e873b271c2c5760&chksm=88530200bf248b165aa02d1351fc93f50c86931b914cbd96cf3b5119b5fa9c9dd9fec43b5cc2&scene=126&&sessionid=1660988223#rd)【2022】【上海】⭐︎⭐︎⭐︎⭐︎
   - ✅ [亚太元宇宙白皮书（英文版）](https://mp.weixin.qq.com/s?__biz=MzAwMjkwMzY0Mg==&mid=2247497351&idx=1&sn=48a0a7667ee27f133830411fcd0ebcbc&chksm=9ac1edb2adb664a4567f71dabe9e4a0d03592dd1aa51d16f01589c01f641600f5540e6f779ee&scene=126&&sessionid=1667099991#rd)【2022】【商汤】
   - ✅[报告 | 2022年元宇宙应用场景发展趋势分析](https://www.8btc.com/article/6784336)【2022】【易观分析】⭐︎⭐︎⭐︎
+  - [区块链白皮书](https://www.8btc.com/article/6796166)：【2022】【中国信通院】
 - [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
   - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
   - :white_check_mark:区块链产业全景图【2020】【中国平安】
