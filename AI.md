@@ -11,4 +11,7 @@
 3. [在与众多AI 投资者交流后，我们总结出了未来AI 发展的几个趋势](https://www.8btc.com/article/6791376)
 4. [对生成式 AI 近期前景的预测：不会取代人类，它是“大脑的自行车”](https://www.8btc.com/article/6791396)
 
+## 2023
 
+1. [聊聊卡塔尔世界杯上的“手语数字人”](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247567406&idx=1&sn=eaf8167af4b411fa29b3f21944860c77&chksm=cf7aaad7f80d23c109cb54d75cafb1e373a33639c45a7011e213a12cfe157db3212a17750312&scene=126&sessionid=1673057811#rd)：介绍了该场景下数字人技术的原理
+2. [达摩院2023十大科技趋势](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247567826&idx=1&sn=e6213e92da418b966b0b66972402f83d&chksm=cf7aab2bf80d223dcd6b90f28335e35dd21bd90481f2db58c5322a0cfeb5cc41a6df3a76e699&scene=126&sessionid=1673665709#rd)
