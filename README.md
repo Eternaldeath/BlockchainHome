@@ -16,6 +16,10 @@
 > 1. 杂谈：元宇宙中的区块链技术【2023】【浙江大学】【蔡亮】
 > 
 > 2. 产业报告：AIGC发展趋势报告【2023】【腾讯】
+> 
+> 3. 论文
+>    
+>    1. FLP：FLP 定理
 
 # 状态
 
@@ -209,53 +213,55 @@
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
   
   - 综述
-    - :white_check_mark:区块链技术与应用前瞻综述
-    - :white_check_mark:A systematic review of blockchain
+    - 区块链技术与应用前瞻综述
+    - A systematic review of blockchain
   - 联盟链
-    - :white_check_mark:Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
+    - Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
   - 区块链+IoT&5G&6G
-    - :white_check_mark:IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
-    - :white_check_mark:Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
-    - :white_check_mark:Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
+    - IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
+    - Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
+    - Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
 
 - 在线链接
   
   - 跨链
-    - :white_check_mark:[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472) ```arxiv``` 本篇论文在 vitalik 的博客 EndGame 中被提及
-    - :white_check_mark:[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
-    - :white_check_mark:[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
-    - :white_check_mark:[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
-    - :white_check_mark:[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
+    - [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472) ```arxiv``` 本篇论文在 vitalik 的博客 EndGame 中被提及
+    - [Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
+    - [Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
+    - [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
+    - [CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
   - 商业与 defi
-    - :white_check_mark:[CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
-    - :white_check_mark:[BLOCKEYE: Hunting for DeFi Attacks on Blockchain - 2021 - Bin Wang 等](https://ieeexplore.ieee.org/abstract/document/9402298)
-    - :white_check_mark:[Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit - 2021 - K Qin 等](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1)
-    - :white_check_mark:[Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets - 2021 - 等](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843844)```非 CCF 级别```
-    - :white_check_mark:[A Review of Decentralized Finance as an Application of Increasing Importance of Blockchain Technology - 2020 - Daniel Ramos 等](https://static1.squarespace.com/static/5d9d1a861b3b6f17755e5151/t/603d8bc0a9ba4e0ef04a098c/1614646209870/DeFi_SciPaper_Final+%282%29.pdf)
+    - [CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+    - [BLOCKEYE: Hunting for DeFi Attacks on Blockchain - 2021 - Bin Wang 等](https://ieeexplore.ieee.org/abstract/document/9402298)
+    - [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit - 2021 - K Qin 等](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1)
+    - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets - 2021 - 等](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843844)```非 CCF 级别```
+    - [A Review of Decentralized Finance as an Application of Increasing Importance of Blockchain Technology - 2020 - Daniel Ramos 等](https://static1.squarespace.com/static/5d9d1a861b3b6f17755e5151/t/603d8bc0a9ba4e0ef04a098c/1614646209870/DeFi_SciPaper_Final+%282%29.pdf)
   - 共识算法
-    - :white_check_mark:[Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+    - [Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
+    - [Impossibility of Distributed Consensus with One Faulty
+      Process](https://ilyasergey.net/CS6213/_static/02-consensus/flp.pdf)：FLP 定理
   - 侧链（sidechain）
-    - :white_check_mark:[Sidechain technologies in blockchain networks: An examination and state-of-the-art review - 2020 - A Singh 等](https://www.sciencedirect.com/science/article/pii/S1084804519303315) 
+    - [Sidechain technologies in blockchain networks: An examination and state-of-the-art review - 2020 - A Singh 等](https://www.sciencedirect.com/science/article/pii/S1084804519303315) 
   - edge computing
-    - :white_check_mark:[Resource allocation and trust computing for blockchain-enabled edge computing system - 2021 - LejunZhang 等](https://www.sciencedirect.com/science/article/pii/S0167404821000730)
-    - :white_check_mark:[Blockchain-based mobile edge computing system - 2021 - GuangshunLi 等](https://www.sciencedirect.com/science/article/pii/S0020025521000888)
-    - :white_check_mark:[Three-stage Stackelberg game based edge computing resource management for mobile blockchain - 2021 - Yuqi Fan 等](https://link.springer.com/article/10.1007/s12083-020-01032-y)
-    - :white_check_mark:[An integrative approach for secure data sharing in vehicular edge computing using Blockchain - 2021 - Mahadev Gawas 等](https://link.springer.com/article/10.1007/s12083-021-01107-4)
-    - :white_check_mark:[Building a blockchain-based decentralized ecosystem for cloud and edge computing: an ALLSTAR approach and empirical study - 2021 - Huan Zhou 等](https://link.springer.com/article/10.1007/s12083-021-01198-z)
-    - :white_check_mark:[Towards Trustworthy IoT: A Blockchain-Edge Computing Hybrid System with Proof-of-Contribution Mechanism - 2021 - Huan Dai 等](https://www.hindawi.com/journals/scn/2021/3050953/)
-    - :white_check_mark:[ECLB: Edge-Computing-Based Lightweight Blockchain Framework for Mobile Systems - 2021 - Qingqing Xie 等](https://www.hindawi.com/journals/scn/2021/5510586/)
-    - :white_check_mark:[A Blockchain-Based Microgrid Data Disaster Backup Scheme in Edge Computing - 2021 - L Zhang 等](https://www.hindawi.com/journals/scn/2021/9121571/)
-    - :white_check_mark:[Computational Resource Allocation Strategy in a Public Blockchain Supported by Edge Computing - 2021 - Sujie Shao 等](https://www.hindawi.com/journals/wcmc/2021/8851121/)
-    - :white_check_mark:[CoopEdge: A Decentralized Blockchain-based Platform for Cooperative Edge Computing - 2021 - Liang Yuan 等](https://dl.acm.org/doi/abs/10.1145/3442381.3449994?casa_token=LVONEnbPnZsAAAAA:CMxUCEeDhLlju_YKiuKbvLChF5LE8GoZa-b_7ZnxxiafWwEjfqACHXEQ3HSTkU6-OXs8M0zqSw)
-    - :white_check_mark:[BCEdge: Blockchain-based resource management in D2D-assisted mobile edge computing - 2019 - Ao Zhou 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
-    - :white_check_mark:[Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
+    - [Resource allocation and trust computing for blockchain-enabled edge computing system - 2021 - LejunZhang 等](https://www.sciencedirect.com/science/article/pii/S0167404821000730)
+    - [Blockchain-based mobile edge computing system - 2021 - GuangshunLi 等](https://www.sciencedirect.com/science/article/pii/S0020025521000888)
+    - [Three-stage Stackelberg game based edge computing resource management for mobile blockchain - 2021 - Yuqi Fan 等](https://link.springer.com/article/10.1007/s12083-020-01032-y)
+    - [An integrative approach for secure data sharing in vehicular edge computing using Blockchain - 2021 - Mahadev Gawas 等](https://link.springer.com/article/10.1007/s12083-021-01107-4)
+    - [Building a blockchain-based decentralized ecosystem for cloud and edge computing: an ALLSTAR approach and empirical study - 2021 - Huan Zhou 等](https://link.springer.com/article/10.1007/s12083-021-01198-z)
+    - [Towards Trustworthy IoT: A Blockchain-Edge Computing Hybrid System with Proof-of-Contribution Mechanism - 2021 - Huan Dai 等](https://www.hindawi.com/journals/scn/2021/3050953/)
+    - [ECLB: Edge-Computing-Based Lightweight Blockchain Framework for Mobile Systems - 2021 - Qingqing Xie 等](https://www.hindawi.com/journals/scn/2021/5510586/)
+    - [A Blockchain-Based Microgrid Data Disaster Backup Scheme in Edge Computing - 2021 - L Zhang 等](https://www.hindawi.com/journals/scn/2021/9121571/)
+    - [Computational Resource Allocation Strategy in a Public Blockchain Supported by Edge Computing - 2021 - Sujie Shao 等](https://www.hindawi.com/journals/wcmc/2021/8851121/)
+    - [CoopEdge: A Decentralized Blockchain-based Platform for Cooperative Edge Computing - 2021 - Liang Yuan 等](https://dl.acm.org/doi/abs/10.1145/3442381.3449994?casa_token=LVONEnbPnZsAAAAA:CMxUCEeDhLlju_YKiuKbvLChF5LE8GoZa-b_7ZnxxiafWwEjfqACHXEQ3HSTkU6-OXs8M0zqSw)
+    - [BCEdge: Blockchain-based resource management in D2D-assisted mobile edge computing - 2019 - Ao Zhou 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
+    - [Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
   - 其他
-    - :white_check_mark:[Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
-    - :white_check_mark:[Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
-    - :white_check_mark:[区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
-    - :white_check_mark:[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》。
+    - [Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
+    - [Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
+    - [区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
+    - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》。
   - 期刊
-    - :white_check_mark:[信息通信学术期刊 _ 大数据板块](http://www.infocomm-journal.com/bdr/CN/volumn/volumn_1231.shtml)
+    - [信息通信学术期刊 _ 大数据板块](http://www.infocomm-journal.com/bdr/CN/volumn/volumn_1231.shtml)
 
 # [💻](https://www.emojiall.com/zh-hans/emoji/💻)开发教程
 
