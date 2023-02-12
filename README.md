@@ -11,15 +11,17 @@
 
 # 本周更新内容
 
-> 2023_2_4
+> 2023_2_11
 > 
-> 1. 杂谈：元宇宙中的区块链技术【2023】【浙江大学】【蔡亮】
-> 
-> 2. 产业报告：AIGC发展趋势报告【2023】【腾讯】
-> 
-> 3. 论文
+> 1. 论文
 >    
->    1. FLP：FLP 定理
+>    1. 分布式共识
+>       1. The Byzantine Generals Problem：拜占庭将军问题原始论文
+>       2. Some constraints and tradeoffs in the design of network communications：两军问题原始论文
+>    2. 区块链综述
+>       1. Blockchain Based Solutions to Mitigate Distributed Denial of
+>          Service (DDoS) Attacks in the Internet of Things (IoT): A Survey
+>       2. Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry
 
 # 状态
 
@@ -208,7 +210,9 @@
     
     ## 论文
     
-    > 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
+    > 1. 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
+    > 
+    > 2. 部分论文下载需要购买下载资格，或者利用学校资源，或者利用 Sci-hub
 
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
   
@@ -230,6 +234,8 @@
     - [Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
     - [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
     - [CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
+  - 综述
+    - [Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry](https://www.frontiersin.org/articles/10.3389/fbloc.2022.844834/full) 【CCF none】【2022】：区块链和分布式账本在医疗健康领域的综述
   - 商业与 defi
     - [CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
     - [BLOCKEYE: Hunting for DeFi Attacks on Blockchain - 2021 - Bin Wang 等](https://ieeexplore.ieee.org/abstract/document/9402298)
@@ -240,6 +246,8 @@
     - [Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
     - [Impossibility of Distributed Consensus with One Faulty
       Process](https://ilyasergey.net/CS6213/_static/02-consensus/flp.pdf)：FLP 定理
+    - [SOME CONSTRAINTS AND TRADEOFFS IN THE DESIGN OF NETWORK COMMUNICATIONS*](https://dl.acm.org/doi/pdf/10.1145/800213.806523)：两军问题原始论文
+    - [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)：拜占庭将军问题原始论文
   - 侧链（sidechain）
     - [Sidechain technologies in blockchain networks: An examination and state-of-the-art review - 2020 - A Singh 等](https://www.sciencedirect.com/science/article/pii/S1084804519303315) 
   - edge computing
@@ -255,11 +263,15 @@
     - [CoopEdge: A Decentralized Blockchain-based Platform for Cooperative Edge Computing - 2021 - Liang Yuan 等](https://dl.acm.org/doi/abs/10.1145/3442381.3449994?casa_token=LVONEnbPnZsAAAAA:CMxUCEeDhLlju_YKiuKbvLChF5LE8GoZa-b_7ZnxxiafWwEjfqACHXEQ3HSTkU6-OXs8M0zqSw)
     - [BCEdge: Blockchain-based resource management in D2D-assisted mobile edge computing - 2019 - Ao Zhou 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
     - [Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks - 2019 - Alia Asheralieva 等](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2758)
+  - 区块链 & IoT
+    - [Blockchain Based Solutions to Mitigate Distributed Denial of
+      Service (DDoS) Attacks in the Internet of Things (IoT):
+      A Survey]([Sensors | Free Full-Text | Blockchain Based Solutions to Mitigate Distributed Denial of Service (DDoS) Attacks in the Internet of Things (IoT): A Survey](https://www.mdpi.com/1424-8220/22/3/1094)) 【CCF none】【2022】：关于利用**区块链**维护 **IoT** 安全，防止 DDOS 的文章
   - 其他
     - [Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
     - [Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
     - [区块链能做什么、不能做什么?](http://www.jryj.org.cn/CN/abstract/abstract535.shtml)：这是 2018 年出自中国人民银行研究局的一篇文章，本文从经济学角度研究了区块链的功能。
-    - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》。
+    - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)：以太坊创始人 Vitalik Buterin 与经济学家 Glen Weyl 以及 Flashbots 研究员 Puja Ohlhaver 联合发布《去中心化社会：Web3 的灵魂》
   - 期刊
     - [信息通信学术期刊 _ 大数据板块](http://www.infocomm-journal.com/bdr/CN/volumn/volumn_1231.shtml)
 
