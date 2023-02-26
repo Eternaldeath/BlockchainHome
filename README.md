@@ -11,20 +11,9 @@
 
 # 本周更新内容
 
-> 2023_2_18
+> 2023_2_26
 > 
-> 1. 论文
->    
->    1. 区块链综述
->       1. Distributed Ledger Technologies in Supply Chain Security Management: A Comprehensive Survey：分布式账本与供应链管理
->       2. Impact of blockchain and distributed ledger technology for the management of the intellectual property life cycle: A multiple case study analysis：分布式账本技术在知识产权管理的应用
->       3. Survey of Distributed File System Design Choices：分布式文件系统设计的关键点调查
->       4. Chain or DAG? Underlying data structures, architectures, topologies and consensus in distributed ledger technology: A review, taxonomy and research issues：分布式账本的底层数据结构设计
->       5. Collaborative Intrusion Detection System for Internet of Things Using Distributed Ledger Technology: A Survey on Challenges and Opportunities：利用分布式账本技术实现协同入侵检测
->       6. A Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry：**区块链**和**分布式账本**在**医疗健康**领域的综述
->       7. An Updated Survey on the Convergence of Distributed Ledger Technology and Artificial Intelligence: Current State, Major Challenges and Future Direction：**分布式账本技术**和 **AI** 的**融合创新**
->       8. Distributed Ledger Technologies for Network Slicing: A Survey：**分布式账本技术**应用与网络分片（**5,6 G**）
->       9. Distributed Ledger Technologies for Cellular Networks and Beyond 5G: a survey：**分布式账本技术**在**蜂窝网络**上的应用
+> 1. 论文：区块链方面的顶会
 
 # 状态
 
@@ -216,6 +205,12 @@
     > 1. 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
     > 
     > 2. 部分论文下载需要购买下载资格，或者利用学校资源，或者利用 Sci-hub
+    > 
+    > 3. CCF 级别的区块链期刊会议
+    >    
+    >    1. A，B 期刊：INFOCOM, Mobicom, SIGCOMM, NSDI, ICDCS, IWQoS, ICNP
+    >    
+    >    2. A，B 会议：EEE/ACM TON, IEEE JSAC, IEEE TMC, IEEE TPDS, TOC (Transactions on Computers)
 
 - [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
   

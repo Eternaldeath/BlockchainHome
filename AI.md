@@ -15,3 +15,4 @@
 
 1. [聊聊卡塔尔世界杯上的“手语数字人”](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247567406&idx=1&sn=eaf8167af4b411fa29b3f21944860c77&chksm=cf7aaad7f80d23c109cb54d75cafb1e373a33639c45a7011e213a12cfe157db3212a17750312&scene=126&sessionid=1673057811#rd)：介绍了该场景下数字人技术的原理
 2. [达摩院2023十大科技趋势](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247567826&idx=1&sn=e6213e92da418b966b0b66972402f83d&chksm=cf7aab2bf80d223dcd6b90f28335e35dd21bd90481f2db58c5322a0cfeb5cc41a6df3a76e699&scene=126&sessionid=1673665709#rd)
+3. [万字圆桌实录：ChatGPT背后的AIGC，将生成怎样的浪潮？](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650968376&idx=1&sn=455e843b2688310edb2ce63ea3d7899f&chksm=bcc9de4a8bbe575c0c0d21b98624f891a6b8ed93375670eb1d03c41ab91f5f2697bc24bfc2ea&scene=126&sessionid=1677391816#rd)
