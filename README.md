@@ -11,9 +11,17 @@
 
 # 本周更新内容
 
-> 2023_2_26
+> 2023_3_25
 > 
-> 1. 论文：区块链方面的顶会
+> 本周主要更新了几篇区块链 + 相关的论文，目前来看，非金融领域的区块链学术研究主要集中在医疗，供应链和 IoT 的商业结合上
+> 
+> 1. 论文
+>    1. A survey of data minimisation techniques in blockchain-based healthcare
+>    2. A study for efficiency improvement of used car trading based on a public blockchain
+>    3. A Study on Smart Healthcare Monitoring Using IoT Based on Blockchain
+>    4. A survey of blockchain-based IoT eHealthcare: Applications, research issues, and challenges
+>    5. Blockchain technology with its application in medical and healthcare systems: A survey
+>    6. Potential Requirements and Opportunities of Blockchain-Based Industrial IoT in Supply Chain: A Survey
 
 # 状态
 
@@ -249,6 +257,12 @@
     - [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit - 2021 - K Qin 等](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1)
     - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets - 2021 - 等](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843844)```非 CCF 级别```
     - [A Review of Decentralized Finance as an Application of Increasing Importance of Blockchain Technology - 2020 - Daniel Ramos 等](https://static1.squarespace.com/static/5d9d1a861b3b6f17755e5151/t/603d8bc0a9ba4e0ef04a098c/1614646209870/DeFi_SciPaper_Final+%282%29.pdf)
+    - [A survey of data minimisation techniques in blockchain-based healthcare - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1389128622000044?via%3Dihub)【CCF B】【2022】
+    - [A study for efficiency improvement of used car trading based on a public blockchain](https://link.springer.com/article/10.1007/s11227-021-03681-z) 【CCF C】【2021】
+    - [A Study on Smart Healthcare Monitoring Using IoT Based on Blockchain](https://www.hindawi.com/journals/wcmc/2021/9932091/) 【CCF C】【2021】
+    - [A survey of blockchain-based IoT eHealthcare: Applications, research issues, and challenges - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2542660522000506?via%3Dihub) 【CCF C】【2022】
+    - [Blockchain technology with its application in medical and healthcare systems: A survey - Gupta - 2022 - International Journal of Intelligent Systems - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/int.23014)【CCF C】【2022】
+    - [Potential Requirements and Opportunities of Blockchain-Based Industrial IoT in Supply Chain: A Survey | IEEE Journals &amp; Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9643414)【CCF C】【2022】
   - 共识算法
     - [Proof-of-Learning: Definitions and Practice - 2021 - Hengrui Jia 等](https://arxiv.org/abs/2106.08157) ```arxiv```
     - [Impossibility of Distributed Consensus with One Faulty
