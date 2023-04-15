@@ -18,3 +18,4 @@
 3. [万字圆桌实录：ChatGPT背后的AIGC，将生成怎样的浪潮？](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650968376&idx=1&sn=455e843b2688310edb2ce63ea3d7899f&chksm=bcc9de4a8bbe575c0c0d21b98624f891a6b8ed93375670eb1d03c41ab91f5f2697bc24bfc2ea&scene=126&sessionid=1677391816#rd)
 4. [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)：比尔盖茨：人工智能时代已经开始
 5. [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) ```澎湃新闻```
+6. [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510)
