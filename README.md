@@ -1,35 +1,33 @@
 # blockchainHome
 
 ![blockchain-home-logo](https://user-images.githubusercontent.com/25715070/137857002-52ab8a41-65e9-41a1-ab8c-6d33904a9ca3.png)
-[![](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green)](https://github.com/Eternaldeath/blockchainHome)[![GitHub stars](https://img.shields.io/github/stars/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/stargazers)[![GitHub forks](https://img.shields.io/github/forks/Eternaldeath/blockchainHome)](https://github.com/Eternaldeath/blockchainHome/network)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+<p align="center">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green?style=for-the-badge">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/blockchainHome?color=green&style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/blockchainHome?color=green&style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">
 
 # 写在前面
 
 - 是什么？这是一个区块链学习资源库，收录区块链开发，区块链计算机理论，区块链与金融，区块链产业发展等内容
-- 为什么创建？1. 目前很多区块链资源仓库很久没有进行更新了；2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
-- 使用指南：各板块的资源收录将按照：在线资源优先于百度网盘资源的方式进行链接
+- 为什么创建？
+  - 1. 目前很多区块链资源仓库很久没有进行更新了；
+  - 2. 期望创立一个循序渐进的，而非简单罗列的区块链学习仓库
+- 提供帮助？🧰 [点击](https://github.com/Eternaldeath/blockchainHome/issues) 🧰
+  - 发现资源失效
+  - 提供新的资源
+  - ...
 
 # 本周更新内容
-
-> 2023_3_25
-> 
-> 本周主要更新了几篇区块链 + 相关的论文，目前来看，非金融领域的区块链学术研究主要集中在医疗，供应链和 IoT 的商业结合上
-> 
-> 1. 论文
->    1. A survey of data minimisation techniques in blockchain-based healthcare
->    2. A study for efficiency improvement of used car trading based on a public blockchain
->    3. A Study on Smart Healthcare Monitoring Using IoT Based on Blockchain
->    4. A survey of blockchain-based IoT eHealthcare: Applications, research issues, and challenges
->    5. Blockchain technology with its application in medical and healthcare systems: A survey
->    6. Potential Requirements and Opportunities of Blockchain-Based Industrial IoT in Supply Chain: A Survey
-
+```
+阅读浏览优化中 ...
+```
 # 状态
 
 ![Alt](https://repobeats.axiom.co/api/embed/6327e14915fa17a112eb5420accc0919121d2665.svg "Repobeats analytics image")
 
 # 目录
-
-\>\>\>[文档模式](https://eternaldeath.github.io/blockchainHome/#/)<<<
 
 [图书](https://github.com/Eternaldeath/blockchainHome#%E5%9B%BE%E4%B9%A6)
 
@@ -63,184 +61,132 @@
 # [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
 
 ## 科普
+**在线链接**
+|书名|内容|豆瓣评分|备注|
+| - | - | - | - |
+|[以太坊爱好者知识库](https://ethfans.org/wikis/Home)|以太坊系列科普文章|-|-|
+|[币安问问学院](https://academy.binance.com/zh)|从入门到进阶的科普文章|-|-|
+|[收藏 \| 15天入门Web3，从0到1速成指南 \| 巴比特](https://www.8btc.com/article/6769680)|-|-|-|
 
-- 在线链接
-  
-  - :white_check_mark:[以太坊爱好者知识库](https://ethfans.org/wikis/Home): 以太坊系列科普文章
-  - :white_check_mark:[币安问问学院](https://academy.binance.com/zh)：从入门到进阶的科普文章
-  - :white_check_mark:[收藏 | 15天入门Web3，从0到1速成指南]([收藏 | 15天入门Web3，从0到1速成指南 | 巴比特](https://www.8btc.com/article/6769680))
-  - 《白话区块链》
-  - 《数字黄金：比特币鲜为人知的故事》
-  - 《区块链：价值互联网的基石》
-  - 《区块链基础知识 25 讲》
-  - 《比特币：一个虚幻而真实的金融世界》
-  - 《区块链十年》
-  - 《数字货币来了：比特币.区块链.货币未来》
+**[百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA) ```提取码：dmj9```**
+|书名|内容|豆瓣评分|备注|
+| - | - | - | - |
+|《图说区块链》|-|6.0|-|
+|《区块链实战：从技术创新到商业模式》|-|9.0|-|
+|《区块链领导干部读本》|-|5.9|-|
+|《区块链：元宇宙的灵魂》|-|-|-|
+|《区块链：新经济蓝图及导读》|-|6.1|-|
+|《区块链：通往资产数字化之路》|-|8.5|-|
+|《区块链：从数字货币到信用社会》|-|7.2|-|
+|《区块链技术驱动金融》|-|8.2|-|
+|《区块链简史》|-|-|-|
+## 技术
+**[百度网盘链接](https://pan.baidu.com/s/1KTvypD8SetaGj_o19--eUQ?pwd=3fc2) ```提取码：3fc2```**
+|类型|书名|内容|豆瓣评分|备注|
+|-|-|-|-|-|
+|公链|《IPFS 原理与实践_董天一》|-|8.0|-|
+|公链|《区块链开发指南》|-|5.6|-|
+|公链|《精通区块链开发技术》|-|-|-|
+|公链|《区块链项目开发指南》|-|5.7|-|
+|公链|《node.js 区块链开发》|-|4.8|-|
+|公链|《golang 实现区块链详细教程》|-|-|暂无此书|
+|联盟链|《区块链傻瓜书_IBM》|-|-|暂无此书|
+|联盟链|《HyperLedger Fabric 开发实战》|-|-|评价人数不足|
+|联盟链|《深度探索区块链：Hyperledger技术与应用》|-|6.0|-|
+|联盟链|《深度探索区块链：Hyperledger技术与应用》|-|6.0|-|
+|智能合约 |《精通以太坊智能合约开发》|-|-|评价人数不足|
+|其他|《区块链核心算法解析》|-|7.7|-|
+|其他|《区块链技术与应用笔记_北大肖臻》|-|-|-|
+|其他|《P2P 技术内幕》|-|-|暂无此书|
 
-- [百度网盘链接](https://pan.baidu.com/s/1HiqPNszFwGYjyL5pq2WoBA)【提取码：dmj9】
-  
-  - :white_check_mark:《图说区块链》```豆瓣：6.0```
-  
-  - :white_check_mark:《区块链实战：从技术创新到商业模式》```豆瓣：9.0```
-  
-  - :white_check_mark:《区块链领导干部读本》```豆瓣：5.9```
-  
-  - :white_check_mark:《区块链：元宇宙的灵魂》```豆瓣：暂无此书```
-  
-  - :white_check_mark:《区块链：新经济蓝图及导读》```豆瓣：6.1```
-  
-  - :white_check_mark:《区块链：通往资产数字化之路》```豆瓣：8.5```
-  
-  - :white_check_mark:《区块链：从数字货币到信用社会》```豆瓣：7.2```
-  
-  - :white_check_mark:《区块链技术驱动金融》```豆瓣：8.2```
-  
-  - 《区块链简史》
-    
-    ## 技术
+**在线链接**
+|类型|书名|内容|豆瓣评分|备注|
+|-|-|-|-|-|
+|公链|[《Mastering Bitcoin》__2nd Edition](https://github.com/bitcoinbook/bitcoinbook)|-|8.7|英文原版<br>Github<br>长期更新|  
+|公链|[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)|-|8.7|中译版|      
+|公链|[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)|-|6.4|-|
+|公链|[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571)|-|-|个人笔记<br>图解区块链|
+|公链|[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)|-|8.2|-|     
+|公链|[《以太坊技术与实现》](https://learnblockchain.cn/books/geth/part0.html)|-|8.2|电子教程|    
+|公链|[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)|-|-|-|     
+|公链|[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)|-|-|开源书籍|     
+|公链|[《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric)|-|-|评价人数不足|     
+|其他|[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)|-|-|收录 2008-2021 期间中本聪所有的文字资料|     
+|其他|[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)|-|-|用简洁的方式入门区块链技术|
 
-- [百度网盘链接](https://pan.baidu.com/s/1KTvypD8SetaGj_o19--eUQ?pwd=3fc2)【提取码：3fc2】
-  
-  - 公链
-    - :white_check_mark:《IPFS 原理与实践_董天一》 ```豆瓣：8.0```
-    - :white_check_mark:《区块链开发指南》 ```豆瓣：5.6```
-    - :white_check_mark:《精通区块链开发技术》 ```豆瓣：评价人数不足```
-    - :white_check_mark:《区块链项目开发指南》 ```豆瓣：5.7```
-    - :white_check_mark:《node.js 区块链开发》 ```豆瓣：4.8```
-    - :white_check_mark:《golang 实现区块链详细教程》 ```豆瓣：暂无此书```
-  - 联盟链
-    - :white_check_mark:《区块链傻瓜书_IBM》 ```豆瓣：暂无此书```
-    - :white_check_mark:《HyperLedger Fabric 开发实战》```豆瓣：评价人数不足```
-    - :white_check_mark:《深度探索区块链：Hyperledger技术与应用》```豆瓣：6.0```
-    - :white_check_mark:《区块链：原理，设计与应用》 ```豆瓣：7.2```：此为《区块链技术指南》的出版版本，基于超级账本
-  - 智能合约
-    - :white_check_mark:《精通以太坊智能合约开发》 ```豆瓣：评价人数不足```
-  - 其他
-    - :white_check_mark:《区块链技术与应用笔记_北大肖臻》 ```豆瓣：暂无此书```
-    - :white_check_mark:《区块链核心算法解析》 ```豆瓣：7.7```
-    - :white_check_mark:《P2P 技术内幕》 ```豆瓣：暂无此书```
+## 金融
+**在线链接**
+|书名|内容|豆瓣评分|备注|  
+|-|-|-|-|  
+|[how to defi: advanced_第一版_中文版](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)|-|-|-|  
+|[how to defi: beginner_第二版_中文版](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)|-|-|-|  
 
-- 在线链接
-  
-  - 公链
-    
-    - [《Mastering Bitcoin》__2nd Edition](https://github.com/bitcoinbook/bitcoinbook) 【英文原版】【Github】【长期更新】
-    - :white_check_mark:[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/) 【豆瓣 8.7】【中译版】
-    - :white_check_mark:[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/) ```豆瓣：6.4```
-    - :white_check_mark:[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571) 【个人笔记】【图解区块链】
-    - :white_check_mark:[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/) ```豆瓣：8.2```
-    - :white_check_mark:[《以太坊技术与实现》](https://learnblockchain.cn/books/geth/part0.html)```电子教程```
-    - 《区块链核心技术与应用》 ```豆瓣：8.6```
-    - 《区块链技术进阶与实战》 ```豆瓣：6.8```：包含了以太坊和超级账本
-    - 《GO语言公链开发实战》 ```豆瓣：评价人数不足```
-    - 《区块链底层设计Java实战》 ```豆瓣：评价人数不足```
-    - 《区块链第一课：深入浅出技术与应用》 ```豆瓣：评价人数不足```
-    - 《区块链轻松上手：原理、源码、搭建与应用》 ```豆瓣：评价人数不足```
-    - 《区块链：交易系统开发指南》 ```豆瓣：评价人数不足```
-    - 《从零开始自己动手写区块链》 ```豆瓣：评价人数不足```
-    - 《区块链底层设计Java实战》 ```豆瓣：评价人数不足```
-  
-  - 联盟链
-    
-    - :white_check_mark:[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)
-    - :white_check_mark:[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)：超级账本，开源书籍
-    - 《区块链开发实战- Hyperledger Fabric关键技术与案例分析》 ```豆瓣：评价人数不足``` 
-    - :white_check_mark:[《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric) ```豆瓣：评价人数不足```
-    - 《区块链网络构建和应用：基于超级账本Fabric的商业实践》 ```豆瓣：评价人数不足``` 
-    - 《Hyperledger Fabric 技术内幕：架构设计与实现原理》 ```豆瓣：评价人数不足``` 
-    - 《Hyperledger Fabric核心技术》  ```豆瓣：评价人数不足``` 
-  
-  - 智能合约
-  
-  - 其他
-    
-    - :white_check_mark:[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)：收录 2008-2021 期间中本聪所有的文字资料
-    
-    - :white_check_mark:[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)：用简洁的方式入门区块链技术【英文】
-    
-    - 《图解密码技术》 ```豆瓣：9.1```
-    
-    - 《区块链的数学原理》 ```豆瓣：评价人数不足```
-    
-    - 《区块链安全技术指南》 ```豆瓣：评价人数不足```
-    
-    - 《链改：区块链中国方案》 ```豆瓣：评价人数不足```
-      
-      ## 金融
+**[百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw) ```提取码：6jte```**
+|书名|内容|豆瓣评分|备注|  
+|-|-|-|-| 
+|《如何投资数字货币》 |-|-|-|  
+## 白皮书
+> 白皮书是指政府，会议公开发表的有关重大问题的文件
 
-- 在线链接
-  
-  - :white_check_mark:how to defi
-    - 第一版：how to defi: advanced [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)
-    - 第二版：how to defi: beginner [（中文版）](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)（翻译 ing）
-  - 《区块链供应链金融》 ```豆瓣：6.0```
+**在线链接**
+|书名|备注| 
+|-|-|  
+|[以太坊白皮书_中文版](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)|-| 
+|[以太坊白皮书_英文版](https://github.com/ethereum/wiki/wiki/White-Paper)|-| 
+|[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)|-| 
+|[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)|-| 
+|[IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)|-| 
+|[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)|Hyperledger 是 Hyperledger Fabric 的母项目| 
+|[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)|-| 
+|[solana](https://solana.com/solana-whitepaper.pdf)|-| 
 
-- [百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw)【提取码：6jte】
-  
-  - :white_check_mark:《如何投资数字货币》 
-    
-    ## 白皮书
-    
-    > 白皮书是指政府，会议公开发表的有关重大问题的文件
+**[百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg) ```提取码：maef```**
+|书名|备注| 
+|-|-|
+|比特币白皮书|-|    
+|腾讯区块链白皮书_2019|-|    
+|中国数字人民币的研发进展白皮书|-|    
+|腾讯隐私计算白皮书|-|    
+|中国区块链产业白皮书_2018|-|    
+|信任经济的崛起：中国区块链发展报告_2020|-|    
+|隐私计算金融应用蓝皮书_交通银行_2021|-|        
+## 论文
+> 1. 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
+> 2. 部分论文下载需要购买下载资格，或者利用学校资源，或者利用 Sci-hub
+> 3. CCF 级别的区块链期刊会议
+>    1. A，B 期刊：INFOCOM, Mobicom, SIGCOMM, NSDI, ICDCS, IWQoS, ICNP
+>    2. A，B 会议：EEE/ACM TON, IEEE JSAC, IEEE TMC, IEEE TPDS, TOC (Transactions on Computers)
 
-- 在线链接
-  
-  - :white_check_mark:以太坊白皮书 [（中文版）](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) [（英文版）](https://github.com/ethereum/wiki/wiki/White-Paper)
-  - :white_check_mark:[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)
-  - :white_check_mark:[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)
-  - :white_check_mark:IPFS_白皮书[（中文版）](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)
-  - :white_check_mark:[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)：Hyperledger 是 Hyperledger Fabric 的母项目
-  - :white_check_mark:[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)
-  - :white_check_mark:[solana](https://solana.com/solana-whitepaper.pdf)
+**[百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ) ```提取码：44sn```**
+|论文类别|论文名字|年份|CCF级别|备注| 
+|-|-|-|-|-|
+|综述|区块链技术与应用前瞻综述|-|-|-|
+|综述|A systematic review of blockchain|-|-|-|
+|联盟链|Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains|-|-|-|
+|区块链+IoT|IoT security Review, blockchain solutions, and op|2018|-|-|
+|区块链+IoT|Amalgamation of blockchain and IoT for smart citie|2021|-|-|
+|区块链+AI|Blockchain management and machine learning adaptat|2021|-|-|
 
-- [百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg)【提取码：maef】
-  
-  - :white_check_mark:比特币白皮书
-  
-  - :white_check_mark:2019 腾讯区块链白皮书
-  
-  - :white_check_mark:中国数字人民币的研发进展白皮书
-  
-  - :white_check_mark:腾讯隐私计算白皮书
-  
-  - :white_check_mark:2018年中国区块链产业白皮书
-  
-  - :white_check_mark:信任经济的崛起_2020中国区块链发展报告
-  
-  - :white_check_mark:隐私计算金融应用蓝皮书_2021_交通银行
-    
-    ## 论文
-    
-    > 1. 论文主要选择（但并非全部） CCF 级别的文章，此分类不包含社区论文
-    > 
-    > 2. 部分论文下载需要购买下载资格，或者利用学校资源，或者利用 Sci-hub
-    > 
-    > 3. CCF 级别的区块链期刊会议
-    >    
-    >    1. A，B 期刊：INFOCOM, Mobicom, SIGCOMM, NSDI, ICDCS, IWQoS, ICNP
-    >    
-    >    2. A，B 会议：EEE/ACM TON, IEEE JSAC, IEEE TMC, IEEE TPDS, TOC (Transactions on Computers)
-
-- [百度网盘链接](https://pan.baidu.com/s/1p3O5w4wD2hLqPVv72tUUwQ)【提取码：44sn】
-  
-  - 综述
-    - 区块链技术与应用前瞻综述
-    - A systematic review of blockchain
-  - 联盟链
-    - Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
-  - 区块链+IoT&5G&6G
-    - IoT security Review, blockchain solutions, and op - 2018 - Khan 和 Salah
-    - Blockchain management and machine learning adaptat - 2021 - Miglani 和 Kumar
-    - Amalgamation of blockchain and IoT for smart citie - 2021 - Kumari 等
-
-- 在线链接
-  
-  - 跨链
-    - [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472) ```arxiv``` 本篇论文在 vitalik 的博客 EndGame 中被提及
-    - [Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)
-    - [Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
-    - [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)
-    - [CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)
+**在线链接**
+|论文类别|论文名字|年份|CCF级别|备注| 
+|-|-|-|-|-|
+|综述|[Survey of Distributed File System Design Choices](https://doi.org/10.1145/3465405)|2022|A|分布式文件系统设计的关键点调查|
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-| 
+|综述|-|-|-|-|  
+|跨链|[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)|2018|-|-| 
+|跨链|[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)|2019|-|-| 
+|跨链|[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)|2019|-|-| 
+|跨链|[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)|2019|-|-| 
+|跨链|[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472)|2021|arxiv|本篇论文在 vitalik 的博客 EndGame 中被提及| 
+|-|-|-|-|-| 
   - 综述
     - [Survey of Distributed File System Design Choices](https://doi.org/10.1145/3465405)【CCF A】【2022】：分布式文件系统设计的关键点调查
     - [Chain or DAG? Underlying data structures, architectures, topologies and consensus in distributed ledger technology: A review, taxonomy and research issues](https://doi.org/10.1016/j.sysarc.2022.102720)【CCF B】【2022】：分布式账本的底层数据结构设计
