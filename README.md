@@ -168,36 +168,22 @@
 |区块链+AI|Blockchain management and machine learning adaptat|2021|-|-|
 
 **在线链接**
-|论文类别|论文名字|年份|CCF级别|备注| 
+|论文类别|论文名字|年份|CCF级别|备注|
 |-|-|-|-|-|
+|综述|[Impact of blockchain and distributed ledger technology for the management of the intellectual property life cycle: A multiple case study analysis](https://doi.org/10.1016/j.compind.2022.103789)|2023|none|区块链在知识产权管理的应用|
+|综述|[Distributed Ledger Technologies in Supply Chain Security Management: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9366288)|2023|none|区块链与供应链管理|
 |综述|[Survey of Distributed File System Design Choices](https://doi.org/10.1145/3465405)|2022|A|分布式文件系统设计的关键点调查|
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-| 
-|综述|-|-|-|-|  
-|跨链|[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)|2018|-|-| 
-|跨链|[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)|2019|-|-| 
-|跨链|[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)|2019|-|-| 
-|跨链|[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)|2019|-|-| 
-|跨链|[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472)|2021|arxiv|本篇论文在 vitalik 的博客 EndGame 中被提及| 
-|-|-|-|-|-| 
-  - 综述
-    - [Survey of Distributed File System Design Choices](https://doi.org/10.1145/3465405)【CCF A】【2022】：分布式文件系统设计的关键点调查
-    - [Chain or DAG? Underlying data structures, architectures, topologies and consensus in distributed ledger technology: A review, taxonomy and research issues](https://doi.org/10.1016/j.sysarc.2022.102720)【CCF B】【2022】：分布式账本的底层数据结构设计
-    - [Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry](https://www.frontiersin.org/articles/10.3389/fbloc.2022.844834/full) 【CCF none】【2022】：区块链和分布式账本在医疗健康领域的综述
-    - [Distributed Ledger Technologies for Network Slicing: A Survey](https://doi.org/10.1109/ACCESS.2022.3151150)【CCF none】【2022】：**分布式账本技术**应用与网络分片（**5,6 G**）
-    - [Distributed Ledger Technologies in Supply Chain Security Management: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9366288)【CCF none】【2023】：分布式账本与供应链管理
-    - [Collaborative Intrusion Detection System for Internet of Things Using Distributed Ledger Technology: A Survey on Challenges and Opportunities](https://doi.org/10.1007/978-3-031-21743-2_27)【CCF none】【2022】：利用分布式账本技术实现协同入侵检测
-    - [A Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry](https://doi.org/10.3389/fbloc.2022.844834)【CCF none】【2022】：**区块链**和**分布式账本**在**医疗健康**领域的综述
-    - [An Updated Survey on the Convergence of Distributed Ledger Technology and Artificial Intelligence: Current State, Major Challenges and Future Direction](https://doi.org/10.1109/ACCESS.2022.3173297)【CCF none】【2022】：**分布式账本技术**和 **AI** 的融合创新
-    - [Distributed Ledger Technologies for Cellular Networks and Beyond 5G: a survey]([Distributed Ledger Technologies for Cellular Networks and Beyond 5G: a survey | IEEE Conference Publication | IEEE Xplore](https://doi.org/10.1109/BRAINS55737.2022.9908598))【CCF none】【2022】：**分布式账本技术**在**蜂窝网络**上的应用
-    - [Impact of blockchain and distributed ledger technology for the management of the intellectual property life cycle: A multiple case study analysis](https://doi.org/10.1016/j.compind.2022.103789)【CCF none】【2023】：分布式账本技术在知识产权管理的应用
+|综述|[Chain or DAG? Underlying data structures, architectures, topologies and consensus in distributed ledger technology: A review, taxonomy and research issues](https://doi.org/10.1016/j.sysarc.2022.102720)|2022|B|区块链的底层数据结构设计|
+|综述|[Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry](https://www.frontiersin.org/articles/10.3389/fbloc.2022.844834/full)|2022|none|区块链和分布式账本在医疗健康领域的综述|
+|综述|[Distributed Ledger Technologies for Network Slicing: A Survey](https://doi.org/10.1109/ACCESS.2022.3151150)|2022|none|区块链应用与网络分片（**5,6 G**）|
+|综述|[Collaborative Intrusion Detection System for Internet of Things Using Distributed Ledger Technology: A Survey on Challenges and Opportunities](https://doi.org/10.1007/978-3-031-21743-2_27)|2022|none|利用区块链技术实现协同入侵检测|
+|综述|[A Comprehensive Study of the Trends and Analysis of Distributed Ledger Technology and Blockchain Technology in the Healthcare Industry](https://doi.org/10.3389/fbloc.2022.844834)|2022|none|区块链和分布式账本在医疗健康领域的综述|
+|综述|[An Updated Survey on the Convergence of Distributed Ledger Technology and Artificial Intelligence: Current State, Major Challenges and Future Direction](https://doi.org/10.1109/ACCESS.2022.3173297)|2022|none|区块链技术和 AI 的融合创新|
+|跨链|[Atomic Cross-Chain Swaps - 2018 - Herlihy](https://dl.acm.org/doi/abs/10.1145/3212734.3212736)|2018|-|-|
+|跨链|[Tracing Transactions Across Cryptocurrency Ledgers - 2019 - Yousaf 等](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)|2019|-|-|
+|跨链|[HyperService: Interoperability and Programmability Across Heterogeneous Blockchains - 2019 - Liu Zhuotao 等](https://dl.acm.org/doi/abs/10.1145/3319535.3355503)|2019|-|-|
+|跨链|[CAPER: a cross-application permissioned blockchain - 2019 - Amiri 等](https://dl.acm.org/doi/abs/10.14778/3342263.3342275?casa_token=qchqlhLfjtAAAAAA:6iF3dNIWa36sxVck0J5ehgJMv3r2WxPG3idTXHxeVjE2DMs15PP8UH9IRQWhLkj3QATpNjHSXHua)|2019|-|-|
+|跨链|[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value - 2021 - Alexandre Obadia 等](https://arxiv.org/abs/2112.01472)|2021|arxiv|本篇论文在 vitalik 的博客 EndGame 中被提及|
   - 商业与 defi
     - [CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance - 2021 - Kaihua Qin 等](https://arxiv.org/abs/2106.08157) ```arxiv```
     - [BLOCKEYE: Hunting for DeFi Attacks on Blockchain - 2021 - Bin Wang 等](https://ieeexplore.ieee.org/abstract/document/9402298)
@@ -235,7 +221,6 @@
     - [Blockchain Based Solutions to Mitigate Distributed Denial of
       Service (DDoS) Attacks in the Internet of Things (IoT):
       A Survey]([Sensors | Free Full-Text | Blockchain Based Solutions to Mitigate Distributed Denial of Service (DDoS) Attacks in the Internet of Things (IoT): A Survey](https://www.mdpi.com/1424-8220/22/3/1094)) 【CCF none】【2022】：关于利用**区块链**维护 **IoT** 安全，防止 DDOS 的文章
-    - 
   - 其他
     - [Chord: A scalable peer-to-peer lookup service for internet applications - 2001 - Ion Stoica 等](https://dl.acm.org/doi/pdf/10.1145/964723.383071)
     - [Operations Research in the Blockchain Technology](https://link.springer.com/article/10.1007/s40305-021-00348-7)：区块链中的运筹学。
