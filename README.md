@@ -28,7 +28,13 @@
 
 # 本周更新内容
 ```
-阅读浏览优化中 ...
+# readme
+- xlog：链上，开源博客社区
+- 非小号
+- 阅读浏览优化
+
+# 杂谈
+- 科普 | 比特币BRC-20是什么？
 ```
 # 状态
 
@@ -309,26 +315,27 @@
 
 > 部分平台需要科学上网（ssr 下可能需要更新 pac 列表，或打开全局代理模式）
 
-- [巴比特](https://www.8btc.com/)：⭐︎⭐︎⭐︎⭐︎⭐︎
-- [金色财经](https://www.jinse.com/)：⭐︎⭐︎⭐︎⭐︎⭐︎
-- [链节点](https://www.chainnode.com/)：⭐︎⭐︎ ⭐︎ ChainNode 链节点 - 元宇宙社区
-- [区块链日报](https://www.trzrb.com/)：⭐︎⭐︎ 区块链日报-区块链新闻资讯网站-区块链项目报道平台
-- [Cointelegraph中文](https://cointelegraphcn.com/): Cointelegraph中文，聚焦全球区块链市场动态    
-- [coinmarketcap](https://coinmarketcap.com/zh/)：虚拟货币市值排行榜
-- [bitcointalk](https://bitcointalk.org/)：中本聪创建的区块链论坛，也是 BIP 草案的主流讨论区
-- [加密货币贪婪指数](https://history.btc123.fans/zhishu/)：加密货币贪婪指数
-- [coingecko](https://www.coingecko.com/zh)：获取最新的加密货币市场概述和分析，包括价格，市值，交易量等，类似 conmarketcap，支持中文
-- [IFTNews](http://www.ifintechnews.com/)：聚焦金融科技,解读科技金融,旨在打造领先金融科技资讯媒介平台
-- [digiconomist](https://digiconomist.net/): 分析数字经济趋势的网站
-- [bitcoinmagazine](https://bitcoinmagazine.com/): 比特币新闻、文章、图表和指南
-- [messari](https://messari.io/): 提供加密领域的研究、数据和工具
-- [defipulse](https://defipulse.com/): 去中心化金融排行榜
-- [CoinDesk](https://www.coindesk.com/): 比特币、以太坊、加密新闻和价格数据
-- [The Block](https://www.theblockcrypto.com/)：数字资产分析
-- [ultra sound money](https://ultrasound.money/)：以太坊的分析网站
-- [一文概览 Web3 增长工具赛道全景](https://www.8btc.com/article/6782278)：⭐︎⭐︎ ⭐︎ 一份 Web3 增长工具清单
-- [我关注了哪些加密行业的推特](https://mp.weixin.qq.com/s?__biz=MzU0ODY0NjgxMw==&mid=2247486273&idx=1&sn=c901fea20046cab462bc8d430827db2d&chksm=fbbab1b3cccd38a51aa506fe47caf4a0bb987db0b061ce1dea243122487819423a82408e51c4&scene=126&&sessionid=1665925588#rd)：⭐︎⭐︎
-- [L2BEAT](https://l2beat.com/scaling/tvl/)：⭐︎⭐︎ ⭐︎⭐︎ 以太坊第二层协议的分析和研究的网站
+| 平台                                                    | 描述                                                      | 语言   | 评分  |
+| ------------------------------------------------------- | --------------------------------------------------------- | ------ | ----- |
+| [巴比特](https://www.8btc.com/)                         | 新闻媒体                                                  | 中文   | ⭐⭐⭐⭐⭐ |
+| [金色财经](https://www.jinse.com/)                      | 新闻媒体                                                  | 中文   | ⭐⭐⭐⭐⭐ |
+| [Cointelegraph中文](https://cointelegraphcn.com/)       | 新闻媒体                                                  | 中文   | ⭐⭐⭐⭐  |
+| [bitcoinmagazine](https://bitcoinmagazine.com/)         | 新闻媒体                                                  | EN     | ⭐⭐⭐⭐  |
+| [IFTNews](http://www.ifintechnews.com/)                 | 新闻媒体：金融科技                                        | 中文   | ⭐⭐⭐   |
+| [defipulse](https://defipulse.com/)                     | 新闻媒体                                                  | EN     | ⭐⭐⭐   |
+| [digiconomist](https://digiconomist.net/)               | 新闻媒体                                                  | EN     | ⭐⭐⭐   |
+| [The Block](https://www.theblockcrypto.com/)            | 新闻媒体                                                  | EN     | ⭐⭐⭐   |
+| [区块链日报](https://www.trzrb.com/)                    | 新闻媒体                                                  | 中文   | ⭐⭐    |
+| [coinmarketcap](https://coinmarketcap.com/zh/)          | 投资：加密资产价格跟踪                                    | 多国语 | ⭐⭐⭐⭐⭐ |
+| [非小号](https://www.feixiaohaozh.info/)                | 投资：加密资产价格跟踪                                    | 中文   | ⭐⭐⭐⭐⭐ |
+| [coingecko](https://www.coingecko.com/zh)               | 投资：加密资产价格跟踪                                    | 中文   | ⭐⭐⭐⭐  |
+| [CoinDesk](https://www.coindesk.com/)                   | 投资：加密资产价格跟踪                                    | EN     | ⭐⭐⭐   |
+| [messari](https://messari.io/)                          | 投资：加密资产分析工具                                    | EN     | ⭐⭐⭐⭐  |
+| [ultra sound money](https://ultrasound.money/)          | 投资：以太坊资产分析工具                                  | EN     | ⭐⭐⭐⭐  |
+| [L2BEAT](https://l2beat.com/scaling/tvl/)               | 投资：以太坊 Layer2 资产分析工具                          | EN     | ⭐⭐⭐⭐  |
+| [加密货币贪婪指数](https://history.btc123.fans/zhishu/) | 投资：加密货币贪婪指数                                    | 中文   | ⭐⭐⭐⭐  |
+| [bitcointalk](https://bitcointalk.org/)                 | 论坛<br>1.中本聪创建的比特币论坛<br>2. BIP 草案主流讨论区 | EN     | ⭐⭐⭐⭐⭐ |
+| [xLog](https://xlog.app/)                               | 博客：链上，开源博客                                      | 中文   | ⭐⭐⭐   |
 
 # 📂平台与开发
 
