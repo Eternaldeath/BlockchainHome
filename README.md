@@ -332,6 +332,8 @@
 | [coingecko](https://www.coingecko.com/zh)               | 投资：加密资产价格跟踪                                    | 中文   | ⭐⭐⭐⭐  |
 | [CoinDesk](https://www.coindesk.com/)                   | 投资：加密资产价格跟踪                                    | EN     | ⭐⭐⭐   |
 | [messari](https://messari.io/)                          | 投资：加密资产分析工具                                    | EN     | ⭐⭐⭐⭐  |
+| [dextools](https://www.dextools.io/app/cn/pairs)        | 投资：加密资产分析工具                                    | 多国语 | ⭐⭐⭐⭐  |
+| [dexacreener](https://dexscreener.com/)                 | 投资：加密资产分析工具                                    | EN     | ⭐⭐⭐⭐  |
 | [ultra sound money](https://ultrasound.money/)          | 投资：以太坊资产分析工具                                  | EN     | ⭐⭐⭐⭐  |
 | [L2BEAT](https://l2beat.com/scaling/tvl/)               | 投资：以太坊 Layer2 资产分析工具                          | EN     | ⭐⭐⭐⭐  |
 | [加密货币贪婪指数](https://history.btc123.fans/zhishu/) | 投资：加密货币贪婪指数                                    | 中文   | ⭐⭐⭐⭐  |
@@ -397,41 +399,39 @@
 
 # 📑产业报告
 
-- 在线链接
-  - [区块链应用概览【2021】【头豹】](https://pdf.dfcfw.com/pdf/H3_AP202103241475525369_1.pdf?1616585160000.pdf)
-  - [全球区块链产业全景与趋势【2021】【火币研究院】](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf)
-  - [海南区块链产业发展白皮书【2021】](https://new.qq.com/omn/20210330/20210330A0D7SY00.html)
-  - [工业区块链案例集【2021】](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK)
-  - NFT 市场的现状与展望](https://xuangubao.cn/v/article/101113254)【2021】【中信证券】⭐︎⭐︎
-  - :white_check_mark: CCF 中国区块链技术大会【2021】
-    - [融合多方技术 构建可信社会](https://mp.weixin.qq.com/s/XeoONu2K0cAmh9hBp1a6kQ) ⭐︎⭐︎
-    - [元宇宙和新财富](https://mp.weixin.qq.com/s/CvqqEF7z3sImb0Qs2Lqzvg) ⭐︎
-    - [数字货币在暗网中的使用初探 ](https://mp.weixin.qq.com/s/-tk1cCaYgcfBnjuS0Pahjw)⭐︎⭐︎
-    - [数字藏品产业应用实践](https://mp.weixin.qq.com/s/ypaATVq1SLCWafnnrqoM5w) ⭐︎⭐︎
-    - [区块链与数据要素市场化的瓶颈](https://mp.weixin.qq.com/s/UNJPCUdfOT9TDgWj3dGRJg)
-    - [赋能国家级金融数字化基础设施](https://mp.weixin.qq.com/s/5e10RkcSa7lcKeuHoe_3Qw)
-    - [全球公有链企业级和政府级应用展示](https://mp.weixin.qq.com/s/I1g71nJzrr82vbLa6AiT9A)
-    - [区块链助力碳中和](https://mp.weixin.qq.com/s/O32fcM8mPgJvLK8O2-bJ6Q)
-  - [元宇宙报告【2021-2022】【腾讯&复旦大学新闻学院】](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf)
-  - [金融科技发展规划（2022~2025）【2022】【央行】](http://www.china-cer.com.cn/guwen/2022010516303.html)：文末有链接
-  - [“十四五”数字经济发展规划的通知【2022】](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)
-  - [Money and Payments: The U.S. Dollar in the Age of Digital Transformation【2022】【美联储】](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)：货币与支付：数字化变革时代中的美元
-  - [解密元宇宙【2022】【普道永华】](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf)⭐︎⭐︎
-  - [元宇宙与金钱：解密未来【2022】【花旗银行】](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)
-  - [2022元宇宙产业技术和创新应用白皮书【2022】【上海】](https://mp.weixin.qq.com/s?__biz=MzA5NDExMTAzNA==&mid=2650027605&idx=1&sn=e8791ed3aa20ea576e873b271c2c5760&chksm=88530200bf248b165aa02d1351fc93f50c86931b914cbd96cf3b5119b5fa9c9dd9fec43b5cc2&scene=126&&sessionid=1660988223#rd)⭐︎⭐︎⭐︎⭐︎
-  - [亚太元宇宙白皮书（英文版）【2022】【商汤】](https://mp.weixin.qq.com/s?__biz=MzAwMjkwMzY0Mg==&mid=2247497351&idx=1&sn=48a0a7667ee27f133830411fcd0ebcbc&chksm=9ac1edb2adb664a4567f71dabe9e4a0d03592dd1aa51d16f01589c01f641600f5540e6f779ee&scene=126&&sessionid=1667099991#rd)
-  - [报告 | 2022年元宇宙应用场景发展趋势分析【2022】【易观分析】](https://www.8btc.com/article/6784336)⭐︎⭐︎⭐︎
-  - [区块链白皮书【2022】【中国信通院】](https://www.8btc.com/article/6796166) ⭐︎⭐︎⭐︎
-  - [AIGC发展趋势报告【2023】【腾讯】](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247568790&idx=2&sn=f7d756e7a743301fc47e52869114fc05&chksm=cf7aaf6ff80d2679e2fb893524aab587b86279c377377d50677f1d6309654e3030439482e948&scene=126&sessionid=1675481148#rd) ⭐︎⭐︎⭐︎
-  - [元宇宙报告]([阿里云盘分享](https://www.aliyundrive.com/s/zvdBghf8CMj))【2022】【清华大学】【v3.0】【[bjw321](https://github.com/bjw321) 提供】
-- [百度网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)【提取码：rhn9】
-  - :white_check_mark:中国区块链政策现状及趋势分析报告【2019】【人民创投】
-  - :white_check_mark:区块链产业全景图【2020】【中国平安】
-  - :white_check_mark:区块链行业研究报告【2020】【国信证券】
-  - :white_check_mark:开启新纪元：隐私计算在金融领域应用发展报告【2021】【零壹财经】
-  - :white_check_mark:6G网络架构愿景与关键技术展望白皮书【2021】
-  - :white_check_mark:链计算白皮书【2021】【腾讯研究院】
-  - ✅元宇宙报告【2022】【清华大学】【v2.0】⭐︎⭐︎
+| 形式                                                         | 题目                                                         | 年份      | 来源                   | 评分 | 备注                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ---------------------- | ---- | ---------------------------------------- |
+| [网盘链接](https://pan.baidu.com/s/1L1TH42wYAJKDWt4rt8nE7g)<br>提取码：rhn9 | 中国区块链政策现状及趋势分析报告                             | 2019      | 人民创投               |      |                                          |
+|                                                              | 区块链产业全景图                                             | 2020      | 中国平安               |      |                                          |
+|                                                              | 区块链行业研究报告                                           | 2020      | 国信证券               |      |                                          |
+|                                                              | 开启新纪元：隐私计算在金融领域应用发展报告                   | 2021      | 零壹财经               |      |                                          |
+|                                                              | 链计算白皮书                                                 | 2021      | 腾讯研究院             |      |                                          |
+|                                                              | 元宇宙报告 v2.0                                              | 2022      | 清华大学               | ⭐⭐   |                                          |
+| 在线链接                                                     | [区块链应用概览](https://pdf.dfcfw.com/pdf/H3_AP202103241475525369_1.pdf?1616585160000.pdf) | 2021      | 头豹                   |      |                                          |
+|                                                              | [全球区块链产业全景与趋势](https://hkibfa.io/wp-content/uploads/2021/03/%E5%85%A8%E7%90%83%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E5%85%A8%E6%99%AF%E8%88%87%E8%B6%A8%E5%8B%A2%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%EF%BC%882020-2021%E5%B9%B4%E5%BA%A6%EF%BC%89.pdf) | 2021      | 火币研究院             |      |                                          |
+|                                                              | [海南区块链产业发展白皮书](https://new.qq.com/omn/20210330/20210330A0D7SY00.html) | 2021      | 海南                   |      |                                          |
+|                                                              | [工业区块链案例集](https://www.sohu.com/a/505524580_121094725?spm=smpc.news-home.tech-digit-news.8.1638622800267dsaMDWK) | 2021      |                        |      |                                          |
+|                                                              | [NFT 市场的现状与展望](https://xuangubao.cn/v/article/101113254) | 2021      | 中信证券               | ⭐⭐   |                                          |
+|                                                              | [融合多方技术 构建可信社会](https://mp.weixin.qq.com/s/XeoONu2K0cAmh9hBp1a6kQ) | 2021      | CCF 中国区块链技术大会 | ⭐⭐   |                                          |
+|                                                              | [元宇宙和新财富](https://mp.weixin.qq.com/s/CvqqEF7z3sImb0Qs2Lqzvg) | 2021      | CCF 中国区块链技术大会 | ⭐    |                                          |
+|                                                              | [数字货币在暗网中的使用初探 ](https://mp.weixin.qq.com/s/-tk1cCaYgcfBnjuS0Pahjw) | 2021      | CCF 中国区块链技术大会 | ⭐⭐   |                                          |
+|                                                              | [数字藏品产业应用实践](https://mp.weixin.qq.com/s/ypaATVq1SLCWafnnrqoM5w) | 2021      | CCF 中国区块链技术大会 | ⭐⭐   |                                          |
+|                                                              | [区块链与数据要素市场化的瓶颈](https://mp.weixin.qq.com/s/UNJPCUdfOT9TDgWj3dGRJg) | 2021      | CCF 中国区块链技术大会 |      |                                          |
+|                                                              | [赋能国家级金融数字化基础设施](https://mp.weixin.qq.com/s/5e10RkcSa7lcKeuHoe_3Qw) | 2021      | CCF 中国区块链技术大会 |      |                                          |
+|                                                              | [全球公有链企业级和政府级应用展示](https://mp.weixin.qq.com/s/I1g71nJzrr82vbLa6AiT9A) | 2021      | CCF 中国区块链技术大会 |      |                                          |
+|                                                              | [区块链助力碳中和](https://mp.weixin.qq.com/s/O32fcM8mPgJvLK8O2-bJ6Q) | 2021      | CCF 中国区块链技术大会 |      |                                          |
+|                                                              | [元宇宙报告](https://new.inews.gtimg.com/tnews/3eed360f/6df7/3eed360f-6df7-4960-8476-e078fd976ffb.pdf) | 2021-2022 | 腾讯&复旦大学新闻学院  |      |                                          |
+|                                                              | [金融科技发展规划（2022~2025）](http://www.china-cer.com.cn/guwen/2022010516303.html) | 2022      | 央行                   |      | 文末有链接                               |
+|                                                              | [“十四五”数字经济发展规划的通知](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm) | 2022      | 国务院                 |      |                                          |
+|                                                              | [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf) | 2022      | 美联储                 |      | 货币与支付：数字化变革时代中的美元       |
+|                                                              | [解密元宇宙](https://www.pwccn.com/zh/tmt/uncover-the-meta-universe-mar2022.pdf) | 2022      | 普道永华               | ⭐⭐   |                                          |
+|                                                              | [元宇宙与金钱：解密未来](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D) | 2022      | 花旗银行               |      |                                          |
+|                                                              | [2022元宇宙产业技术和创新应用白皮书](https://mp.weixin.qq.com/s?__biz=MzA5NDExMTAzNA==&mid=2650027605&idx=1&sn=e8791ed3aa20ea576e873b271c2c5760&chksm=88530200bf248b165aa02d1351fc93f50c86931b914cbd96cf3b5119b5fa9c9dd9fec43b5cc2&scene=126&&sessionid=1660988223#rd) | 2022      | 上海                   | ⭐⭐⭐⭐ |                                          |
+|                                                              | [亚太元宇宙白皮书（英文版）](https://mp.weixin.qq.com/s?__biz=MzAwMjkwMzY0Mg==&mid=2247497351&idx=1&sn=48a0a7667ee27f133830411fcd0ebcbc&chksm=9ac1edb2adb664a4567f71dabe9e4a0d03592dd1aa51d16f01589c01f641600f5540e6f779ee&scene=126&&sessionid=1667099991#rd) | 2022      | 商汤                   |      |                                          |
+|                                                              | [元宇宙应用场景发展趋势分析](https://www.8btc.com/article/6784336) | 2022      | 易观分析               | ⭐⭐⭐  |                                          |
+|                                                              | [区块链白皮书](https://www.8btc.com/article/6796166)         | 2022      | 中国信通院             | ⭐⭐⭐  |                                          |
+|                                                              | [元宇宙报告]([阿里云盘分享](https://www.aliyundrive.com/s/zvdBghf8CMj)) | 2022      | 清华大学               |      | [bjw321](https://github.com/bjw321) 提供 |
+|                                                              | 上海市“元宇宙”关键技术攻关行动方案（2023 - 2025 年）         | 2023      | 上海                   | ⭐⭐⭐  |                                          |
 
 # 📖其他
 
