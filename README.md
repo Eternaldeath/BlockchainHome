@@ -32,14 +32,20 @@
 
 # 本周更新内容
 ```
-7.1
+7.9
 # readme
+- 优化阅读体验
 - 2023年成都市元宇宙场景建设工作计划
+- blockchainer-roadmap：浙大区块链协会总结的区块链知识学习路线
+- [入门指引] - 推荐一份区块链基础教程&区块链技术入门学习指引：登链社区
+- ledger：Web3 学习平台
+- 区块链开发入门：MSDN
+- L2 Fees：展示 Layer2 消耗的费率
+- 【更新】以太坊白皮书
+- 以太坊黄皮书
 
 # 精选
-- Web3入门知识科普大全
-- 去中心化之旅：欢迎来到“大都市”以太坊
-- 画了10万多张机器人，推特头像全是这些图，这个AI绘画大赛火爆了
+- Crunching the Calldata：rollups 降低费率的原理
 ```
 # 状态
 
@@ -75,6 +81,15 @@
 [杂谈](https://github.com/Eternaldeath/blockchainHome/blob/main/%E6%9D%82%E8%B0%88.md)：用于存放一些我看到的不错的区块链文章，但是它们往往不好分类，于是单独存放
 
 [详细更新记录一览](https://github.com/Eternaldeath/blockchainHome/commits/)
+
+| 学习路线                                                     | 备注                                   |
+| ------------------------------------------------------------ | -------------------------------------- |
+| [学习路线](https://www.zhihu.com/question/361190601/answer/2184415929) | 知乎                                   |
+| [How to Become a Blockchain Engineer](https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f) |                                        |
+| [blockchainer-roadmap](https://github.com/Blockchain-zju/blockchainer-roadmap) | 浙大区块链协会总结的区块链知识学习路线 |
+| [[入门指引] - 推荐一份区块链基础教程](https://learnblockchain.cn/article/5546)<br>[区块链技术入门学习指引](https://learnblockchain.cn/2018/01/11/guide) | 登链社区                               |
+
+
 
 # [📚](https://www.emojiall.com/zh-hans/emoji/📚)图书
 
@@ -147,16 +162,16 @@
 > 白皮书是指政府，会议公开发表的有关重大问题的文件
 
 **在线链接**
-|书名|备注| 
-|-|-|  
-|[以太坊白皮书_中文版](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)|-| 
-|[以太坊白皮书_英文版](https://github.com/ethereum/wiki/wiki/White-Paper)|-| 
-|[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)|-| 
-|[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)|-| 
-|[IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)|-| 
-|[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)|Hyperledger 是 Hyperledger Fabric 的母项目| 
-|[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)|-| 
-|[solana](https://solana.com/solana-whitepaper.pdf)|-| 
+|书名|备注|
+|-|-|
+|以太坊白皮书|[中文版](https://ethereum.org/zh/whitepaper/) \| [英文版](https://ethereum.org/en/whitepaper/)|
+|以太坊黄皮书|[中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/ethereum_yellow_paper_cn.pdf) \| [英文版](https://ethereum.github.io/yellowpaper/paper.pdf)|
+|[华为区块链白皮书_2021](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/BCS/BCS2.0.pdf)|-|
+|[蚂蚁链政务应用白皮书](https://gw.alipayobjects.com/os/bmw-prod/f3d7600b-5d5d-4c83-b7f3-7e5ee23b574e.pdf)|-|
+|[IPFS 白皮书_中文版](https://ipfs.netlify.app/tutorial/whitepaperipfs.html)|-|
+|[Hyperledger](https://www.hyperledger.org/wp-content/uploads/2021/11/HL_Paper_HyperledgerOverview_102721.pdf)|Hyperledger 是 Hyperledger Fabric 的母项目|
+|[Hyperledger Fabric](https://www.hyperledger.org/wp-content/uploads/2018/10/HL_Whitepaper_Metrics_PDF_V1.01.pdf)|-|
+|[solana](https://solana.com/solana-whitepaper.pdf)|-|
 
 **[百度网盘链接](https://pan.baidu.com/s/1bkDtL8-RptiLKYmCAdSqJg) ```提取码：maef```**
 |书名|备注| 
@@ -251,45 +266,46 @@
 
 > 该板块的课程我没有全部都看过，部分课程仅大致浏览，不保证其质量，后期将会慢慢筛选淘汰
 
-- 理论公开课
-  - :white_check_mark:[普林斯顿大学公开课](https://www.coursera.org/learn/cryptocurrency)
-  - :white_check_mark:[区块链技术与应用(北京大学)](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853)
-  - Coursera 公开课：比特币和数字货币技术
-  - :white_check_mark:[如何成为区块链开发者：速成课](https://ethfans.org/posts/blockchain-developer-crash-course)
-  - :white_check_mark:[Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7)
-  - :white_check_mark:[Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e)
-  - :white_check_mark:[learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-  - :white_check_mark:[Decentralized Finance](https://berkeley-defi.github.io/f21)：伯克利去中心化金融课程
-  - :white_check_mark:[Cryptocurrencies, blockchains, and smart contracts](https://cs251.stanford.edu/)：斯坦福大学 cs251 区块链秋季课程
-  - :white_check_mark:[【2021新版】Golang区块链入门到实战_以太坊/fabric【B 站】](https://www.bilibili.com/video/BV1jf4y1s7sZ)
-  - :white_check_mark:[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto【youtube】](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery)
-  - :white_check_mark:[理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2)【youtube】【中文】：⭐︎⭐︎⭐︎⭐︎ 非常好的 dapp 开发教程，建议入门完 Solidity 后学习
-  - :white_check_mark:[How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23)：⭐︎⭐︎
-  - :white_check_mark:[buildSpace](https://app.buildspace.so/home)：⭐︎⭐︎⭐︎ 通过项目的方式进行实战
-  - :white_check_mark:[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups)：关于 Rollups 的介绍
-  - 公链底层开发
-    - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
-    - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```以太坊``` ```分布式```
-    - :white_check_mark:[尚硅谷区块链全套教程完整版【B 站】](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0) ```以太坊```  ```solidity```  ```javascript```
-    - :white_check_mark:[How to Build a Blockchain from Scratch with Go【freecodecamp】](https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch/) ```go```
-    - :white_check_mark:[go 语言区块链公链开发理论+实战【网易公开课】](https://study.163.com/course/introduction/1209597959.htm?) ```go```
-    - :white_check_mark:[go 语言区块链公链开发理论+实战【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP/) ```go```
-    - :white_check_mark:[go 语言公链开发【网易公开课】](https://open.163.com/newview/movie/free?pid=FFTLS0UJF&mid=XFTLS6H0F) ```go```
-    - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
-    - :white_check_mark:[Go语言/Golang开发 区块链以太坊项目实战（完结）【B 站】](https://www.bilibili.com/video/BV1Sv411a7fm?from=search&seid=15792179978890242044&spm_id_from=333.337.0.0) ```go```
-    - :white_check_mark: [手把手教你实现简易比特币 【其它】](https://www.chaindesk.cn/witbook/6)```go```
-    - :white_check_mark: [万字长文，教你用go开发区块链应用【其它】](https://mp.weixin.qq.com/s/cjftQIFqdTYHt3pqcbfzdQ) ```go```
-  - 联盟链开发
-    - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
-  - dapp 应用开发
-    - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  ⭐︎⭐︎⭐︎⭐︎ 非常适合 dapp 开发的入门，讲解了 dapp 的原理，dapp 的开发框架 truffle，本地私链 geth 和模拟本地私链 ganache 的入门内容。
-    - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
-    - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity【youtube】](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
-    - :white_check_mark:[编程宝库【教程文档】](http://www.codebaoku.com/solidity/solidity-index.html)：⭐︎⭐︎⭐︎⭐︎ 非常适合入门，讲了 solidity 中的核心要点，但是也有很多没讲到，可以配合官方文档使用。
-    - :white_check_mark:[tutorialspoint【教程文档】](https://www.tutorialspoint.com/solidity) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，用例简单易懂，缺点是版本有点老。
-    - :white_check_mark:[solidity-by-example【教程文档】](https://solidity-by-example.org/) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，版本也很新。
-    - :white_check_mark:[dapp-learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)：⭐︎⭐︎⭐︎⭐︎ 由浅入深，逐步学习 dapp 开发。
-    - :white_check_mark:[区块链 Dapp 开发教程](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md)：⭐︎⭐︎⭐︎ 一个可执行且最简的区块链 **Dapp** 学习路线，受以太坊基金会赞助。
+| 课程性质        | 课程                                                         | 评分  | 备注                               |
+| --------------- | ------------------------------------------------------------ | ----- | ---------------------------------- |
+| 理论公开课      | [比特币和数字货币技术](https://www.coursera.org/learn/cryptocurrency) | ⭐⭐⭐⭐⭐ | 普林斯顿大学<br>Coursera           |
+|                 | [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853) | ⭐⭐⭐⭐⭐ | 北京大学                           |
+|                 | [Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7) |       | medium                             |
+|                 | [Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e) |       | medium                             |
+|                 | [learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) |       | hackernoon                         |
+|                 | [Decentralized Finance](https://berkeley-defi.github.io/f21) |       | 伯克利                             |
+|                 | [Cryptocurrencies, blockchains, and smart contracts](https://cs251.stanford.edu/) |       | 斯坦福大学<br>cs251 区块链秋季课程 |
+|                 | [【2021新版】Golang区块链入门到实战_以太坊/fabric【B 站】](https://www.bilibili.com/video/BV1jf4y1s7sZ) |       | bilibili                           |
+|                 | [Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery) |       | youtube                            |
+| 公链开发        | [区块链开发入门](https://learn.microsoft.com/zh-cn/training/paths/ethereum-blockchain-development/) |       | MSDN                               |
+|                 | [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) |       | 关于 Rollups 的介绍                |
+| dapp 与智能合约 | [理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2) | ⭐⭐⭐⭐  | youtube<br>dapp 开发教程           |
+|                 | [How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23) | ⭐⭐    |                                    |
+
+- 公链底层开发
+  - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
+  - :white_check_mark:[Go 语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```以太坊``` ```分布式```
+  - :white_check_mark:[尚硅谷区块链全套教程完整版【B 站】](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.999.0.0) ```以太坊```  ```solidity```  ```javascript```
+  - :white_check_mark:[How to Build a Blockchain from Scratch with Go【freecodecamp】](https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch/) ```go```
+  - :white_check_mark:[go 语言区块链公链开发理论+实战【网易公开课】](https://study.163.com/course/introduction/1209597959.htm?) ```go```
+  - :white_check_mark:[go 语言区块链公链开发理论+实战【B 站】](https://www.bilibili.com/video/BV1GJ411Q7ZP/) ```go```
+  - :white_check_mark:[go 语言公链开发【网易公开课】](https://open.163.com/newview/movie/free?pid=FFTLS0UJF&mid=XFTLS6H0F) ```go```
+  - :white_check_mark:[快速入门区块链技术从零开始到彻底精通区块链（实战全集）【B 站】](https://www.bilibili.com/video/BV1QE411e7z1?from=search&seid=9892476475501430285&spm_id_from=333.337.0.0) ```java```
+  - :white_check_mark:[Go语言/Golang开发 区块链以太坊项目实战（完结）【B 站】](https://www.bilibili.com/video/BV1Sv411a7fm?from=search&seid=15792179978890242044&spm_id_from=333.337.0.0) ```go```
+  - :white_check_mark: [手把手教你实现简易比特币 【其它】](https://www.chaindesk.cn/witbook/6)```go```
+  - :white_check_mark: [万字长文，教你用go开发区块链应用【其它】](https://mp.weixin.qq.com/s/cjftQIFqdTYHt3pqcbfzdQ) ```go```
+- 联盟链开发
+  - :white_check_mark:[hyperledger fabric源码解析【B 站】](https://www.bilibili.com/video/BV1eb4y1o7xd?from=search&seid=5007855289686658416&spm_id_from=333.337.0.0)：B 站
+- dapp 应用开发
+  - :white_check_mark:[以太坊 dapp 开发教程【B 站】](https://www.bilibili.com/video/BV14z4y1Z7Jd?spm_id_from=333.999.0.0)  ⭐︎⭐︎⭐︎⭐︎ 非常适合 dapp 开发的入门，讲解了 dapp 的原理，dapp 的开发框架 truffle，本地私链 geth 和模拟本地私链 ganache 的入门内容。
+  - :white_check_mark:[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial【youtube】](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
+  - :white_check_mark:[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity【youtube】](https://www.youtube.com/watch?v=coQ5dg8wM2o&ab_channel=freeCodeCamp.org)
+  - :white_check_mark:[编程宝库【教程文档】](http://www.codebaoku.com/solidity/solidity-index.html)：⭐︎⭐︎⭐︎⭐︎ 非常适合入门，讲了 solidity 中的核心要点，但是也有很多没讲到，可以配合官方文档使用。
+  - :white_check_mark:[tutorialspoint【教程文档】](https://www.tutorialspoint.com/solidity) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，用例简单易懂，缺点是版本有点老。
+  - :white_check_mark:[solidity-by-example【教程文档】](https://solidity-by-example.org/) ：⭐︎⭐︎⭐︎⭐︎ 教程的组织结构比 solidity 官方更清晰，版本也很新。
+  - :white_check_mark:[dapp-learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)：⭐︎⭐︎⭐︎⭐︎ 由浅入深，逐步学习 dapp 开发。
+  - :white_check_mark:[区块链 Dapp 开发教程](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md)：⭐︎⭐︎⭐︎ 一个可执行且最简的区块链 **Dapp** 学习路线，受以太坊基金会赞助。
+
 - 区块链大会
   - [无限未来_杭州_2021](https://www.8btc.com/wbc-2021)
   - [万向区块链国际周_上海_2021](https://www.blockchainlabs.org/week2021/home)
@@ -340,6 +356,7 @@
 | [dexacreener](https://dexscreener.com/)                 | 投资：加密资产分析工具                                    | EN     | ⭐⭐⭐⭐  |
 | [ultra sound money](https://ultrasound.money/)          | 投资：以太坊资产分析工具                                  | EN     | ⭐⭐⭐⭐  |
 | [L2BEAT](https://l2beat.com/scaling/tvl/)               | 投资：以太坊 Layer2 资产分析工具                          | EN     | ⭐⭐⭐⭐  |
+| [L2 Fees](https://l2fees.info/)                         | 投资：以太坊 Layer2 费率分析工具                          | EN     | ⭐⭐⭐⭐  |
 | [加密货币贪婪指数](https://history.btc123.fans/zhishu/) | 投资：加密货币贪婪指数                                    | 中文   | ⭐⭐⭐⭐  |
 | [bitcointalk](https://bitcointalk.org/)                 | 论坛<br>1.中本聪创建的比特币论坛<br>2. BIP 草案主流讨论区 | EN     | ⭐⭐⭐⭐⭐ |
 | [xLog](https://xlog.app/)                               | 博客：链上，开源博客                                      | 中文   | ⭐⭐⭐   |
@@ -348,51 +365,30 @@
 
 > 此模块所有项目均不构成投资建议，不保证所有项目的可靠性，可用性，根据具体情况会进行删增操作。
 
-- 公链
-  
-  - 比特币
-    - [比特币中文官网](https://bitcoin.org/zh_CN/)
-    - [比特币 github](https://github.com/bitcoin)
-  - [以太坊](https://ethereum.org/zh/)
-  - [Avalanche](https://www.avax.network/)：使用雪崩协议的区块链公链
-  - [BSC](https://www.binance.org/en)：币安智能链，与币安链平行的一个区块链，拥有智能合约功能，与 EVM 兼容
-  - [conflux](https://confluxnetwork.org/zh/)：国内公链项目
-  - [ipfs](https://ipfs.io/)
-  - polkadot：[官网](https://polkadot.network/)，[github](https://github.com/paritytech/polkadot)
-  - [Helium](https://www.helium.com/)：区块链+物联网，去中心化热点
-  - [π](https://minepi.com/)：一款可以在手机上挖矿的加密货币 ⚠︎ ```该项目存在争议```
-
-- 联盟链
-  
-  - [Hyperledger Fabric](https://www.hyperledger.org/)：超级账本联盟链
-  - [FISCO BCOS](https://www.fisco.com.cn/)：国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。
-  - [腾讯区块链](https://trustsql.qq.com/)
-  - [蚂蚁区块链](https://antchain.antgroup.com/)
-  - [IBM 区块链开发平台](https://www.ibm.com/cn-zh/blockchain)
-  - [趣链科技](https://www.hyperchain.cn/)
-  - [纸贵科技](https://www.zhigui.com/)
-
-- Layer2
-  
-  - 侧链
-    - [Lisk](https://lisk.com/)
-  - plasm
-    - [polygon](https://polygon.technology/)
-  - Rollup
-    - [Arbitrum](https://offchainlabs.com/)：热门的以太坊 L2 解决方案，由 [offchainlabs](https://offchainlabs.com/) 开发，采用 OP 验证
-
-- 智能合约
-  
-  - [Fantom](https://fantom.foundation/)：智能合约开发平台
-  - [OpenZeppelin](https://openzeppelin.com/)：提供安全保障的智能合约开发框架
-
-- 跨链
-  
-  - [cosmos](https://cosmos.network/)：支持跨链交互的异构网络
-
-- 其他
-  
-  - [以太坊开发者工具表](https://github.com/ConsenSys/ethereum-developer-tools-list)
+| 区块链分类 | 平台               | 链接 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 备注                                                         |
+| ---------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 公链       | 比特币             | [官网](https://bitcoin.org/) \| [Github](https://github.com/bitcoin/bitcoin) |                                                              |
+|            | 以太坊             | [官网](https://ethereum.org/en/) \| [Github](https://github.com/ethereum) |                                                              |
+|            | Avalanche          | [官网](https://www.avax.network/)                            | 使用雪崩协议的区块链公链                                     |
+|            | BSC                | [官网](https://www.binance.org/en)                           | 币安智能链，与币安链平行的一个区块链，拥有智能合约功能，与 EVM 兼容 |
+|            | Conflux            | [官网](https://confluxnetwork.org/zh) \| [Github](https://github.com/conflux-chain) | 国内公链项目                                                 |
+|            | IPFS               | [官网](https://ipfs.io/)                                     |                                                              |
+|            | Polkadot           | [官网](https://polkadot.network/) \| [Github](https://github.com/paritytech/polkadot) |                                                              |
+|            | Helium             | [官网](https://www.helium.com/)                              | 去中心化热点                                                 |
+|            | π                  | [官网](https://minepi.com)                                   | ⚠️该项目存在争议                                              |
+| 联盟链     | Hyperledger Fabric | [官网](https://www.hyperledger.org)                          | 超级账本联盟链                                               |
+|            | FISCO BCOS         | [官网](https://www.fisco.com.cn/)                            | 国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台 |
+|            | 腾讯区块链         | [官网](https://trustsql.qq.com/)                             |                                                              |
+|            | 蚂蚁区块链         | [官网](https://antchain.antgroup.com/)                       |                                                              |
+|            | IBM 区块链开发平台 | [官网](https://www.ibm.com/cn-zh/blockchain)                 |                                                              |
+|            | 趣链科技           | [官网](https://www.hyperchain.cn/)                           |                                                              |
+|            | 纸贵科技           | [官网](https://www.zhigui.com/)                              |                                                              |
+| Layer2     | Arbitrum           | [官网](https://offchainlabs.com/)                            | 热门的以太坊 L2 解决方案，由 [offchainlabs](https://offchainlabs.com/) 开发，采用 OP 验证 |
+| 智能合约   | Fantom             | [官网](https://fantom.foundation/)                           | 智能合约开发平台                                             |
+|            | OpenZeppelin       | [官网](https://openzeppelin.com/)                            | 提供安全保障的智能合约开发框架                               |
+| 跨链       | Cosmos             | [官网](https://cosmos.network)                               | 异构区块链网络跨链交互                                       |
+| Web3       | ledger             | [官网](https://www.ledger.com/academy)                       | Web3 学习平台                                                |
+| 其他       | 以太坊开发者工具表 | [Github](https://github.com/ConsenSys/ethereum-developer-tools-list) |                                                              |
 
 # 👨‍💻源码学习
 
