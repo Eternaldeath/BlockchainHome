@@ -32,20 +32,11 @@
 
 # 本周更新内容
 ```
-7.9
-# readme
-- 优化阅读体验
-- 2023年成都市元宇宙场景建设工作计划
-- blockchainer-roadmap：浙大区块链协会总结的区块链知识学习路线
-- [入门指引] - 推荐一份区块链基础教程&区块链技术入门学习指引：登链社区
-- ledger：Web3 学习平台
-- 区块链开发入门：MSDN
-- L2 Fees：展示 Layer2 消耗的费率
-- 【更新】以太坊白皮书
-- 以太坊黄皮书
-
-# 精选
-- Crunching the Calldata：rollups 降低费率的原理
+7.16
+# README
+- 阅读体验优化
+- alchemy：一个 web3 开发平台
+- ETH.Build：一个 web3 学习平台
 ```
 # 状态
 
@@ -269,18 +260,18 @@
 | 课程性质        | 课程                                                         | 评分  | 备注                               |
 | --------------- | ------------------------------------------------------------ | ----- | ---------------------------------- |
 | 理论公开课      | [比特币和数字货币技术](https://www.coursera.org/learn/cryptocurrency) | ⭐⭐⭐⭐⭐ | 普林斯顿大学<br>Coursera           |
-|                 | [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853) | ⭐⭐⭐⭐⭐ | 北京大学                           |
-|                 | [Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7) |       | medium                             |
-|                 | [Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e) |       | medium                             |
-|                 | [learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) |       | hackernoon                         |
-|                 | [Decentralized Finance](https://berkeley-defi.github.io/f21) |       | 伯克利                             |
-|                 | [Cryptocurrencies, blockchains, and smart contracts](https://cs251.stanford.edu/) |       | 斯坦福大学<br>cs251 区块链秋季课程 |
-|                 | [【2021新版】Golang区块链入门到实战_以太坊/fabric【B 站】](https://www.bilibili.com/video/BV1jf4y1s7sZ) |       | bilibili                           |
-|                 | [Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery) |       | youtube                            |
+| 理论公开课      | [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5457438249126614853) | ⭐⭐⭐⭐⭐ | 北京大学                           |
+| 理论公开课      | [Is It Hard to Build a Blockchain From Scratch?](https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7) |       | medium                             |
+| 理论公开课      | [Creating a Blockchain from Scratch](https://levelup.gitconnected.com/creating-a-blockchain-from-scratch-9a7b123e1f3e) |       | medium                             |
+| 理论公开课      | [learn-blockchains-by-building-one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) |       | hackernoon                         |
+| 理论公开课      | [Decentralized Finance](https://berkeley-defi.github.io/f21) |       | 伯克利                             |
+| 理论公开课      | [Cryptocurrencies, blockchains, and smart contracts](https://cs251.stanford.edu/) |       | 斯坦福大学<br>cs251 区块链秋季课程 |
+| 理论公开课      | [【2021新版】Golang区块链入门到实战_以太坊/fabric【B 站】](https://www.bilibili.com/video/BV1jf4y1s7sZ) |       | bilibili                           |
+| 理论公开课      | [Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery) |       | youtube                            |
 | 公链开发        | [区块链开发入门](https://learn.microsoft.com/zh-cn/training/paths/ethereum-blockchain-development/) |       | MSDN                               |
-|                 | [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) |       | 关于 Rollups 的介绍                |
+| 公链开发        | [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) |       | 关于 Rollups 的介绍                |
 | dapp 与智能合约 | [理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2) | ⭐⭐⭐⭐  | youtube<br>dapp 开发教程           |
-|                 | [How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23) | ⭐⭐    |                                    |
+| dapp 与智能合约 | [How to Learn Solidity in 30 days](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23) | ⭐⭐    |                                    |
 
 - 公链底层开发
   - :white_check_mark:[至今为止最好的区块链教程都在这里了【B 站】](https://www.bilibili.com/video/BV1xA411p7C7?from=search&seid=5495904971996371156&spm_id_from=333.337.0.0) ```go``` ```solidity``` ```以太坊```
@@ -314,23 +305,23 @@
 
 # 🎨相关框架和开发语言
 
-- 底层开发语言
-  - [Go](https://golang.org/)
-  - Java
-  - Rust
-  - Python
-  - JavaScript
-  - C++
-  - ...
-- 智能合约开发语言
-  - [solidity](https://docs.soliditylang.org/)：[中文文档（目前支持 v0.8.0）](https://learnblockchain.cn/docs/solidity/index.html)
-- 相关框架
-  - [hardhat](https://hardhat.org/)：一种基于以太坊的智能合约开发框架 | [ethers.js](https://docs.ethers.io/v5/)：前端与智能合约交互的 js 框架
-  - [truffle](https://trufflesuite.com/)：基于以太坊的智能合约开发框架 | [web3.js](https://github.com/ChainSafe/web3.js)：前端与智能合约交互的 js 框架
-  - [substrate](https://substrate.io/)：polkadot 提供的一套底层区块链开发框架 ```rust```
-  - [cosmos sdk](https://docs.cosmos.network/)：cosmos 提供的一套构建特定应用区块链的开发框架 ```go```
-- 钱包
-  - [MetaMask](https://metamask.io/)：支持以太坊的加密钱包
+| 主题             | 内容                                            | 描述                                                         |
+| ---------------- | ----------------------------------------------- | :----------------------------------------------------------- |
+| 底层开发语言     | [Go](https://golang.org/)                       |                                                              |
+| 底层开发语言     | Java                                            |                                                              |
+| 底层开发语言     | Rust                                            |                                                              |
+| 底层开发语言     | Python                                          |                                                              |
+| 底层开发语言     | JavaScript                                      |                                                              |
+| 底层开发语言     | C++                                             |                                                              |
+| 智能合约开发语言 | solidity                                        | [英文版](https://docs.soliditylang.org/en/v0.8.20/) \| [中文版](https://learnblockchain.cn/docs/solidity/index.html) |
+| 框架             | [hardhat](https://hardhat.org/)                 | 一种基于以太坊的智能合约开发框架                             |
+| 框架             | [truffle](https://trufflesuite.com/)            | 一种基于以太坊的智能合约开发框架                             |
+| 框架             | [ethers.js](https://docs.ethers.io/v5/)         | 一种前端与智能合约交互的 js 框架                             |
+| 框架             | [web3.js](https://github.com/ChainSafe/web3.js) | 一种前端与智能合约交互的 js 框架                             |
+| 框架             | [substrate](https://substrate.io/)              | 一种多链开发框架                                             |
+| 框架             | [cosmos](https://cosmos.network/)               | 一种多链开发框架                                             |
+| 钱包开发         | [MetaMask](https://metamask.io/)                | 一种加密钱包                                                 |
+| Web3 开发        | [alchemy](https://www.alchemy.com/)             | 一个 web3 开发平台                                           |
 
 # 📰相关论坛，新闻咨询平台
 
@@ -368,26 +359,27 @@
 | 区块链分类 | 平台               | 链接 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 备注                                                         |
 | ---------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 公链       | 比特币             | [官网](https://bitcoin.org/) \| [Github](https://github.com/bitcoin/bitcoin) |                                                              |
-|            | 以太坊             | [官网](https://ethereum.org/en/) \| [Github](https://github.com/ethereum) |                                                              |
-|            | Avalanche          | [官网](https://www.avax.network/)                            | 使用雪崩协议的区块链公链                                     |
-|            | BSC                | [官网](https://www.binance.org/en)                           | 币安智能链，与币安链平行的一个区块链，拥有智能合约功能，与 EVM 兼容 |
-|            | Conflux            | [官网](https://confluxnetwork.org/zh) \| [Github](https://github.com/conflux-chain) | 国内公链项目                                                 |
-|            | IPFS               | [官网](https://ipfs.io/)                                     |                                                              |
-|            | Polkadot           | [官网](https://polkadot.network/) \| [Github](https://github.com/paritytech/polkadot) |                                                              |
-|            | Helium             | [官网](https://www.helium.com/)                              | 去中心化热点                                                 |
-|            | π                  | [官网](https://minepi.com)                                   | ⚠️该项目存在争议                                              |
+| 公链       | 以太坊             | [官网](https://ethereum.org/en/) \| [Github](https://github.com/ethereum) |                                                              |
+| 公链       | Avalanche          | [官网](https://www.avax.network/)                            | 使用雪崩协议的区块链公链                                     |
+| 公链       | BSC                | [官网](https://www.binance.org/en)                           | 币安智能链，与币安链平行的一个区块链，拥有智能合约功能，与 EVM 兼容 |
+| 公链       | Conflux            | [官网](https://confluxnetwork.org/zh) \| [Github](https://github.com/conflux-chain) | 国内公链项目                                                 |
+| 公链       | IPFS               | [官网](https://ipfs.io/)                                     |                                                              |
+| 公链       | Polkadot           | [官网](https://polkadot.network/) \| [Github](https://github.com/paritytech/polkadot) |                                                              |
+| 公链       | Helium             | [官网](https://www.helium.com/)                              | 去中心化热点                                                 |
+| 公链       | π                  | [官网](https://minepi.com)                                   | ⚠️该项目存在争议                                              |
 | 联盟链     | Hyperledger Fabric | [官网](https://www.hyperledger.org)                          | 超级账本联盟链                                               |
-|            | FISCO BCOS         | [官网](https://www.fisco.com.cn/)                            | 国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台 |
-|            | 腾讯区块链         | [官网](https://trustsql.qq.com/)                             |                                                              |
-|            | 蚂蚁区块链         | [官网](https://antchain.antgroup.com/)                       |                                                              |
-|            | IBM 区块链开发平台 | [官网](https://www.ibm.com/cn-zh/blockchain)                 |                                                              |
-|            | 趣链科技           | [官网](https://www.hyperchain.cn/)                           |                                                              |
-|            | 纸贵科技           | [官网](https://www.zhigui.com/)                              |                                                              |
+| 联盟链     | FISCO BCOS         | [官网](https://www.fisco.com.cn/)                            | 国产联盟链，由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台 |
+| 联盟链     | 腾讯区块链         | [官网](https://trustsql.qq.com/)                             |                                                              |
+| 联盟链     | 蚂蚁区块链         | [官网](https://antchain.antgroup.com/)                       |                                                              |
+| 联盟链     | IBM 区块链开发平台 | [官网](https://www.ibm.com/cn-zh/blockchain)                 |                                                              |
+| 联盟链     | 趣链科技           | [官网](https://www.hyperchain.cn/)                           |                                                              |
+| 联盟链     | 纸贵科技           | [官网](https://www.zhigui.com/)                              |                                                              |
 | Layer2     | Arbitrum           | [官网](https://offchainlabs.com/)                            | 热门的以太坊 L2 解决方案，由 [offchainlabs](https://offchainlabs.com/) 开发，采用 OP 验证 |
 | 智能合约   | Fantom             | [官网](https://fantom.foundation/)                           | 智能合约开发平台                                             |
-|            | OpenZeppelin       | [官网](https://openzeppelin.com/)                            | 提供安全保障的智能合约开发框架                               |
+| 智能合约   | OpenZeppelin       | [官网](https://openzeppelin.com/)                            | 提供安全保障的智能合约开发框架                               |
 | 跨链       | Cosmos             | [官网](https://cosmos.network)                               | 异构区块链网络跨链交互                                       |
 | Web3       | ledger             | [官网](https://www.ledger.com/academy)                       | Web3 学习平台                                                |
+| Web3       | ETH.Build          | [官网](https://eth.build/)                                   | Web3 学习平台                                                |
 | 其他       | 以太坊开发者工具表 | [Github](https://github.com/ConsenSys/ethereum-developer-tools-list) |                                                              |
 
 # 👨‍💻源码学习
