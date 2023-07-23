@@ -32,11 +32,9 @@
 
 # 本周更新内容
 ```
-7.16
+7.23
 # README
-- 阅读体验优化
-- alchemy：一个 web3 开发平台
-- ETH.Build：一个 web3 学习平台
+- 人人都能看懂的密码学
 ```
 # 状态
 
@@ -86,6 +84,7 @@
 
 ## 科普
 **在线链接**
+
 |书名|内容|豆瓣评分|备注|
 | - | - | - | - |
 |[以太坊爱好者知识库](https://ethfans.org/wikis/Home)|以太坊系列科普文章|-|-|
@@ -126,16 +125,17 @@
 **在线链接**
 |类型|书名|内容|豆瓣评分|备注|
 |-|-|-|-|-|
-|公链|[《Mastering Bitcoin》__2nd Edition](https://github.com/bitcoinbook/bitcoinbook)|-|8.7|英文原版<br>Github<br>长期更新|  
-|公链|[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)|-|8.7|中译版|      
+|公链|[《Mastering Bitcoin》__2nd Edition](https://github.com/bitcoinbook/bitcoinbook)|-|8.7|英文原版<br>Github<br>长期更新|
+|公链|[《精通比特币（第二版）》](https://www.8btc.com/books/834/masterbitcoin2cn/_book/)|-|8.7|中译版|
 |公链|[《区块链技术指南（v1.5）》](https://yeasy.gitbook.io/blockchain_guide/)|-|6.4|-|
 |公链|[《区块链入门》](https://www.kancloud.cn/php_go/qukuailian/2232571)|-|-|个人笔记<br>图解区块链|
-|公链|[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)|-|8.2|-|     
-|公链|[《以太坊技术与实现》](https://learnblockchain.cn/books/geth/part0.html)|-|8.2|电子教程|    
-|公链|[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)|-|-|-|     
-|公链|[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)|-|-|开源书籍|     
-|公链|[《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric)|-|-|评价人数不足|     
-|其他|[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)|-|-|收录 2008-2021 期间中本聪所有的文字资料|     
+|公链|[《精通以太坊》](https://www.8btc.com/books/834/ethereum-book/_book/)|-|8.2|-|
+|公链|[《以太坊技术与实现》](https://learnblockchain.cn/books/geth/part0.html)|-|8.2|电子教程|
+|公链|[Hyperledger Fabric 官方](https://www.hyperledger.org/use/fabric)|-|-|-|
+|公链|[企业级区块链教程](https://github.com/yingpingzhang/enterprise_blockchain_tutorial)|-|-|开源书籍|
+|公链|[《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric)|-|-|评价人数不足|
+|密码学|[人人都能看懂的密码学](https://crypt.wenwoha.com/)|-|-|网络教程|
+|其他|[中本聪文字资料合集](https://satoshi.nakamotoinstitute.org/)|-|-|收录 2008-2021 期间中本聪所有的文字资料|
 |其他|[Blockchain tutorial](https://www.tutorialspoint.com/blockchain/index.htm)|-|-|用简洁的方式入门区块链技术|
 
 ## 金融
