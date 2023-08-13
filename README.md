@@ -32,9 +32,9 @@
 
 # 本周更新内容
 ```
-7.23
+8.13
 # README
-- 人人都能看懂的密码学
+- Implications of Open Monetary and Information Networks：开放货币和信息网络的影响
 ```
 # 状态
 
