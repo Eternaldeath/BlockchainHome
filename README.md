@@ -6,11 +6,12 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/badge/%E9%98%85%E8%AF%BB-read-green?style=for-the-badge">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/blockchainHome?color=green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/blockchainHome?color=green&style=for-the-badge">
-    <img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">
+    <!-- <img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">-->
 </p>
 <p align="center">
 <a href="https://github.com/Eternaldeath/blockchainHome/commits.atom"> <img alt="Static Badge" src="https://img.shields.io/badge/RSS%20-%20%23FFA500?style=for-the-badge&logo=RSS&logoColor=%23FFFFFF"/>
 </p>
+
 
 # 写在前面
 
