@@ -145,6 +145,7 @@
 |-|-|-|-|  
 |[how to defi: advanced_第一版_中文版](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/)|-|-|-|  
 |[how to defi: beginner_第二版_中文版](https://nigdaemon.gitbook.io/how-to-defi-beginnerv2)|-|-|-|  
+|[数字货币投资宝典]([https://nigdaemon.gitbook.io/how-to-defi-beginnerv2](https://zh.z-library.se/s/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8A%95%E8%B5%84%E5%AE%9D%E5%85%B8?))|-|6.5|Z-Library|  
 
 **[百度网盘链接](https://pan.baidu.com/s/117H39_qh83Uq2YoepaNUEw) ```提取码：6jte```**
 |书名|内容|豆瓣评分|备注|  
