@@ -33,18 +33,10 @@
 
 # 本周更新内容
 ```
-2024-2.9
+2024-3-30
 # README
-- Crypto Fees：加密资产分析工具，包含交易费，价值流向，质押数据分析等
-- Glassnode Studio：加密资产分析工具
-- CryptoQuant：加密资产分析工具
-- Defillama：加密资产分析工具
-- Coinmarketcal：加密资产分析工具
-- Dune：加密资产分析工具
-- Coin Metrics：加密资产分析工具
-- Coin Dance：比特币资产分析工具
-- Nansen：加密资产分析工具
-- Binance Research：项目分析报告
+- Whales Market：场外的去中心化交易平台，用户可以交易积分等资产
+- Galxe Compass：Galxe 提供的项目数据分析
 ```
 # 状态
 
@@ -353,6 +345,7 @@
 | [非小号](https://www.feixiaohaozh.info/)                     | 投资：加密资产价格跟踪                                       | 中文   | ⭐⭐⭐⭐⭐ |
 | [Coingecko](https://www.coingecko.com/zh)                    | 投资：加密资产价格跟踪                                       | 中文   | ⭐⭐⭐⭐  |
 | [CoinDesk](https://www.coindesk.com/)                        | 投资：加密资产价格跟踪                                       | EN     | ⭐⭐⭐   |
+| [OKLINK](https://www.oklink.com/cn)                          | 投资：加密资产价格跟踪                                       | 多国语 | ⭐⭐⭐⭐  |
 | [Messari](https://messari.io/)                               | 投资：加密资产分析工具                                       | EN     | ⭐⭐⭐⭐  |
 | [Dextools](https://www.dextools.io/app/cn/pairs)             | 投资：加密资产分析工具                                       | 多国语 | ⭐⭐⭐⭐  |
 | [Dexacreener](https://dexscreener.com/)                      | 投资：加密资产分析工具                                       | EN     | ⭐⭐⭐⭐  |
@@ -367,10 +360,14 @@
 | [Ultra sound money](https://ultrasound.money/)               | 投资：以太坊资产分析工具                                     | EN     | ⭐⭐⭐⭐  |
 | [L2BEAT](https://l2beat.com/scaling/tvl/)                    | 投资：以太坊 Layer2 资产分析工具                             | EN     | ⭐⭐⭐⭐  |
 | [Crypto Fees](https://cryptofees.info/)                      | 投资：加密资产分析工具，包含交易费，价值流向，质押数据分析等 | EN     | ⭐⭐⭐⭐  |
+| [Staking Reward](https://www.stakingrewards.com/)            | 投资：专注于链上质押数据分析的工具                           | EN     | ⭐⭐⭐⭐  |
 | [加密货币贪婪指数](https://history.btc123.fans/zhishu/)      | 投资：加密货币贪婪指数                                       | 中文   | ⭐⭐⭐⭐  |
 | [Binance Research](https://www.binance.com/en/research)      | 投资：项目分析报告                                           | 多国语 | ⭐⭐⭐⭐  |
+| [Galxe Compass](https://galxe.com/compass?utm_source=Twitter&utm_medium=Kolnetwork&utm_campaign=Compass2024Mar219CN) | Galxe 提供的项目数据分析                                     | EN     | ⭐⭐⭐   |
 | [Bitcointalk](https://bitcointalk.org/)                      | 论坛<br>1.中本聪创建的比特币论坛<br>2. BIP 草案主流讨论区    | EN     | ⭐⭐⭐⭐⭐ |
 | [xLog](https://xlog.app/)                                    | 博客：链上，开源博客                                         | 中文   | ⭐⭐⭐   |
+| [ChainList](https://chainlist.org/zh)                        | ChainList 是 EVM 网络的列表。 用户可以使用这些信息将他们的钱包和 Web3 中间件提供商连接到适当的Chain ID 和网络 ID，以连接到正确的链 | 中文   | ⭐⭐⭐⭐  |
+| [Whales Market](https://app.whales.market/)                  | 场外的去中心化交易平台，用户可以交易积分等资产               | EN     | ⭐⭐⭐   |
 
 # 📂平台与开发
 
