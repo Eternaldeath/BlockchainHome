@@ -33,10 +33,10 @@
 
 # 本周更新内容
 ```
-2024-3-30
+2024-4-6
 # README
-- Whales Market：场外的去中心化交易平台，用户可以交易积分等资产
-- Galxe Compass：Galxe 提供的项目数据分析
+- Rootdata：RootData 是一个 Web3 资产数据平台，率先封装 Web3 资产的链上链下数据，数据结构化更高、可读性更高，致力于成为 Web3 爱好者与投资者的生产力级别工具
+- Token Unlocks：投资：代币解锁情况分析
 ```
 # 状态
 
@@ -363,6 +363,8 @@
 | [Staking Reward](https://www.stakingrewards.com/)            | 投资：专注于链上质押数据分析的工具                           | EN     | ⭐⭐⭐⭐  |
 | [加密货币贪婪指数](https://history.btc123.fans/zhishu/)      | 投资：加密货币贪婪指数                                       | 中文   | ⭐⭐⭐⭐  |
 | [Binance Research](https://www.binance.com/en/research)      | 投资：项目分析报告                                           | 多国语 | ⭐⭐⭐⭐  |
+| [Rootdata](https://www.rootdata.com/)                        | 投资：项目分析报告                                           | 多国语 | ⭐⭐⭐⭐  |
+| Token Unlocks                                                | 投资：代币解锁情况分析                                       | EN     |       |
 | [Galxe Compass](https://galxe.com/compass?utm_source=Twitter&utm_medium=Kolnetwork&utm_campaign=Compass2024Mar219CN) | Galxe 提供的项目数据分析                                     | EN     | ⭐⭐⭐   |
 | [Bitcointalk](https://bitcointalk.org/)                      | 论坛<br>1.中本聪创建的比特币论坛<br>2. BIP 草案主流讨论区    | EN     | ⭐⭐⭐⭐⭐ |
 | [xLog](https://xlog.app/)                                    | 博客：链上，开源博客                                         | 中文   | ⭐⭐⭐   |
