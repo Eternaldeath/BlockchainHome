@@ -33,10 +33,9 @@
 
 # 本周更新内容
 ```
-2024-4-6
+2024-4-21
 # README
-- Rootdata：RootData 是一个 Web3 资产数据平台，率先封装 Web3 资产的链上链下数据，数据结构化更高、可读性更高，致力于成为 Web3 爱好者与投资者的生产力级别工具
-- Token Unlocks：投资：代币解锁情况分析
+- Airdropping.me：由加密货币市场的 KOL 搭建的空投咨询平台
 ```
 # 状态
 
@@ -370,6 +369,7 @@
 | [xLog](https://xlog.app/)                                    | 博客：链上，开源博客                                         | 中文   | ⭐⭐⭐   |
 | [ChainList](https://chainlist.org/zh)                        | ChainList 是 EVM 网络的列表。 用户可以使用这些信息将他们的钱包和 Web3 中间件提供商连接到适当的Chain ID 和网络 ID，以连接到正确的链 | 中文   | ⭐⭐⭐⭐  |
 | [Whales Market](https://app.whales.market/)                  | 场外的去中心化交易平台，用户可以交易积分等资产               | EN     | ⭐⭐⭐   |
+| [Airdropping.me](https://airdropping.me/)                    | 由加密货币市场的 KOL 搭建的空投咨询平台                      | 中文   | ⭐⭐⭐   |
 
 # 📂平台与开发
 
