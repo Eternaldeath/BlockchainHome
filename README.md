@@ -33,10 +33,10 @@
 
 # 本周更新内容
 ```
-2024-4-21
+2024-05-04
 # README
-- Airdropping.me：由加密货币市场的 KOL 搭建的空投咨询平台
-- 百度网盘内容丢失，移除无效链接
+- 币圈工具箱，如钱包安全监测，实时 GAS 等
+- Crypto Bubbles：通过泡泡的方式展示加密货币数据
 ```
 # 状态
 
@@ -332,6 +332,7 @@
 | [Dune](https://dune.com/)                                    | 投资：加密资产分析工具                                       | EN     | ⭐⭐⭐⭐  |
 | [Nansen](https://www.nansen.ai/)                             | 投资：加密资产分析工具                                       | EN     | ⭐⭐⭐   |
 | [Coin Metrics](https://coinmetrics.io/)                      | 投资：加密资产分析工具                                       | EN     | ⭐⭐⭐⭐  |
+| [Crypto Bubbles](https://cryptobubbles.net/)                 | 投资：加密资产分析工具，通过泡泡的方式展示加密货币数据       | 多国语 | ⭐⭐⭐⭐  |
 | [Coin Dance](https://coin.dance/)                            | 投资：比特币资产分析工具                                     | EN     | ⭐⭐⭐   |
 | [Ultra sound money](https://ultrasound.money/)               | 投资：以太坊资产分析工具                                     | EN     | ⭐⭐⭐⭐  |
 | [L2BEAT](https://l2beat.com/scaling/tvl/)                    | 投资：以太坊 Layer2 资产分析工具                             | EN     | ⭐⭐⭐⭐  |
@@ -347,6 +348,7 @@
 | [ChainList](https://chainlist.org/zh)                        | ChainList 是 EVM 网络的列表。 用户可以使用这些信息将他们的钱包和 Web3 中间件提供商连接到适当的Chain ID 和网络 ID，以连接到正确的链 | 中文   | ⭐⭐⭐⭐  |
 | [Whales Market](https://app.whales.market/)                  | 场外的去中心化交易平台，用户可以交易积分等资产               | EN     | ⭐⭐⭐   |
 | [Airdropping.me](https://airdropping.me/)                    | 由加密货币市场的 KOL 搭建的空投咨询平台                      | 中文   | ⭐⭐⭐   |
+| [Mct](https://mct.xyz/)                                      | 币圈工具箱，如钱包安全监测，实时 GAS 等                      | 多国语 | ⭐⭐⭐⭐  |
 
 # 📂平台与开发
 
