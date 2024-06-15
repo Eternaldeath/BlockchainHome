@@ -28,15 +28,18 @@
   
 - 更多内容
 
-  | 📰 [精选](https://github.com/Eternaldeath/blockchainHome/blob/main/%E6%9D%82%E8%B0%88.md) | 收集独立的区块链相关文章 |
+  | 其他版块                                                     | 内容                     |
   | ------------------------------------------------------------ | ------------------------ |
+  | 📰 [精选](https://github.com/Eternaldeath/blockchainHome/blob/main/%E6%9D%82%E8%B0%88.md) | 收集独立的区块链相关文章 |
 
 # 本周更新内容
 ```
-2024-05-04
+2024-06-15
 # README
-- 币圈工具箱，如钱包安全监测，实时 GAS 等
-- Crypto Bubbles：通过泡泡的方式展示加密货币数据
+- AirDrops：查询空投信息
+- AirDropsAlert：查询空投信息
+# 杂谈
+- 比特币钱包、交易所又出事了？千万级资金被盗，大佬也翻车：重点看一看里面关于介绍加密数字货币安全的部分
 ```
 # 状态
 
@@ -349,6 +352,8 @@
 | [Whales Market](https://app.whales.market/)                  | 场外的去中心化交易平台，用户可以交易积分等资产               | EN     | ⭐⭐⭐   |
 | [Airdropping.me](https://airdropping.me/)                    | 由加密货币市场的 KOL 搭建的空投咨询平台                      | 中文   | ⭐⭐⭐   |
 | [Mct](https://mct.xyz/)                                      | 币圈工具箱，如钱包安全监测，实时 GAS 等                      | 多国语 | ⭐⭐⭐⭐  |
+| [AirDrops](https://airdrops.io/)                             | 空投：查询空投信息的网站                                     | EN     | ⭐⭐⭐   |
+| [AirDropsAlert](https://airdropalert.com/)                   | 空投：查询空投信息的网站                                     | EN     | ⭐⭐⭐⭐  |
 
 # 📂平台与开发
 
